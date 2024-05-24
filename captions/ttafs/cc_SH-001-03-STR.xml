@@ -1,0 +1,612 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tt xmlns="http://www.w3.org/2006/04/ttaf1" xmlns:tts="http://www.w3.org/2006/04/ttaf1#styling" xml:lang="en">
+  <head>
+    <styling>
+      <style id="defaultSpeaker" tts:fontSize="24" tts:fontFamily="Arial" tts:fontWeight="normal" tts:fontStyle="normal" tts:textDecoration="none" tts:color="white" tts:backgroundColor="black" tts:textAlign="center" />
+      <style id="defaultCaption" tts:fontSize="24" tts:fontFamily="Arial" tts:fontWeight="normal" tts:fontStyle="normal" tts:textDecoration="none" tts:color="white" tts:backgroundColor="black" tts:textAlign="center" />
+    </styling>
+  </head>
+  <body style="defaultCaption" id="thebody">
+    <div xml:lang="en">
+      <p begin="00:00:00.00" end="00:00:04.60"><metadata ccrow="0" cccol="0"/></p>
+      <p begin="00:00:15.30" end="00:00:17.20"><metadata ccrow="14" cccol="2"/>The ides of March are come.</p>
+      <p begin="00:00:17.20" end="00:00:20.53"><metadata ccrow="14" cccol="3"/>Ay, Caesar, but not gone.</p>
+      <p begin="00:00:20.53" end="00:00:22.27"><metadata ccrow="14" cccol="9"/>Hail, Caesar!</p>
+      <p begin="00:00:22.27" end="00:00:23.67"><metadata ccrow="14" cccol="6"/>Read this schedule.</p>
+      <p begin="00:00:23.67" end="00:00:25.83"><metadata ccrow="13" cccol="2"/>Trebonius doth desire you to<br></br>o&apos;er read, at your best leisure,</p>
+      <p begin="00:00:25.83" end="00:00:27.20"><metadata ccrow="14" cccol="3"/>this his most humble suit.</p>
+      <p begin="00:00:27.20" end="00:00:28.43"><metadata ccrow="14" cccol="3"/>O Caesar, read mine first,</p>
+      <p begin="00:00:28.43" end="00:00:29.97"><metadata ccrow="13" cccol="1"/>for mine&apos;s a suit that touches<br></br>Caesar nearer.</p>
+      <p begin="00:00:29.97" end="00:00:31.17"><metadata ccrow="14" cccol="5"/>Read it, great Caesar.</p>
+      <p begin="00:00:31.17" end="00:00:33.87"><metadata ccrow="13" cccol="0"/>What touches us ourself shall be<br></br>last served.</p>
+      <p begin="00:00:33.87" end="00:00:35.83"><metadata ccrow="13" cccol="3"/>Delay not, Caesar; read it<br></br>instantly.</p>
+      <p begin="00:00:35.83" end="00:00:37.00"><metadata ccrow="14" cccol="4"/>What, is the fellow mad?</p>
+      <p begin="00:00:37.00" end="00:00:38.80"><metadata ccrow="14" cccol="6"/>Sirrah, give place!</p>
+      <p begin="00:00:48.37" end="00:00:51.83"><metadata ccrow="13" cccol="0"/>What, urge you your petitions in<br></br>the street?</p>
+      <p begin="00:00:51.83" end="00:00:54.27"><metadata ccrow="14" cccol="6"/>Come to the Capitol.</p>
+      <p begin="00:01:21.73" end="00:01:26.77"><metadata ccrow="13" cccol="0"/>I wish your enterprise today may<br></br>thrive.</p>
+      <p begin="00:01:26.77" end="00:01:28.57"><metadata ccrow="14" cccol="3"/>What enterprise, Popilius?</p>
+      <p begin="00:01:28.57" end="00:01:30.40"><metadata ccrow="14" cccol="9"/>Fare you well.</p>
+      <p begin="00:01:32.23" end="00:01:33.97"><metadata ccrow="14" cccol="4"/>What said Popilius Lena?</p>
+      <p begin="00:01:33.97" end="00:01:36.30"><metadata ccrow="13" cccol="1"/>He wish&apos;d today our enterprise<br></br>might thrive.</p>
+      <p begin="00:01:36.30" end="00:01:38.03"><metadata ccrow="13" cccol="5"/>I fear our purpose is<br></br>discovered.</p>
+      <p begin="00:01:42.77" end="00:01:45.83"><metadata ccrow="13" cccol="2"/>Look how he makes to Caesar;<br></br>mark him.</p>
+      <p begin="00:01:45.83" end="00:01:48.53"><metadata ccrow="13" cccol="1"/>Casca, be sudden, for we fear<br></br>prevention.</p>
+      <p begin="00:01:48.53" end="00:01:50.23"><metadata ccrow="14" cccol="2"/>Brutus, what shall be done?</p>
+      <p begin="00:01:50.23" end="00:01:53.03"><metadata ccrow="13" cccol="2"/>If this be known, Cassius or<br></br>Caesar never shall turn back,</p>
+      <p begin="00:01:53.03" end="00:01:54.27"><metadata ccrow="14" cccol="4"/>for I will slay myself.</p>
+      <p begin="00:01:54.27" end="00:01:56.03"><metadata ccrow="14" cccol="5"/>Cassius, be constant.</p>
+      <p begin="00:02:15.37" end="00:02:19.20"><metadata ccrow="13" cccol="0"/>Popilius Lena speaks not of our<br></br>purposes;</p>
+      <p begin="00:02:19.20" end="00:02:21.83"><metadata ccrow="13" cccol="0"/>for, look, he smiles, and Caesar<br></br>doth not change.</p>
+      <p begin="00:02:21.83" end="00:02:25.70"><metadata ccrow="13" cccol="1"/>Trebonius knows his time, for,<br></br>look you, Brutus,</p>
+      <p begin="00:02:25.70" end="00:02:29.40"><metadata ccrow="13" cccol="0"/>he draws Mark Antony out of the<br></br>way.</p>
+      <p begin="00:02:29.40" end="00:02:30.73"><metadata ccrow="14" cccol="3"/>Where is Metellus Cimber?</p>
+      <p begin="00:02:30.73" end="00:02:33.07"><metadata ccrow="13" cccol="0"/>Let him go and presently prefer<br></br>his suit to Caesar.</p>
+      <p begin="00:02:33.07" end="00:02:35.77"><metadata ccrow="13" cccol="0"/>He is address&apos;d; press near and<br></br>second him.</p>
+      <p begin="00:02:38.47" end="00:02:41.60"><metadata ccrow="13" cccol="1"/>Casca, you are the first that<br></br>rears your hand.</p>
+      <p begin="00:02:41.60" end="00:02:45.33"><metadata ccrow="13" cccol="1"/>What is now amiss that Caesar<br></br>and his Senate must redress?</p>
+      <p begin="00:02:45.33" end="00:02:48.70"><metadata ccrow="13" cccol="0"/>Most high, most mighty, and most<br></br>puissant Caesar,</p>
+      <p begin="00:02:48.70" end="00:02:52.17"><metadata ccrow="13" cccol="1"/>Metellus Cimber throws before<br></br>thy seat an humble heart.</p>
+      <p begin="00:02:52.17" end="00:02:53.63"><metadata ccrow="14" cccol="2"/>I must prevent thee, Cimber.</p>
+      <p begin="00:02:53.63" end="00:02:56.03"><metadata ccrow="13" cccol="0"/>These couchings and these lowly<br></br>courtesies</p>
+      <p begin="00:02:56.03" end="00:02:57.70"><metadata ccrow="13" cccol="0"/>might fire the blood of ordinary<br></br>men</p>
+      <p begin="00:02:57.70" end="00:03:01.63"><metadata ccrow="13" cccol="0"/>and turn preordinance and first<br></br>decree into the law of children.</p>
+      <p begin="00:03:01.63" end="00:03:05.90"><metadata ccrow="13" cccol="0"/>Be not fond to think that Caesar<br></br>bears such rebel blood</p>
+      <p begin="00:03:05.90" end="00:03:07.60"><metadata ccrow="13" cccol="2"/>that will be thaw&apos;d from the<br></br>true quality</p>
+      <p begin="00:03:07.60" end="00:03:09.23"><metadata ccrow="14" cccol="1"/>with that which melteth fools.</p>
+      <p begin="00:03:09.23" end="00:03:12.33"><metadata ccrow="13" cccol="0"/>I mean sweet words, low-crooked<br></br>court&apos;sies,</p>
+      <p begin="00:03:12.33" end="00:03:14.47"><metadata ccrow="14" cccol="3"/>and base spaniel-fawning.</p>
+      <p begin="00:03:14.47" end="00:03:16.87"><metadata ccrow="13" cccol="4"/>Thy brother by decree is<br></br>banished.</p>
+      <p begin="00:03:16.87" end="00:03:20.17"><metadata ccrow="13" cccol="1"/>If thou dost bend and pray and<br></br>fawn for him,</p>
+      <p begin="00:03:20.17" end="00:03:23.60"><metadata ccrow="13" cccol="1"/>I spurn thee like a cur out of<br></br>my way.</p>
+      <p begin="00:03:23.60" end="00:03:25.07"><metadata ccrow="14" cccol="2"/>Know, Caesar doth not wrong,</p>
+      <p begin="00:03:25.07" end="00:03:27.37"><metadata ccrow="13" cccol="2"/>nor without cause will he be<br></br>satisfied.</p>
+      <p begin="00:03:27.37" end="00:03:29.33"><metadata ccrow="13" cccol="1"/>Is there no voice more worthy<br></br>than my own,</p>
+      <p begin="00:03:29.33" end="00:03:31.80"><metadata ccrow="13" cccol="1"/>to sound more sweetly in great<br></br>Caesar&apos;s ear</p>
+      <p begin="00:03:31.80" end="00:03:33.77"><metadata ccrow="13" cccol="0"/>for the repealing of my banish&apos;d<br></br>brother?</p>
+      <p begin="00:03:33.77" end="00:03:36.23"><metadata ccrow="13" cccol="2"/>I kiss thy hand, but not in<br></br>flattery, Caesar,</p>
+      <p begin="00:03:36.23" end="00:03:37.83"><metadata ccrow="13" cccol="3"/>desiring thee that Publius<br></br>Cimber</p>
+      <p begin="00:03:37.83" end="00:03:39.20"><metadata ccrow="13" cccol="0"/>may have an immediate freedom of<br></br>repeal.</p>
+      <p begin="00:03:39.20" end="00:03:40.40"><metadata ccrow="14" cccol="9"/>What, Brutus?</p>
+      <p begin="00:03:40.40" end="00:03:41.60"><metadata ccrow="14" cccol="8"/>Pardon, Caesar!</p>
+      <p begin="00:03:41.60" end="00:03:42.73"><metadata ccrow="14" cccol="8"/>Caesar, pardon!</p>
+      <p begin="00:03:42.73" end="00:03:44.77"><metadata ccrow="13" cccol="3"/>As low as to thy foot doth<br></br>Cassius fall</p>
+      <p begin="00:03:44.77" end="00:03:47.03"><metadata ccrow="13" cccol="3"/>to beg enfranchisement for<br></br>Publius Cimber.</p>
+      <p begin="00:03:47.03" end="00:03:50.53"><metadata ccrow="13" cccol="0"/>I could be well moved, if I were<br></br>as you;</p>
+      <p begin="00:03:50.53" end="00:03:54.33"><metadata ccrow="13" cccol="1"/>if I could pray to move, then<br></br>prayers would move me;</p>
+      <p begin="00:03:54.33" end="00:03:57.70"><metadata ccrow="13" cccol="4"/>but I am constant as the<br></br>northern star,</p>
+      <p begin="00:03:57.70" end="00:04:00.77"><metadata ccrow="13" cccol="0"/>of whose true-fix&apos;d and resting<br></br>quality</p>
+      <p begin="00:04:00.77" end="00:04:02.77"><metadata ccrow="13" cccol="3"/>there is no fellow in the<br></br>firmament.</p>
+      <p begin="00:04:02.77" end="00:04:06.20"><metadata ccrow="13" cccol="3"/>The skies are painted with<br></br>unnumber&apos;d sparks;</p>
+      <p begin="00:04:06.20" end="00:04:09.43"><metadata ccrow="13" cccol="0"/>they are all fire and every one<br></br>doth shine;</p>
+      <p begin="00:04:09.43" end="00:04:12.17"><metadata ccrow="13" cccol="0"/>but there&apos;s but one in all doth<br></br>hold his place.</p>
+      <p begin="00:04:12.17" end="00:04:16.17"><metadata ccrow="13" cccol="0"/>So in the world, &apos;tis furnish&apos;d<br></br>well with men,</p>
+      <p begin="00:04:16.17" end="00:04:19.30"><metadata ccrow="13" cccol="0"/>and men are flesh and blood, and<br></br>apprehensive;</p>
+      <p begin="00:04:19.30" end="00:04:22.30"><metadata ccrow="13" cccol="0"/>yet in the number I do know but<br></br>one</p>
+      <p begin="00:04:22.30" end="00:04:25.50"><metadata ccrow="13" cccol="1"/>that unassailable holds on his<br></br>rank, unshaked of motion;</p>
+      <p begin="00:04:25.50" end="00:04:29.33"><metadata ccrow="13" cccol="3"/>and that I am he, let me a<br></br>little show it, even in this;</p>
+      <p begin="00:04:29.33" end="00:04:32.10"><metadata ccrow="13" cccol="3"/>that I was constant Cimber<br></br>should be banish&apos;d,</p>
+      <p begin="00:04:32.10" end="00:04:34.27"><metadata ccrow="13" cccol="1"/>and constant do remain to keep<br></br>him so.</p>
+      <p begin="00:04:34.27" end="00:04:35.43"><metadata ccrow="14" cccol="11"/>O Caesar--</p>
+      <p begin="00:04:35.43" end="00:04:37.33"><metadata ccrow="13" cccol="4"/>Hence! Wilt thou lift up<br></br>Olympus?</p>
+      <p begin="00:04:37.33" end="00:04:38.50"><metadata ccrow="14" cccol="9"/>Great Caesar--</p>
+      <p begin="00:04:38.50" end="00:04:40.93"><metadata ccrow="14" cccol="0"/>Doth not Brutus bootless kneel?</p>
+      <p begin="00:04:40.93" end="00:04:43.00"><metadata ccrow="14" cccol="5"/>Speak, hands, for me!</p>
+      <p begin="00:05:18.77" end="00:05:22.90"><metadata ccrow="14" cccol="9"/>Et tu, Brute?</p>
+      <p begin="00:05:22.90" end="00:05:26.87"><metadata ccrow="14" cccol="7"/>Then fall, Caesar.</p>
+      <p begin="00:05:52.13" end="00:05:54.03"><metadata ccrow="14" cccol="12"/>Liberty!</p>
+      <p begin="00:05:54.03" end="00:05:55.23"><metadata ccrow="14" cccol="12"/>Freedom!</p>
+      <p begin="00:05:55.23" end="00:05:56.77"><metadata ccrow="14" cccol="8"/>Tyranny is dead!</p>
+      <p begin="00:05:56.77" end="00:05:59.77"><metadata ccrow="13" cccol="2"/>Run hence, proclaim, cry it<br></br>about the streets!</p>
+      <p begin="00:05:59.77" end="00:06:01.13"><metadata ccrow="14" cccol="2"/>Some to the common pulpits,</p>
+      <p begin="00:06:01.13" end="00:06:03.70"><metadata ccrow="13" cccol="0"/>cry out, &quot;Liberty, freedom, and<br></br>enfranchisement!&quot;</p>
+      <p begin="00:06:03.70" end="00:06:05.40"><metadata ccrow="13" cccol="2"/>People and senators, be not<br></br>affrighted,</p>
+      <p begin="00:06:05.40" end="00:06:08.73"><metadata ccrow="13" cccol="0"/>fly not, stand still; ambition&apos;s<br></br>debt is paid.</p>
+      <p begin="00:06:08.73" end="00:06:10.07"><metadata ccrow="14" cccol="3"/>Go to the pulpit, Brutus.</p>
+      <p begin="00:06:10.07" end="00:06:11.30"><metadata ccrow="14" cccol="8"/>And Cassius too.</p>
+      <p begin="00:06:11.30" end="00:06:12.43"><metadata ccrow="14" cccol="8"/>Where&apos;s Publius?</p>
+      <p begin="00:06:12.43" end="00:06:14.70"><metadata ccrow="13" cccol="0"/>Here, quite confounded with this<br></br>mutiny.</p>
+      <p begin="00:06:14.70" end="00:06:16.47"><metadata ccrow="13" cccol="1"/>Stand fast together, lest some<br></br>friend--</p>
+      <p begin="00:06:16.47" end="00:06:17.90"><metadata ccrow="14" cccol="5"/>Talk not of standing.</p>
+      <p begin="00:06:17.90" end="00:06:21.27"><metadata ccrow="13" cccol="0"/>Publius, good cheer, there is no<br></br>harm intended to your person,</p>
+      <p begin="00:06:21.27" end="00:06:22.50"><metadata ccrow="14" cccol="5"/>nor to no Roman else.</p>
+      <p begin="00:06:22.50" end="00:06:23.83"><metadata ccrow="14" cccol="5"/>So tell them, Publius.</p>
+      <p begin="00:06:23.83" end="00:06:26.30"><metadata ccrow="13" cccol="0"/>And leave us, Publius, lest the<br></br>people rushing on us</p>
+      <p begin="00:06:26.30" end="00:06:27.70"><metadata ccrow="13" cccol="4"/>should do your age some<br></br>mischief.</p>
+      <p begin="00:06:27.70" end="00:06:31.13"><metadata ccrow="13" cccol="0"/>Do so, and let no man abide this<br></br>deed but we the doers.</p>
+      <p begin="00:06:37.53" end="00:06:38.73"><metadata ccrow="14" cccol="8"/>Where is Antony?</p>
+      <p begin="00:06:38.73" end="00:06:40.57"><metadata ccrow="14" cccol="3"/>Fled to his house amazed.</p>
+      <p begin="00:06:40.57" end="00:06:42.30"><metadata ccrow="13" cccol="0"/>Men, wives, and children stare,<br></br>cry out, and run</p>
+      <p begin="00:06:42.30" end="00:06:43.47"><metadata ccrow="14" cccol="6"/>as it were doomsday.</p>
+      <p begin="00:06:43.47" end="00:06:45.10"><metadata ccrow="13" cccol="4"/>Fates, we will know your<br></br>pleasures.</p>
+      <p begin="00:06:45.10" end="00:06:47.73"><metadata ccrow="14" cccol="2"/>That we shall die, we know;</p>
+      <p begin="00:06:47.73" end="00:06:51.60"><metadata ccrow="13" cccol="1"/>&apos;tis but the time and drawing<br></br>days out that men stand upon.</p>
+      <p begin="00:06:51.60" end="00:06:53.63"><metadata ccrow="13" cccol="2"/>Why, he that cuts off twenty<br></br>years of life</p>
+      <p begin="00:06:53.63" end="00:06:55.30"><metadata ccrow="13" cccol="3"/>cuts off so many years of<br></br>fearing death.</p>
+      <p begin="00:06:55.30" end="00:06:57.33"><metadata ccrow="13" cccol="0"/>Grant that, and then is death a<br></br>benefit;</p>
+      <p begin="00:06:57.33" end="00:06:59.67"><metadata ccrow="14" cccol="3"/>so are we Caesar&apos;s friends</p>
+      <p begin="00:06:59.67" end="00:07:02.77"><metadata ccrow="13" cccol="1"/>that have abridged his time of<br></br>fearing death.</p>
+      <p begin="00:07:12.93" end="00:07:16.87"><metadata ccrow="14" cccol="5"/>Stoop, Romans, stoop,</p>
+      <p begin="00:07:16.87" end="00:07:20.03"><metadata ccrow="13" cccol="1"/>and let us bathe our hands in<br></br>Caesar&apos;s blood</p>
+      <p begin="00:07:20.03" end="00:07:24.33"><metadata ccrow="13" cccol="1"/>up to the elbows, and besmear<br></br>our swords.</p>
+      <p begin="00:07:42.23" end="00:07:45.83"><metadata ccrow="13" cccol="0"/>Then walk we forth, even to the<br></br>marketplace,</p>
+      <p begin="00:07:45.83" end="00:07:48.53"><metadata ccrow="13" cccol="0"/>and waving our red weapons o&apos;er<br></br>our heads,</p>
+      <p begin="00:07:48.53" end="00:07:57.03"><metadata ccrow="13" cccol="0"/>Let&apos;s all cry, &quot;Peace, freedom,<br></br>and liberty!&quot;</p>
+      <p begin="00:07:57.03" end="00:08:00.07"><metadata ccrow="14" cccol="5"/>Stoop then, and wash.</p>
+      <p begin="00:08:08.47" end="00:08:12.17"><metadata ccrow="13" cccol="1"/>How many ages hence shall this<br></br>our lofty scene be acted over</p>
+      <p begin="00:08:12.17" end="00:08:15.07"><metadata ccrow="13" cccol="0"/>in states unborn and accents yet<br></br>unknown!</p>
+      <p begin="00:08:15.07" end="00:08:17.30"><metadata ccrow="13" cccol="2"/>How many times shall Caesar<br></br>bleed in sport,</p>
+      <p begin="00:08:17.30" end="00:08:21.07"><metadata ccrow="13" cccol="0"/>that now on Pompey&apos;s basis lies<br></br>along no worthier than the dust.</p>
+      <p begin="00:08:21.07" end="00:08:23.07"><metadata ccrow="14" cccol="4"/>So oft as that shall be,</p>
+      <p begin="00:08:23.07" end="00:08:25.37"><metadata ccrow="13" cccol="0"/>so often shall the knot of us be<br></br>call&apos;d</p>
+      <p begin="00:08:25.37" end="00:08:28.47"><metadata ccrow="13" cccol="0"/>the men that gave their country<br></br>liberty.</p>
+      <p begin="00:08:34.97" end="00:08:38.00"><metadata ccrow="14" cccol="5"/>What, shall we forth?</p>
+      <p begin="00:08:38.00" end="00:08:40.67"><metadata ccrow="14" cccol="6"/>Ay, every man away.</p>
+      <p begin="00:08:40.67" end="00:08:43.70"><metadata ccrow="13" cccol="1"/>Brutus shall lead, and we will<br></br>grace his heels</p>
+      <p begin="00:08:43.70" end="00:08:47.43"><metadata ccrow="13" cccol="1"/>with the most boldest and best<br></br>hearts of Rome.</p>
+      <p begin="00:08:51.70" end="00:08:57.60"><metadata ccrow="13" cccol="0"/>Thus, Brutus, did my master bid<br></br>me kneel,</p>
+      <p begin="00:08:57.60" end="00:09:00.87"><metadata ccrow="13" cccol="0"/>thus did Mark Antony bid me fall<br></br>down,</p>
+      <p begin="00:09:00.87" end="00:09:03.60"><metadata ccrow="13" cccol="2"/>and, being prostrate,thus he<br></br>bade me say:</p>
+      <p begin="00:09:03.60" end="00:09:08.60"><metadata ccrow="13" cccol="0"/>Brutus is noble, wise, valiant,<br></br>and honest;</p>
+      <p begin="00:09:08.60" end="00:09:14.57"><metadata ccrow="13" cccol="0"/>Caesar was mighty, bold, royal,<br></br>and loving.</p>
+      <p begin="00:09:14.57" end="00:09:17.93"><metadata ccrow="13" cccol="1"/>Say I love Brutus and I honor<br></br>him;</p>
+      <p begin="00:09:17.93" end="00:09:23.27"><metadata ccrow="13" cccol="2"/>say I fear&apos;d Caesar, honor&apos;d<br></br>him, and loved him.</p>
+      <p begin="00:09:23.27" end="00:09:25.07"><metadata ccrow="14" cccol="4"/>If Brutus will vouchsafe</p>
+      <p begin="00:09:25.07" end="00:09:27.33"><metadata ccrow="13" cccol="1"/>that Antony may safely come to<br></br>him</p>
+      <p begin="00:09:27.33" end="00:09:31.03"><metadata ccrow="13" cccol="0"/>and be resolved how Caesar hath<br></br>deserved to lie in death,</p>
+      <p begin="00:09:31.03" end="00:09:33.63"><metadata ccrow="13" cccol="3"/>Mark Antony shall not love<br></br>Caesar dead</p>
+      <p begin="00:09:33.63" end="00:09:35.73"><metadata ccrow="14" cccol="3"/>so well as Brutus living,</p>
+      <p begin="00:09:35.73" end="00:09:38.63"><metadata ccrow="13" cccol="0"/>but will follow the fortunes and<br></br>affairs of noble Brutus</p>
+      <p begin="00:09:38.63" end="00:09:41.67"><metadata ccrow="13" cccol="2"/>thorough the hazards of this<br></br>untrod state</p>
+      <p begin="00:09:41.67" end="00:09:44.40"><metadata ccrow="14" cccol="6"/>with all true faith.</p>
+      <p begin="00:09:44.40" end="00:09:46.80"><metadata ccrow="14" cccol="3"/>So says my master Antony.</p>
+      <p begin="00:09:46.80" end="00:09:50.23"><metadata ccrow="13" cccol="0"/>Thy master is a wise and valiant<br></br>Roman;</p>
+      <p begin="00:09:50.23" end="00:09:52.03"><metadata ccrow="14" cccol="3"/>I never thought him worse.</p>
+      <p begin="00:09:52.03" end="00:09:55.30"><metadata ccrow="13" cccol="2"/>Tell him, so please him come<br></br>unto this place,</p>
+      <p begin="00:09:55.30" end="00:09:59.30"><metadata ccrow="13" cccol="0"/>he shall be satisfied and, by my<br></br>honor, depart untouch&apos;d.</p>
+      <p begin="00:10:01.80" end="00:10:03.93"><metadata ccrow="14" cccol="3"/>I&apos;ll fetch him presently.</p>
+      <p begin="00:10:08.47" end="00:10:11.77"><metadata ccrow="13" cccol="1"/>I know that we shall have him<br></br>well to friend.</p>
+      <p begin="00:10:11.77" end="00:10:16.03"><metadata ccrow="13" cccol="0"/>I wish we may, but yet have I a<br></br>mind that fears him much,</p>
+      <p begin="00:10:16.03" end="00:10:19.13"><metadata ccrow="13" cccol="2"/>and my misgiving still falls<br></br>shrewdly to the purpose.</p>
+      <p begin="00:10:35.33" end="00:10:38.23"><metadata ccrow="14" cccol="5"/>Welcome, Mark Antony.</p>
+      <p begin="00:11:05.53" end="00:11:07.90"><metadata ccrow="14" cccol="8"/>O mighty Caesar.</p>
+      <p begin="00:11:07.90" end="00:11:13.77"><metadata ccrow="14" cccol="5"/>Dost thou lie so low?</p>
+      <p begin="00:11:13.77" end="00:11:17.37"><metadata ccrow="13" cccol="0"/>Are all thy conquests, glories,<br></br>triumphs, spoils,</p>
+      <p begin="00:11:17.37" end="00:11:19.80"><metadata ccrow="14" cccol="1"/>shrunk to this little measure?</p>
+      <p begin="00:11:22.90" end="00:11:24.43"><metadata ccrow="14" cccol="8"/>Fare thee well.</p>
+      <p begin="00:11:34.60" end="00:11:37.47"><metadata ccrow="13" cccol="0"/>I know not, gentlemen, what you<br></br>intend,</p>
+      <p begin="00:11:37.47" end="00:11:41.60"><metadata ccrow="13" cccol="0"/>who else must be let blood, who<br></br>else is rank.</p>
+      <p begin="00:11:41.60" end="00:11:45.97"><metadata ccrow="13" cccol="0"/>If I myself, there is no hour so<br></br>fit as Caesar&apos;s death&apos;s hour,</p>
+      <p begin="00:11:45.97" end="00:11:50.03"><metadata ccrow="13" cccol="1"/>nor no instrument of half that<br></br>worth as those your swords,</p>
+      <p begin="00:11:50.03" end="00:11:53.93"><metadata ccrow="13" cccol="1"/>made rich with the most noble<br></br>blood of all this world.</p>
+      <p begin="00:11:57.57" end="00:12:02.57"><metadata ccrow="13" cccol="0"/>I do beseech ye, if you bear me<br></br>hard,</p>
+      <p begin="00:12:02.57" end="00:12:06.50"><metadata ccrow="13" cccol="1"/>now, whilst your purpled hands<br></br>do reek and smoke,</p>
+      <p begin="00:12:06.50" end="00:12:09.60"><metadata ccrow="14" cccol="5"/>fulfill your pleasure.</p>
+      <p begin="00:12:09.60" end="00:12:13.90"><metadata ccrow="13" cccol="1"/>Live a thousand years, I shall<br></br>not find myself so apt to die;</p>
+      <p begin="00:12:13.90" end="00:12:17.57"><metadata ccrow="13" cccol="1"/>no place will please me so, no<br></br>means of death,</p>
+      <p begin="00:12:17.57" end="00:12:21.13"><metadata ccrow="13" cccol="1"/>as here by Caesar, and by you<br></br>cut off,</p>
+      <p begin="00:12:21.13" end="00:12:27.37"><metadata ccrow="13" cccol="0"/>the choice and master spirits of<br></br>this age.</p>
+      <p begin="00:12:27.37" end="00:12:31.97"><metadata ccrow="13" cccol="0"/>O Antony, beg not your death of<br></br>us.</p>
+      <p begin="00:12:31.97" end="00:12:35.10"><metadata ccrow="13" cccol="0"/>Though now we must appear bloody<br></br>and cruel,</p>
+      <p begin="00:12:35.10" end="00:12:38.53"><metadata ccrow="13" cccol="1"/>as, by our hands and this our<br></br>present act you see we do,</p>
+      <p begin="00:12:38.53" end="00:12:41.07"><metadata ccrow="14" cccol="3"/>yet see you but our hands</p>
+      <p begin="00:12:41.07" end="00:12:44.07"><metadata ccrow="13" cccol="1"/>and this the bleeding business<br></br>they have done.</p>
+      <p begin="00:12:44.07" end="00:12:48.43"><metadata ccrow="13" cccol="0"/>Our hearts you see not; they are<br></br>pitiful;</p>
+      <p begin="00:12:48.43" end="00:12:51.33"><metadata ccrow="13" cccol="0"/>and pity to the general wrong of<br></br>Rome--</p>
+      <p begin="00:12:51.33" end="00:12:54.77"><metadata ccrow="13" cccol="0"/>as fire drives out fire, so pity<br></br>pity--</p>
+      <p begin="00:12:54.77" end="00:12:57.37"><metadata ccrow="14" cccol="1"/>Hath done this deed on Caesar.</p>
+      <p begin="00:12:57.37" end="00:13:01.97"><metadata ccrow="13" cccol="0"/>For your part, to you our swords<br></br>have leaden points, Mark Antony;</p>
+      <p begin="00:13:01.97" end="00:13:03.97"><metadata ccrow="14" cccol="0"/>our arms in strength of malice,</p>
+      <p begin="00:13:03.97" end="00:13:06.23"><metadata ccrow="13" cccol="2"/>and our hearts of brothers&apos;<br></br>temper,</p>
+      <p begin="00:13:06.23" end="00:13:08.90"><metadata ccrow="13" cccol="0"/>do receive you in with all kind<br></br>love,</p>
+      <p begin="00:13:08.90" end="00:13:11.40"><metadata ccrow="14" cccol="1"/>good thoughts, and reverence.</p>
+      <p begin="00:13:11.40" end="00:13:13.53"><metadata ccrow="13" cccol="0"/>Your voice shall be as strong as<br></br>any man&apos;s</p>
+      <p begin="00:13:13.53" end="00:13:15.90"><metadata ccrow="13" cccol="4"/>in the disposing of new<br></br>dignities.</p>
+      <p begin="00:13:15.90" end="00:13:18.27"><metadata ccrow="13" cccol="2"/>Only be patient till we have<br></br>appeased the multitude,</p>
+      <p begin="00:13:18.27" end="00:13:19.93"><metadata ccrow="14" cccol="2"/>beside themselves with fear,</p>
+      <p begin="00:13:19.93" end="00:13:22.43"><metadata ccrow="13" cccol="0"/>and then we will deliver you the<br></br>cause why I,</p>
+      <p begin="00:13:22.43" end="00:13:24.77"><metadata ccrow="13" cccol="2"/>that did love Caesar when I<br></br>struck him,</p>
+      <p begin="00:13:24.77" end="00:13:28.30"><metadata ccrow="14" cccol="6"/>have thus proceeded.</p>
+      <p begin="00:13:28.30" end="00:13:30.80"><metadata ccrow="14" cccol="2"/>I doubt not of your wisdom.</p>
+      <p begin="00:13:34.33" end="00:13:39.33"><metadata ccrow="13" cccol="3"/>Let each man render me his<br></br>bloody hand.</p>
+      <p begin="00:13:39.33" end="00:13:43.13"><metadata ccrow="13" cccol="2"/>First, Marcus Brutus, will I<br></br>shake with you;</p>
+      <p begin="00:13:47.43" end="00:13:52.67"><metadata ccrow="13" cccol="1"/>next, Caius Cassius, do I take<br></br>your hand;</p>
+      <p begin="00:13:52.67" end="00:13:55.60"><metadata ccrow="14" cccol="3"/>now, Decius Brutus, yours;</p>
+      <p begin="00:13:55.60" end="00:14:01.00"><metadata ccrow="13" cccol="2"/>yours, good Metellus; yours,<br></br>Cinna;</p>
+      <p begin="00:14:01.00" end="00:14:06.23"><metadata ccrow="14" cccol="1"/>and, my valiant Casca, yours;</p>
+      <p begin="00:14:06.23" end="00:14:11.27"><metadata ccrow="13" cccol="0"/>though last, not least in love,<br></br>yours, good Trebonius.</p>
+      <p begin="00:14:15.97" end="00:14:21.63"><metadata ccrow="14" cccol="9"/>Gentlemen all.</p>
+      <p begin="00:14:21.63" end="00:14:23.50"><metadata ccrow="14" cccol="4"/>Alas, what shall I say?</p>
+      <p begin="00:14:23.50" end="00:14:26.93"><metadata ccrow="13" cccol="2"/>My credit now stands on such<br></br>slippery ground,</p>
+      <p begin="00:14:26.93" end="00:14:29.77"><metadata ccrow="13" cccol="2"/>that one of two bad ways you<br></br>must conceit me,</p>
+      <p begin="00:14:29.77" end="00:14:34.47"><metadata ccrow="14" cccol="0"/>either a coward or a flatterer.</p>
+      <p begin="00:14:38.50" end="00:14:42.63"><metadata ccrow="13" cccol="0"/>That I did love thee, Caesar, O,<br></br>&apos;tis true.</p>
+      <p begin="00:14:42.63" end="00:14:45.77"><metadata ccrow="13" cccol="0"/>If then thy spirit look upon us<br></br>now,</p>
+      <p begin="00:14:45.77" end="00:14:47.97"><metadata ccrow="13" cccol="0"/>shall it not grieve thee dearer<br></br>than thy death</p>
+      <p begin="00:14:47.97" end="00:14:51.47"><metadata ccrow="13" cccol="2"/>to see thy Antony making his<br></br>peace,</p>
+      <p begin="00:14:51.47" end="00:14:55.27"><metadata ccrow="13" cccol="1"/>shaking the bloody fingers of<br></br>thy foes, most noble,</p>
+      <p begin="00:14:55.27" end="00:14:57.33"><metadata ccrow="14" cccol="1"/>in the presence of thy course?</p>
+      <p begin="00:14:57.33" end="00:15:01.03"><metadata ccrow="13" cccol="0"/>Had I as many eyes as thou hast<br></br>wounds,</p>
+      <p begin="00:15:01.03" end="00:15:04.23"><metadata ccrow="13" cccol="1"/>weeping as fast as they stream<br></br>forth thy blood,</p>
+      <p begin="00:15:04.23" end="00:15:05.63"><metadata ccrow="14" cccol="3"/>it would become me better</p>
+      <p begin="00:15:05.63" end="00:15:10.40"><metadata ccrow="13" cccol="3"/>than to close in terms of<br></br>friendship with thine enemies.</p>
+      <p begin="00:15:10.40" end="00:15:14.40"><metadata ccrow="14" cccol="7"/>Pardon me, Julius.</p>
+      <p begin="00:15:14.40" end="00:15:17.43"><metadata ccrow="13" cccol="2"/>Here wast thou bay&apos;d, brave<br></br>hart,</p>
+      <p begin="00:15:17.43" end="00:15:22.73"><metadata ccrow="13" cccol="1"/>here didst thou fall, and here<br></br>thy hunters stand,</p>
+      <p begin="00:15:22.73" end="00:15:34.23"><metadata ccrow="13" cccol="4"/>sign&apos;d in thy spoil, and<br></br>crimson&apos;d in thy Lethe.</p>
+      <p begin="00:15:34.23" end="00:15:37.67"><metadata ccrow="13" cccol="1"/>and this, indeed, O world, the<br></br>heart of thee.</p>
+      <p begin="00:15:37.67" end="00:15:45.43"><metadata ccrow="13" cccol="0"/>How like a deer strucken by many<br></br>princes dost thou here lie.</p>
+      <p begin="00:15:45.43" end="00:15:46.57"><metadata ccrow="14" cccol="9"/>Mark Antony--</p>
+      <p begin="00:15:46.57" end="00:15:49.00"><metadata ccrow="14" cccol="3"/>Pardon me, Caius Cassius.</p>
+      <p begin="00:15:49.00" end="00:15:52.23"><metadata ccrow="13" cccol="0"/>The enemies of Caesar shall say<br></br>this:</p>
+      <p begin="00:15:52.23" end="00:15:54.27"><metadata ccrow="13" cccol="1"/>then, in a friend, it is cold<br></br>modesty.</p>
+      <p begin="00:15:54.27" end="00:15:56.57"><metadata ccrow="13" cccol="2"/>I blame you not for praising<br></br>Caesar so;</p>
+      <p begin="00:15:56.57" end="00:15:59.63"><metadata ccrow="13" cccol="2"/>but what compact mean you to<br></br>have with us?</p>
+      <p begin="00:15:59.63" end="00:16:01.80"><metadata ccrow="13" cccol="0"/>Will you be prick&apos;d in number of<br></br>our friends,</p>
+      <p begin="00:16:01.80" end="00:16:04.03"><metadata ccrow="13" cccol="1"/>or shall we on, and not depend<br></br>on you?</p>
+      <p begin="00:16:04.03" end="00:16:06.90"><metadata ccrow="14" cccol="2"/>Therefore I took your hand,</p>
+      <p begin="00:16:06.90" end="00:16:12.07"><metadata ccrow="13" cccol="1"/>but was indeed sway&apos;d from the<br></br>point by looking down on Caesar.</p>
+      <p begin="00:16:12.07" end="00:16:18.27"><metadata ccrow="13" cccol="1"/>Friends am I with you all and<br></br>love you all,</p>
+      <p begin="00:16:18.27" end="00:16:21.80"><metadata ccrow="13" cccol="1"/>upon this hope that you shall<br></br>give me reasons</p>
+      <p begin="00:16:21.80" end="00:16:25.13"><metadata ccrow="13" cccol="3"/>why and wherein Caesar was<br></br>dangerous.</p>
+      <p begin="00:16:25.13" end="00:16:27.73"><metadata ccrow="13" cccol="3"/>Or else were this a savage<br></br>spectacle.</p>
+      <p begin="00:16:27.73" end="00:16:31.83"><metadata ccrow="13" cccol="0"/>Our reasons are so full of good<br></br>regard that were you, Antony,</p>
+      <p begin="00:16:31.83" end="00:16:35.73"><metadata ccrow="13" cccol="0"/>the son of Caesar, you should be<br></br>satisfied.</p>
+      <p begin="00:16:35.73" end="00:16:39.97"><metadata ccrow="13" cccol="3"/>That&apos;s all I seek; and am<br></br>moreover suitor</p>
+      <p begin="00:16:39.97" end="00:16:43.23"><metadata ccrow="13" cccol="1"/>that I may produce his body to<br></br>the marketplace,</p>
+      <p begin="00:16:43.23" end="00:16:46.47"><metadata ccrow="13" cccol="0"/>and in the pulpit, as becomes a<br></br>friend,</p>
+      <p begin="00:16:46.47" end="00:16:52.03"><metadata ccrow="13" cccol="3"/>speak in the order of his<br></br>funeral.</p>
+      <p begin="00:16:52.03" end="00:16:55.33"><metadata ccrow="14" cccol="4"/>You shall, Mark Antony.</p>
+      <p begin="00:16:55.33" end="00:16:58.47"><metadata ccrow="14" cccol="4"/>Brutus, a word with you.</p>
+      <p begin="00:17:03.17" end="00:17:05.47"><metadata ccrow="14" cccol="3"/>You know not what you do.</p>
+      <p begin="00:17:05.47" end="00:17:07.30"><metadata ccrow="13" cccol="0"/>Do not consent that Antony speak<br></br>in his funeral.</p>
+      <p begin="00:17:07.30" end="00:17:09.03"><metadata ccrow="13" cccol="0"/>Know you how much the people may<br></br>be moved</p>
+      <p begin="00:17:09.03" end="00:17:10.37"><metadata ccrow="14" cccol="5"/>by that he will utter?</p>
+      <p begin="00:17:10.37" end="00:17:13.27"><metadata ccrow="13" cccol="1"/>By your pardon, I will myself<br></br>into the pulpit first,</p>
+      <p begin="00:17:13.27" end="00:17:15.03"><metadata ccrow="13" cccol="3"/>and show the reason of our<br></br>Caesar&apos;s death.</p>
+      <p begin="00:17:15.03" end="00:17:16.40"><metadata ccrow="14" cccol="4"/>What Antony shall speak,</p>
+      <p begin="00:17:16.40" end="00:17:18.60"><metadata ccrow="13" cccol="2"/>I will protest he speaks by<br></br>leave and by permission,</p>
+      <p begin="00:17:18.60" end="00:17:20.90"><metadata ccrow="13" cccol="0"/>and that we are contented Caesar<br></br>shall have</p>
+      <p begin="00:17:20.90" end="00:17:23.03"><metadata ccrow="13" cccol="3"/>all true rites and lawful<br></br>ceremonies.</p>
+      <p begin="00:17:23.03" end="00:17:25.73"><metadata ccrow="13" cccol="0"/>It shall advantage more than do<br></br>us wrong.</p>
+      <p begin="00:17:27.40" end="00:17:30.17"><metadata ccrow="13" cccol="0"/>I know not what may fall; I like<br></br>it not.</p>
+      <p begin="00:17:35.77" end="00:17:38.83"><metadata ccrow="13" cccol="2"/>Mark Antony, here, take you<br></br>Caesar&apos;s body.</p>
+      <p begin="00:17:38.83" end="00:17:41.50"><metadata ccrow="13" cccol="1"/>You shall not in your funeral<br></br>speech blame us,</p>
+      <p begin="00:17:41.50" end="00:17:43.70"><metadata ccrow="13" cccol="3"/>but speak all good you can<br></br>devise of Caesar,</p>
+      <p begin="00:17:43.70" end="00:17:45.63"><metadata ccrow="13" cccol="4"/>and say you do&apos;t by our<br></br>permission,</p>
+      <p begin="00:17:45.63" end="00:17:48.77"><metadata ccrow="13" cccol="0"/>else shall you not have any hand<br></br>at all about his funeral.</p>
+      <p begin="00:17:48.77" end="00:17:51.93"><metadata ccrow="13" cccol="0"/>and you shall speak in the same<br></br>pulpit whereto I am going,</p>
+      <p begin="00:17:51.93" end="00:17:54.00"><metadata ccrow="14" cccol="3"/>after my speech is ended.</p>
+      <p begin="00:17:54.00" end="00:17:57.40"><metadata ccrow="14" cccol="1"/>Be it so, I do desire no more.</p>
+      <p begin="00:17:57.40" end="00:18:01.70"><metadata ccrow="13" cccol="3"/>Prepare the body then, and<br></br>follow us.</p>
+      <p begin="00:18:17.17" end="00:18:20.40"><metadata ccrow="13" cccol="2"/>O, pardon me, thou bleeding<br></br>piece of earth,</p>
+      <p begin="00:18:20.40" end="00:18:26.73"><metadata ccrow="13" cccol="1"/>that I am meek and gentle with<br></br>these butchers!</p>
+      <p begin="00:18:26.73" end="00:18:29.63"><metadata ccrow="13" cccol="3"/>Thou art the ruins of the<br></br>noblest man</p>
+      <p begin="00:18:29.63" end="00:18:33.83"><metadata ccrow="13" cccol="1"/>that ever lived in the tide of<br></br>times.</p>
+      <p begin="00:18:33.83" end="00:18:37.57"><metadata ccrow="13" cccol="1"/>Woe to the hand that shed his<br></br>costly blood.</p>
+      <p begin="00:18:37.57" end="00:18:41.50"><metadata ccrow="13" cccol="4"/>Over thy wounds now do I<br></br>prophesy,</p>
+      <p begin="00:18:41.50" end="00:18:43.97"><metadata ccrow="13" cccol="1"/>which like dumb mouths do ope<br></br>their ruby lips</p>
+      <p begin="00:18:43.97" end="00:18:47.77"><metadata ccrow="13" cccol="1"/>to beg the voice and utterance<br></br>of my tongue.</p>
+      <p begin="00:18:47.77" end="00:18:50.23"><metadata ccrow="13" cccol="2"/>A curse shall light upon the<br></br>limbs of men;</p>
+      <p begin="00:18:50.23" end="00:18:54.00"><metadata ccrow="13" cccol="1"/>domestic fury and fierce civil<br></br>strife</p>
+      <p begin="00:18:54.00" end="00:18:56.60"><metadata ccrow="13" cccol="1"/>shall cumber all the parts of<br></br>Italy;</p>
+      <p begin="00:18:56.60" end="00:18:59.33"><metadata ccrow="13" cccol="1"/>blood and destruction shall be<br></br>so in use,</p>
+      <p begin="00:18:59.33" end="00:19:01.57"><metadata ccrow="13" cccol="4"/>and dreadful objects so<br></br>familiar,</p>
+      <p begin="00:19:01.57" end="00:19:03.57"><metadata ccrow="14" cccol="2"/>that mothers shall but smile</p>
+      <p begin="00:19:03.57" end="00:19:07.17"><metadata ccrow="13" cccol="1"/>when they behold their infants<br></br>quarter&apos;d with the hands of war;</p>
+      <p begin="00:19:07.17" end="00:19:10.23"><metadata ccrow="13" cccol="1"/>all pity choked with custom of<br></br>fell deeds,</p>
+      <p begin="00:19:10.23" end="00:19:13.90"><metadata ccrow="13" cccol="0"/>and Caesar&apos;s spirit ranging for<br></br>revenge,</p>
+      <p begin="00:19:13.90" end="00:19:17.17"><metadata ccrow="13" cccol="1"/>with Ate by his side come hot<br></br>from hell,</p>
+      <p begin="00:19:17.17" end="00:19:23.57"><metadata ccrow="13" cccol="1"/>shall in these confines with a<br></br>monarch&apos;s voice cry &quot;havoc!&quot;</p>
+      <p begin="00:19:23.57" end="00:19:26.70"><metadata ccrow="14" cccol="1"/>And let slip the dogs of war,</p>
+      <p begin="00:19:26.70" end="00:19:30.63"><metadata ccrow="13" cccol="0"/>that this foul deed shall smell<br></br>above the earth</p>
+      <p begin="00:19:30.63" end="00:19:35.27"><metadata ccrow="13" cccol="1"/>with carrion men, groaning for<br></br>burial.</p>
+      <p begin="00:19:43.77" end="00:19:46.93"><metadata ccrow="13" cccol="1"/>You serve Octavius Caesar, do<br></br>you not?</p>
+      <p begin="00:19:46.93" end="00:19:49.67"><metadata ccrow="14" cccol="7"/>I do, Mark Antony.</p>
+      <p begin="00:19:49.67" end="00:19:52.07"><metadata ccrow="13" cccol="0"/>Caesar did write for him to come<br></br>to Rome.</p>
+      <p begin="00:19:52.07" end="00:19:54.03"><metadata ccrow="13" cccol="0"/>He did receive his letters, and<br></br>is coming,</p>
+      <p begin="00:19:54.03" end="00:19:57.50"><metadata ccrow="13" cccol="0"/>and bid me say to you by word of<br></br>mouth--</p>
+      <p begin="00:19:57.50" end="00:19:59.03"><metadata ccrow="14" cccol="11"/>O Caesar!</p>
+      <p begin="00:20:01.43" end="00:20:05.37"><metadata ccrow="13" cccol="0"/>Thy heart is big; get thee apart<br></br>and weep.</p>
+      <p begin="00:20:08.37" end="00:20:10.57"><metadata ccrow="13" cccol="0"/>Passion, I see, is catching, for<br></br>mine eyes,</p>
+      <p begin="00:20:10.57" end="00:20:14.60"><metadata ccrow="13" cccol="2"/>seeing those beads of sorrow<br></br>stand in thine, began to water.</p>
+      <p begin="00:20:18.60" end="00:20:20.17"><metadata ccrow="14" cccol="5"/>Is thy master coming?</p>
+      <p begin="00:20:20.17" end="00:20:23.50"><metadata ccrow="13" cccol="2"/>He lies tonight within seven<br></br>leagues of Rome.</p>
+      <p begin="00:20:23.50" end="00:20:26.00"><metadata ccrow="13" cccol="1"/>Post back with speed and tell<br></br>him what hath chanced.</p>
+      <p begin="00:20:26.00" end="00:20:31.37"><metadata ccrow="13" cccol="3"/>Here is a mourning Rome, a<br></br>dangerous Rome,</p>
+      <p begin="00:20:31.37" end="00:20:35.20"><metadata ccrow="13" cccol="1"/>no Rome of safety for Octavius<br></br>yet;</p>
+      <p begin="00:20:35.20" end="00:20:37.47"><metadata ccrow="14" cccol="2"/>hie hence, and tell him so.</p>
+      <p begin="00:20:37.47" end="00:20:44.23"><metadata ccrow="13" cccol="0"/>Yet stay awhile, thou shalt not<br></br>back</p>
+      <p begin="00:20:44.23" end="00:20:48.27"><metadata ccrow="13" cccol="1"/>till I have borne this corpse<br></br>into the marketplace.</p>
+      <p begin="00:20:48.27" end="00:20:50.47"><metadata ccrow="13" cccol="4"/>There shall I try, in my<br></br>oration,</p>
+      <p begin="00:20:50.47" end="00:20:56.03"><metadata ccrow="13" cccol="1"/>how the people take the cruel<br></br>issue of these bloody men,</p>
+      <p begin="00:20:56.03" end="00:20:59.30"><metadata ccrow="13" cccol="2"/>according to the which thou<br></br>shalt discourse</p>
+      <p begin="00:20:59.30" end="00:21:02.47"><metadata ccrow="13" cccol="1"/>to young Octavius of the state<br></br>of things.</p>
+      <p begin="00:21:23.17" end="00:21:27.50"><metadata ccrow="13" cccol="3"/>Then follow me and give me<br></br>audience, friends!</p>
+      <p begin="00:21:27.50" end="00:21:30.80"><metadata ccrow="13" cccol="1"/>Cassius, go you into the other<br></br>street and part the numbers.</p>
+      <p begin="00:21:30.80" end="00:21:33.60"><metadata ccrow="13" cccol="1"/>Those that will hear me speak,<br></br>let &apos;em stay here;</p>
+      <p begin="00:21:33.60" end="00:21:37.07"><metadata ccrow="13" cccol="0"/>those that will follow Cassius,<br></br>go with him;</p>
+      <p begin="00:21:37.07" end="00:21:40.57"><metadata ccrow="13" cccol="2"/>and public reasons shall be<br></br>rendered Of Caesar&apos;s death.</p>
+      <p begin="00:21:51.33" end="00:21:54.60"><metadata ccrow="14" cccol="3"/>Be patient till the last!</p>
+      <p begin="00:21:54.60" end="00:22:00.50"><metadata ccrow="14" cccol="0"/>Romans, countrymen, and lovers.</p>
+      <p begin="00:22:00.50" end="00:22:07.93"><metadata ccrow="13" cccol="2"/>Hear me for my cause, and be<br></br>silent, that you may hear.</p>
+      <p begin="00:22:07.93" end="00:22:09.87"><metadata ccrow="14" cccol="3"/>Believe me for mine honor,</p>
+      <p begin="00:22:09.87" end="00:22:15.13"><metadata ccrow="13" cccol="0"/>and have respect to mine honor,<br></br>that you may believe.</p>
+      <p begin="00:22:15.13" end="00:22:19.73"><metadata ccrow="13" cccol="1"/>Censure me in your wisdom, and<br></br>awake your senses,</p>
+      <p begin="00:22:19.73" end="00:22:22.97"><metadata ccrow="14" cccol="1"/>that you may the better judge.</p>
+      <p begin="00:22:22.97" end="00:22:26.40"><metadata ccrow="13" cccol="4"/>If there be any in this<br></br>assembly,</p>
+      <p begin="00:22:26.40" end="00:22:30.40"><metadata ccrow="13" cccol="0"/>any dear friend of Caesar&apos;s, to<br></br>him I say</p>
+      <p begin="00:22:30.40" end="00:22:36.23"><metadata ccrow="13" cccol="0"/>that Brutus&apos; love to Caesar was<br></br>no less than his.</p>
+      <p begin="00:22:36.23" end="00:22:41.47"><metadata ccrow="13" cccol="1"/>If then that friend demand why<br></br>Brutus rose against Caesar,</p>
+      <p begin="00:22:41.47" end="00:22:47.77"><metadata ccrow="13" cccol="1"/>this is my answer: not that I<br></br>loved Caesar less,</p>
+      <p begin="00:22:47.77" end="00:22:51.07"><metadata ccrow="14" cccol="2"/>but that I loved Rome more.</p>
+      <p begin="00:22:54.57" end="00:22:59.33"><metadata ccrow="13" cccol="3"/>Had you rather Caesar were<br></br>living and die all slaves,</p>
+      <p begin="00:22:59.33" end="00:23:04.80"><metadata ccrow="13" cccol="1"/>than that Caesar were dead to<br></br>live all freemen?</p>
+      <p begin="00:23:06.53" end="00:23:08.93"><metadata ccrow="13" cccol="1"/>As Caesar loved me, I weep for<br></br>him;</p>
+      <p begin="00:23:08.93" end="00:23:12.03"><metadata ccrow="13" cccol="1"/>as he was fortunate, I rejoice<br></br>at it;</p>
+      <p begin="00:23:12.03" end="00:23:15.10"><metadata ccrow="14" cccol="0"/>as he was valiant, I honor him;</p>
+      <p begin="00:23:15.10" end="00:23:22.77"><metadata ccrow="13" cccol="0"/>but as he was ambitious, I slew<br></br>him!</p>
+      <p begin="00:23:24.93" end="00:23:30.27"><metadata ccrow="13" cccol="0"/>There is tears for his love, joy<br></br>for his fortune,</p>
+      <p begin="00:23:30.27" end="00:23:34.83"><metadata ccrow="13" cccol="1"/>honor for his valor, and death<br></br>for his ambition.</p>
+      <p begin="00:23:34.83" end="00:23:42.67"><metadata ccrow="13" cccol="1"/>Who is here so base that would<br></br>be a bondman?</p>
+      <p begin="00:23:42.67" end="00:23:46.87"><metadata ccrow="13" cccol="1"/>If any, speak, for him have I<br></br>offended.</p>
+      <p begin="00:23:46.87" end="00:23:52.07"><metadata ccrow="13" cccol="1"/>Who is here so rude that would<br></br>not be a Roman?</p>
+      <p begin="00:23:52.07" end="00:23:57.70"><metadata ccrow="13" cccol="1"/>If any, speak, for him have I<br></br>offended.</p>
+      <p begin="00:23:57.70" end="00:24:02.97"><metadata ccrow="13" cccol="1"/>Who is here so vile that will<br></br>not love his country?</p>
+      <p begin="00:24:02.97" end="00:24:09.23"><metadata ccrow="13" cccol="1"/>If any, speak, for him have I<br></br>offended.</p>
+      <p begin="00:24:09.23" end="00:24:12.93"><metadata ccrow="14" cccol="6"/>I pause for a reply.</p>
+      <p begin="00:24:15.13" end="00:24:18.17"><metadata ccrow="14" cccol="6"/>None, Brutus, none.</p>
+      <p begin="00:24:18.17" end="00:24:20.00"><metadata ccrow="14" cccol="3"/>Then none have I offended.</p>
+      <p begin="00:24:20.00" end="00:24:25.90"><metadata ccrow="13" cccol="1"/>I have done no more to Caesar<br></br>than you shall do to Brutus.</p>
+      <p begin="00:24:25.90" end="00:24:28.30"><metadata ccrow="13" cccol="2"/>The question of his death is<br></br>enrolled in the Capitol,</p>
+      <p begin="00:24:28.30" end="00:24:31.47"><metadata ccrow="13" cccol="3"/>his glory not extenuated,<br></br>wherein he was worthy,</p>
+      <p begin="00:24:31.47" end="00:24:36.43"><metadata ccrow="13" cccol="1"/>nor his offenses enforced, for<br></br>which he suffered death.</p>
+      <p begin="00:24:38.50" end="00:24:43.27"><metadata ccrow="13" cccol="0"/>Here comes his body, mourned by<br></br>Mark Antony,</p>
+      <p begin="00:24:43.27" end="00:24:47.53"><metadata ccrow="13" cccol="1"/>who, though he had no hand in<br></br>his death,</p>
+      <p begin="00:24:47.53" end="00:24:51.03"><metadata ccrow="13" cccol="0"/>shall receive the benefit of his<br></br>dying,</p>
+      <p begin="00:24:51.03" end="00:24:57.90"><metadata ccrow="13" cccol="0"/>a place in the commonwealth, as<br></br>which of you shall not?</p>
+      <p begin="00:25:07.23" end="00:25:10.17"><metadata ccrow="14" cccol="6"/>With this I depart--</p>
+      <p begin="00:25:10.17" end="00:25:16.23"><metadata ccrow="13" cccol="1"/>that, as I slew my best lover<br></br>for the good of Rome,</p>
+      <p begin="00:25:16.23" end="00:25:20.50"><metadata ccrow="13" cccol="3"/>I have the same dagger for<br></br>myself,</p>
+      <p begin="00:25:20.50" end="00:25:24.87"><metadata ccrow="13" cccol="0"/>when it shall please my country<br></br>to need my death.</p>
+      <p begin="00:25:24.87" end="00:25:27.67"><metadata ccrow="14" cccol="13"/>Live!</p>
+      <p begin="00:25:36.23" end="00:25:39.30"><metadata ccrow="13" cccol="1"/>Good countrymen, let me depart<br></br>alone,</p>
+      <p begin="00:25:39.30" end="00:25:42.07"><metadata ccrow="13" cccol="0"/>and, for my sake, stay here with<br></br>Antony.</p>
+      <p begin="00:25:42.07" end="00:25:45.77"><metadata ccrow="14" cccol="2"/>Do grace to Caesar&apos;s corpse,</p>
+      <p begin="00:25:45.77" end="00:25:50.80"><metadata ccrow="13" cccol="0"/>and grace his speech tending to<br></br>Caesar&apos;s glories,</p>
+      <p begin="00:25:50.80" end="00:25:56.73"><metadata ccrow="13" cccol="3"/>which Mark Antony, by our<br></br>permission, is allow&apos;d to make.</p>
+      <p begin="00:25:56.73" end="00:26:02.80"><metadata ccrow="13" cccol="2"/>I do entreat you, not a man<br></br>depart, save I alone,</p>
+      <p begin="00:26:02.80" end="00:26:05.03"><metadata ccrow="14" cccol="4"/>till Antony have spoke.</p>
+      <p begin="00:26:12.17" end="00:26:15.47"><metadata ccrow="13" cccol="0"/>Let him go in the public chair;<br></br>we will hear him.</p>
+      <p begin="00:26:15.47" end="00:26:17.90"><metadata ccrow="14" cccol="6"/>Noble Antony, go up.</p>
+      <p begin="00:26:17.90" end="00:26:20.70"><metadata ccrow="13" cccol="0"/>For Brutus&apos; sake, I am beholding<br></br>to you.</p>
+      <p begin="00:26:20.70" end="00:26:21.90"><metadata ccrow="14" cccol="2"/>What does he say of Brutus?</p>
+      <p begin="00:26:21.90" end="00:26:23.60"><metadata ccrow="14" cccol="3"/>He says, for Brutus&apos; sake,</p>
+      <p begin="00:26:23.60" end="00:26:24.73"><metadata ccrow="14" cccol="4"/>he&apos; beholding to us all.</p>
+      <p begin="00:26:24.73" end="00:26:28.00"><metadata ccrow="13" cccol="0"/>&apos;Twere best he speak no harm of<br></br>Brutus here.</p>
+      <p begin="00:26:28.00" end="00:26:30.80"><metadata ccrow="14" cccol="3"/>This Caesar was a tyrant!</p>
+      <p begin="00:26:30.80" end="00:26:32.17"><metadata ccrow="14" cccol="6"/>Nay, that&apos;s certain.</p>
+      <p begin="00:26:32.17" end="00:26:34.23"><metadata ccrow="13" cccol="0"/>We are blest that Rome is rid of<br></br>him.</p>
+      <p begin="00:26:34.23" end="00:26:36.60"><metadata ccrow="13" cccol="1"/>Peace! Let us hear what Antony<br></br>can say.</p>
+      <p begin="00:26:36.60" end="00:26:42.43"><metadata ccrow="14" cccol="6"/>You gentle Romans--</p>
+      <p begin="00:26:46.97" end="00:26:49.03"><metadata ccrow="14" cccol="11"/>Peace, ho!</p>
+      <p begin="00:26:53.40" end="00:27:01.30"><metadata ccrow="14" cccol="1"/>Friends, Romans, countrymen...</p>
+      <p begin="00:27:01.30" end="00:27:05.83"><metadata ccrow="14" cccol="7"/>lend me your ears!</p>
+      <p begin="00:27:05.83" end="00:27:09.83"><metadata ccrow="13" cccol="1"/>I come to bury Caesar, not to<br></br>praise him.</p>
+      <p begin="00:27:12.63" end="00:27:14.60"><metadata ccrow="13" cccol="0"/>The evil that men do lives after<br></br>them,</p>
+      <p begin="00:27:14.60" end="00:27:18.27"><metadata ccrow="13" cccol="1"/>the good is oft interred with<br></br>their bones;</p>
+      <p begin="00:27:18.27" end="00:27:20.50"><metadata ccrow="14" cccol="3"/>so let it be with Caesar.</p>
+      <p begin="00:27:20.50" end="00:27:27.13"><metadata ccrow="13" cccol="1"/>The noble Brutus hath told you<br></br>Caesar was ambitious;</p>
+      <p begin="00:27:27.13" end="00:27:30.93"><metadata ccrow="13" cccol="0"/>if it were so, it was a grievous<br></br>fault,</p>
+      <p begin="00:27:30.93" end="00:27:34.00"><metadata ccrow="13" cccol="3"/>and grievously hath Caesar<br></br>answer&apos;d it.</p>
+      <p begin="00:27:34.00" end="00:27:37.60"><metadata ccrow="13" cccol="0"/>Here, under leave of Brutus and<br></br>the rest--</p>
+      <p begin="00:27:37.60" end="00:27:42.97"><metadata ccrow="13" cccol="0"/>for Brutus is an honorable man;<br></br>so are they all,</p>
+      <p begin="00:27:42.97" end="00:27:46.67"><metadata ccrow="14" cccol="7"/>all honorable men.</p>
+      <p begin="00:27:46.67" end="00:27:52.00"><metadata ccrow="13" cccol="2"/>Come I to speak in Caesar&apos;s<br></br>funeral.</p>
+      <p begin="00:27:52.00" end="00:27:57.10"><metadata ccrow="13" cccol="1"/>He was my friend, faithful and<br></br>just to me;</p>
+      <p begin="00:27:57.10" end="00:28:01.87"><metadata ccrow="13" cccol="5"/>but Brutus says he was<br></br>ambitious,</p>
+      <p begin="00:28:01.87" end="00:28:05.60"><metadata ccrow="14" cccol="0"/>and Brutus is an honorable man!</p>
+      <p begin="00:28:09.87" end="00:28:12.57"><metadata ccrow="13" cccol="1"/>He hath brought many captives<br></br>home to Rome,</p>
+      <p begin="00:28:12.57" end="00:28:16.63"><metadata ccrow="13" cccol="1"/>whose ransoms did the general<br></br>coffers fill.</p>
+      <p begin="00:28:16.63" end="00:28:21.70"><metadata ccrow="13" cccol="4"/>Did this in Caesar seem<br></br>ambitious?</p>
+      <p begin="00:28:21.70" end="00:28:26.70"><metadata ccrow="13" cccol="1"/>When that the poor have cried,<br></br>Caesar hath wept;</p>
+      <p begin="00:28:26.70" end="00:28:29.80"><metadata ccrow="13" cccol="3"/>ambition should be made of<br></br>sterner stuff:</p>
+      <p begin="00:28:29.80" end="00:28:33.27"><metadata ccrow="13" cccol="5"/>yet Brutus says he was<br></br>ambitious,</p>
+      <p begin="00:28:33.27" end="00:28:37.33"><metadata ccrow="14" cccol="0"/>and Brutus is an honorable man.</p>
+      <p begin="00:28:37.33" end="00:28:39.20"><metadata ccrow="14" cccol="8"/>You all did see</p>
+      <p begin="00:28:39.20" end="00:28:43.60"><metadata ccrow="13" cccol="1"/>that on the Lupercal I thrice<br></br>presented him a kingly crown,</p>
+      <p begin="00:28:43.60" end="00:28:45.87"><metadata ccrow="14" cccol="2"/>which he did thrice refuse.</p>
+      <p begin="00:28:45.87" end="00:28:48.13"><metadata ccrow="14" cccol="7"/>Was this ambition?</p>
+      <p begin="00:28:48.13" end="00:28:51.03"><metadata ccrow="13" cccol="5"/>Yet Brutus says he was<br></br>ambitious,</p>
+      <p begin="00:28:51.03" end="00:28:53.30"><metadata ccrow="14" cccol="0"/>and sure he is an honorable man.</p>
+      <p begin="00:28:53.30" end="00:28:55.30"><metadata ccrow="13" cccol="2"/>I speak not to disprove what<br></br>Brutus spoke,</p>
+      <p begin="00:28:55.30" end="00:28:59.53"><metadata ccrow="13" cccol="0"/>but here I am to speak what I do<br></br>know.</p>
+      <p begin="00:28:59.53" end="00:29:06.33"><metadata ccrow="13" cccol="1"/>You all did love him once, not<br></br>without cause;</p>
+      <p begin="00:29:09.23" end="00:29:13.33"><metadata ccrow="13" cccol="0"/>what cause withholds you then to<br></br>mourn for him?</p>
+      <p begin="00:29:13.33" end="00:29:15.77"><metadata ccrow="13" cccol="1"/>O judgement, thou art fled to<br></br>brutish beasts,</p>
+      <p begin="00:29:15.77" end="00:29:17.57"><metadata ccrow="14" cccol="0"/>and men have lost their reason.</p>
+      <p begin="00:29:21.67" end="00:29:25.70"><metadata ccrow="13" cccol="0"/>Bear with me; my heart is in the<br></br>coffin there with Caesar,</p>
+      <p begin="00:29:25.70" end="00:29:29.00"><metadata ccrow="13" cccol="1"/>and I must pause till it come<br></br>back to me.</p>
+      <p begin="00:29:32.53" end="00:29:35.47"><metadata ccrow="13" cccol="0"/>Methinks there is much reason in<br></br>his sayings.</p>
+      <p begin="00:29:35.47" end="00:29:36.57"><metadata ccrow="13" cccol="0"/>If thou consider rightly of the<br></br>matter,</p>
+      <p begin="00:29:36.57" end="00:29:38.70"><metadata ccrow="14" cccol="2"/>Caesar has had great wrong.</p>
+      <p begin="00:29:38.70" end="00:29:40.20"><metadata ccrow="14" cccol="8"/>Has he, masters?</p>
+      <p begin="00:29:40.20" end="00:29:43.73"><metadata ccrow="13" cccol="1"/>I fear there will a worse come<br></br>in his place.</p>
+      <p begin="00:29:43.73" end="00:29:45.30"><metadata ccrow="14" cccol="2"/>He would not take the crown;</p>
+      <p begin="00:29:45.30" end="00:29:47.83"><metadata ccrow="13" cccol="1"/>therefore &apos;tis certain he was<br></br>not ambitious.</p>
+      <p begin="00:29:47.83" end="00:29:54.57"><metadata ccrow="13" cccol="2"/>If it be found so, some will<br></br>dear abide it.</p>
+      <p begin="00:29:54.57" end="00:29:58.43"><metadata ccrow="13" cccol="0"/>Ah, poor soul, his eyes are red<br></br>as fire with weeping.</p>
+      <p begin="00:29:58.43" end="00:30:00.77"><metadata ccrow="13" cccol="0"/>There&apos;s not a nobler man in Rome<br></br>than Antony.</p>
+      <p begin="00:30:00.77" end="00:30:02.33"><metadata ccrow="13" cccol="0"/>Now mark him, he begins again to<br></br>speak.</p>
+      <p begin="00:30:07.53" end="00:30:12.43"><metadata ccrow="14" cccol="0"/>But yesterday the word of Caesar</p>
+      <p begin="00:30:12.43" end="00:30:15.20"><metadata ccrow="13" cccol="2"/>might have stood against the<br></br>world.</p>
+      <p begin="00:30:15.20" end="00:30:25.03"><metadata ccrow="13" cccol="1"/>Now lies he there, and none so<br></br>poor to do him reverence.</p>
+      <p begin="00:30:25.03" end="00:30:27.23"><metadata ccrow="14" cccol="11"/>O masters!</p>
+      <p begin="00:30:27.23" end="00:30:28.73"><metadata ccrow="14" cccol="7"/>If I were disposed</p>
+      <p begin="00:30:28.73" end="00:30:30.93"><metadata ccrow="13" cccol="0"/>to stir your hearts and minds to<br></br>mutiny and rage,</p>
+      <p begin="00:30:30.93" end="00:30:34.63"><metadata ccrow="13" cccol="2"/>I should do Brutus wrong and<br></br>Cassius wrong,</p>
+      <p begin="00:30:34.63" end="00:30:36.50"><metadata ccrow="13" cccol="0"/>who, you all know, are honorable<br></br>men.</p>
+      <p begin="00:30:36.50" end="00:30:40.20"><metadata ccrow="13" cccol="2"/>I will not do them wrong; I<br></br>rather choose to wrong the dead,</p>
+      <p begin="00:30:40.20" end="00:30:45.00"><metadata ccrow="13" cccol="0"/>to wrong myself and you, than I<br></br>will wrong such honorable men.</p>
+      <p begin="00:30:48.17" end="00:30:52.40"><metadata ccrow="13" cccol="0"/>But here&apos;s a parchment with the<br></br>seal of Caesar;</p>
+      <p begin="00:30:52.40" end="00:30:59.20"><metadata ccrow="13" cccol="1"/>I found it in his closet, &apos;tis<br></br>his will.</p>
+      <p begin="00:30:59.20" end="00:31:01.83"><metadata ccrow="13" cccol="1"/>Let but the commons hear this<br></br>testament--</p>
+      <p begin="00:31:01.83" end="00:31:04.20"><metadata ccrow="13" cccol="0"/>which, pardon me, I do not mean<br></br>to read--</p>
+      <p begin="00:31:04.20" end="00:31:09.07"><metadata ccrow="13" cccol="0"/>and they would go and kiss dead<br></br>Caesar&apos;s wounds</p>
+      <p begin="00:31:09.07" end="00:31:11.43"><metadata ccrow="13" cccol="2"/>and dip their napkins in his<br></br>sacred blood,</p>
+      <p begin="00:31:11.43" end="00:31:14.17"><metadata ccrow="13" cccol="3"/>yea, beg a hair of him for<br></br>memory, and, dying,</p>
+      <p begin="00:31:14.17" end="00:31:15.90"><metadata ccrow="14" cccol="1"/>mention it within their wills,</p>
+      <p begin="00:31:15.90" end="00:31:18.13"><metadata ccrow="13" cccol="0"/>bequeathing it as a rich legacy<br></br>unto their issue.</p>
+      <p begin="00:31:23.37" end="00:31:25.73"><metadata ccrow="14" cccol="6"/>Will you be patient?</p>
+      <p begin="00:31:25.73" end="00:31:29.33"><metadata ccrow="13" cccol="0"/>Have patience, gentle friends, I<br></br>must not read it;</p>
+      <p begin="00:31:31.80" end="00:31:36.93"><metadata ccrow="13" cccol="2"/>it is not meet you know how<br></br>Caesar loved you.</p>
+      <p begin="00:31:36.93" end="00:31:39.47"><metadata ccrow="13" cccol="1"/>You are not wood, you are not<br></br>stones, but men;</p>
+      <p begin="00:31:39.47" end="00:31:41.67"><metadata ccrow="13" cccol="0"/>and, being men, hearing the will<br></br>of Caesar,</p>
+      <p begin="00:31:41.67" end="00:31:45.03"><metadata ccrow="13" cccol="2"/>it will inflame you, it will<br></br>make you mad.</p>
+      <p begin="00:31:45.03" end="00:31:49.80"><metadata ccrow="13" cccol="0"/>&apos;Tis good you know not that you<br></br>are his heirs,</p>
+      <p begin="00:31:49.80" end="00:31:54.07"><metadata ccrow="13" cccol="0"/>for if you should, O, what would<br></br>come of it!</p>
+      <p begin="00:31:59.37" end="00:32:00.77"><metadata ccrow="14" cccol="6"/>Will you be patient?</p>
+      <p begin="00:32:00.77" end="00:32:02.73"><metadata ccrow="14" cccol="5"/>Will you stay awhile?</p>
+      <p begin="00:32:02.73" end="00:32:05.53"><metadata ccrow="13" cccol="1"/>I have o&apos;ershot myself to tell<br></br>you of it.</p>
+      <p begin="00:32:05.53" end="00:32:06.80"><metadata ccrow="14" cccol="0"/>I fear I wrong the honorable men</p>
+      <p begin="00:32:06.80" end="00:32:10.57"><metadata ccrow="13" cccol="3"/>whose daggers have stabb&apos;d<br></br>Caesar; I do fear it.</p>
+      <p begin="00:32:10.57" end="00:32:13.17"><metadata ccrow="13" cccol="1"/>They were traitors! Honorable<br></br>men?</p>
+      <p begin="00:32:22.73" end="00:32:24.57"><metadata ccrow="14" cccol="6"/>The will! The will!</p>
+      <p begin="00:32:24.57" end="00:32:26.23"><metadata ccrow="14" cccol="6"/>The will! The will!</p>
+      <p begin="00:32:26.23" end="00:32:28.00"><metadata ccrow="14" cccol="6"/>The will! The will!</p>
+      <p begin="00:32:28.00" end="00:32:29.63"><metadata ccrow="14" cccol="6"/>The will! The will!</p>
+      <p begin="00:32:29.63" end="00:32:31.43"><metadata ccrow="14" cccol="6"/>The will! The will!</p>
+      <p begin="00:32:31.43" end="00:32:33.20"><metadata ccrow="14" cccol="6"/>The will! The will!</p>
+      <p begin="00:32:33.20" end="00:32:34.20"><metadata ccrow="14" cccol="11"/>The will!</p>
+      <p begin="00:32:37.00" end="00:32:40.77"><metadata ccrow="13" cccol="0"/>You will compel me then to read<br></br>the will?</p>
+      <p begin="00:32:43.87" end="00:32:46.57"><metadata ccrow="13" cccol="3"/>Then make a ring about the<br></br>corpse of Caesar,</p>
+      <p begin="00:32:46.57" end="00:32:50.90"><metadata ccrow="13" cccol="2"/>that I may show you him that<br></br>made the will.</p>
+      <p begin="00:32:50.90" end="00:32:53.57"><metadata ccrow="13" cccol="1"/>Shall I descend, and will you<br></br>give me leave?</p>
+      <p begin="00:33:13.60" end="00:33:20.50"><metadata ccrow="13" cccol="1"/>If you have tears, prepare to<br></br>shed them now.</p>
+      <p begin="00:33:20.50" end="00:33:22.57"><metadata ccrow="14" cccol="2"/>You all do know this mantle.</p>
+      <p begin="00:33:22.57" end="00:33:26.27"><metadata ccrow="13" cccol="1"/>I remember the first time ever<br></br>Caesar put it on;</p>
+      <p begin="00:33:26.27" end="00:33:29.00"><metadata ccrow="13" cccol="0"/>&apos;twas on a summer&apos;s evening, in<br></br>his tent,</p>
+      <p begin="00:33:29.00" end="00:33:32.93"><metadata ccrow="14" cccol="0"/>that day he overcame the Nervii.</p>
+      <p begin="00:33:32.93" end="00:33:39.57"><metadata ccrow="13" cccol="0"/>Look, in this place ran Cassius&apos;<br></br>dagger through;</p>
+      <p begin="00:33:39.57" end="00:33:44.00"><metadata ccrow="13" cccol="2"/>see what a rent the envious<br></br>Casca made;</p>
+      <p begin="00:33:44.00" end="00:33:49.63"><metadata ccrow="13" cccol="1"/>through this the well-beloved<br></br>Brutus stabb&apos;d;</p>
+      <p begin="00:33:49.63" end="00:33:53.70"><metadata ccrow="13" cccol="2"/>and as he pluck&apos;d his cursed<br></br>steel away,</p>
+      <p begin="00:33:53.70" end="00:33:56.93"><metadata ccrow="13" cccol="2"/>Mark how the blood of Caesar<br></br>follow&apos;d it,</p>
+      <p begin="00:33:56.93" end="00:33:58.27"><metadata ccrow="14" cccol="4"/>as rushing out of doors,</p>
+      <p begin="00:33:58.27" end="00:34:02.00"><metadata ccrow="13" cccol="2"/>to be resolved if Brutus so<br></br>unkindly knock&apos;d, or no;</p>
+      <p begin="00:34:02.00" end="00:34:05.77"><metadata ccrow="13" cccol="1"/>for Brutus, you all know, was<br></br>Caesar&apos;s angel.</p>
+      <p begin="00:34:05.77" end="00:34:10.97"><metadata ccrow="13" cccol="1"/>Judge, O you gods, how dearly<br></br>Caesar loved him.</p>
+      <p begin="00:34:10.97" end="00:34:16.50"><metadata ccrow="13" cccol="0"/>This was the most unkindest cut<br></br>of all;</p>
+      <p begin="00:34:16.50" end="00:34:23.10"><metadata ccrow="13" cccol="1"/>for when the noble Caesar saw<br></br>him stab, ingratitude,</p>
+      <p begin="00:34:23.10" end="00:34:29.57"><metadata ccrow="13" cccol="0"/>more strong than traitors&apos; arms,<br></br>quite vanquish&apos;d him.</p>
+      <p begin="00:34:29.57" end="00:34:31.60"><metadata ccrow="14" cccol="2"/>Then burst his mighty heart,</p>
+      <p begin="00:34:31.60" end="00:34:33.53"><metadata ccrow="13" cccol="1"/>and, in his mantle muffling up<br></br>his face,</p>
+      <p begin="00:34:33.53" end="00:34:35.77"><metadata ccrow="13" cccol="2"/>even at the base of Pompey&apos;s<br></br>statue,</p>
+      <p begin="00:34:35.77" end="00:34:42.17"><metadata ccrow="13" cccol="1"/>which all the while ran blood,<br></br>great Caesar fell!</p>
+      <p begin="00:34:46.57" end="00:34:50.30"><metadata ccrow="13" cccol="3"/>What a fall was there, my<br></br>countrymen.</p>
+      <p begin="00:34:50.30" end="00:34:56.20"><metadata ccrow="13" cccol="1"/>Then I, and you, and all of us<br></br>fell down,</p>
+      <p begin="00:34:56.20" end="00:35:01.07"><metadata ccrow="13" cccol="0"/>whilst bloody treason flourish&apos;d<br></br>over us.</p>
+      <p begin="00:35:01.07" end="00:35:08.60"><metadata ccrow="13" cccol="0"/>O, now you weep, and I perceive<br></br>you feel the dint of pity.</p>
+      <p begin="00:35:08.60" end="00:35:13.77"><metadata ccrow="14" cccol="3"/>These are gracious drops.</p>
+      <p begin="00:35:13.77" end="00:35:16.10"><metadata ccrow="13" cccol="1"/>Kind souls, what weep you when<br></br>you but behold</p>
+      <p begin="00:35:16.10" end="00:35:18.27"><metadata ccrow="14" cccol="1"/>our Caesar&apos;s vesture wounded?</p>
+      <p begin="00:35:18.27" end="00:35:21.07"><metadata ccrow="14" cccol="0"/>Look you here, here is himself,</p>
+      <p begin="00:35:21.07" end="00:35:24.77"><metadata ccrow="13" cccol="4"/>marr&apos;d, as you see, with<br></br>traitors!</p>
+      <p begin="00:35:24.77" end="00:35:25.90"><metadata ccrow="14" cccol="14"/>Oh!</p>
+      <p begin="00:35:27.07" end="00:35:29.87"><metadata ccrow="13" cccol="0"/>- O piteous spectacle. - O noble<br></br>Caesar.</p>
+      <p begin="00:35:29.87" end="00:35:31.07"><metadata ccrow="14" cccol="10"/>Woeful day.</p>
+      <p begin="00:35:31.07" end="00:35:32.53"><metadata ccrow="14" cccol="6"/>Villains. Traitors.</p>
+      <p begin="00:35:32.53" end="00:35:35.90"><metadata ccrow="14" cccol="6"/>O most bloody sight!</p>
+      <p begin="00:35:35.90" end="00:35:37.87"><metadata ccrow="14" cccol="6"/>We will be revenged!</p>
+      <p begin="00:35:46.80" end="00:35:48.90"><metadata ccrow="14" cccol="2"/>Good friends, sweet friends,</p>
+      <p begin="00:35:48.90" end="00:35:52.83"><metadata ccrow="13" cccol="0"/>let me not stir you up to such a<br></br>sudden flood of mutiny.</p>
+      <p begin="00:35:52.83" end="00:35:56.13"><metadata ccrow="13" cccol="1"/>They that have done this deed<br></br>are honorable.</p>
+      <p begin="00:35:56.13" end="00:35:57.77"><metadata ccrow="14" cccol="1"/>What private griefs they have,</p>
+      <p begin="00:35:57.77" end="00:35:59.10"><metadata ccrow="13" cccol="0"/>alas, I know not, that made them<br></br>do it,</p>
+      <p begin="00:35:59.10" end="00:36:00.77"><metadata ccrow="14" cccol="0"/>but they are wise and honorable,</p>
+      <p begin="00:36:00.77" end="00:36:03.30"><metadata ccrow="13" cccol="0"/>and will, no doubt, with reasons<br></br>answer you.</p>
+      <p begin="00:36:03.30" end="00:36:06.83"><metadata ccrow="13" cccol="1"/>I come not, friends, to steal<br></br>away your hearts.</p>
+      <p begin="00:36:06.83" end="00:36:10.13"><metadata ccrow="13" cccol="1"/>I am no orator, as Brutus is;<br></br>but, as you know me all,</p>
+      <p begin="00:36:10.13" end="00:36:14.13"><metadata ccrow="13" cccol="0"/>a plain blunt man, that loved my<br></br>friend,</p>
+      <p begin="00:36:14.13" end="00:36:17.37"><metadata ccrow="13" cccol="2"/>and that they know full well<br></br>that gave me public leave</p>
+      <p begin="00:36:17.37" end="00:36:18.97"><metadata ccrow="14" cccol="8"/>to speak of him.</p>
+      <p begin="00:36:18.97" end="00:36:21.27"><metadata ccrow="13" cccol="2"/>For I have neither wit, nor<br></br>words, nor worth, action,</p>
+      <p begin="00:36:21.27" end="00:36:25.07"><metadata ccrow="13" cccol="0"/>nor utterance, nor the power of<br></br>speech, to stir men&apos;s blood.</p>
+      <p begin="00:36:25.07" end="00:36:27.43"><metadata ccrow="14" cccol="5"/>I only speak right on;</p>
+      <p begin="00:36:27.43" end="00:36:30.13"><metadata ccrow="13" cccol="3"/>I tell you that which you<br></br>yourselves do know;</p>
+      <p begin="00:36:30.13" end="00:36:38.60"><metadata ccrow="13" cccol="0"/>show you sweet Caesar&apos;s wounds,<br></br>poor, poor dumb mouths,</p>
+      <p begin="00:36:38.60" end="00:36:41.33"><metadata ccrow="14" cccol="3"/>and bid them speak for me!</p>
+      <p begin="00:36:41.33" end="00:36:45.27"><metadata ccrow="13" cccol="1"/>But were I Brutus, and Brutus<br></br>Antony,</p>
+      <p begin="00:36:45.27" end="00:36:47.90"><metadata ccrow="13" cccol="3"/>there were an Antony would<br></br>ruffle up your spirits</p>
+      <p begin="00:36:47.90" end="00:36:50.13"><metadata ccrow="13" cccol="0"/>and put a tongue in every wound<br></br>of Caesar&apos;s</p>
+      <p begin="00:36:50.13" end="00:36:55.80"><metadata ccrow="13" cccol="1"/>that should move the stones of<br></br>Rome to rise and mutiny!</p>
+      <p begin="00:37:08.23" end="00:37:14.00"><metadata ccrow="13" cccol="1"/>Why, friends, you go to do you<br></br>know not what.</p>
+      <p begin="00:37:14.00" end="00:37:18.50"><metadata ccrow="13" cccol="4"/>Wherein hath Caesar thus<br></br>deserved your loves?</p>
+      <p begin="00:37:18.50" end="00:37:22.53"><metadata ccrow="13" cccol="0"/>Alas, you know not; I must tell<br></br>you then.</p>
+      <p begin="00:37:22.53" end="00:37:29.53"><metadata ccrow="13" cccol="0"/>You have forgot the will I told<br></br>you of.</p>
+      <p begin="00:37:41.90" end="00:37:46.63"><metadata ccrow="13" cccol="0"/>Here is the will, and under seal<br></br>of Caesar.</p>
+      <p begin="00:37:49.37" end="00:37:56.27"><metadata ccrow="14" cccol="3"/>To every Roman citizen...</p>
+      <p begin="00:37:56.27" end="00:38:00.57"><metadata ccrow="14" cccol="0"/>he gives seventy-five drachmas.</p>
+      <p begin="00:38:02.47" end="00:38:03.93"><metadata ccrow="14" cccol="5"/>Hear me with patience.</p>
+      <p begin="00:38:03.93" end="00:38:07.97"><metadata ccrow="13" cccol="1"/>Moreover, he hath left you all<br></br>his walks, his private arbors,</p>
+      <p begin="00:38:07.97" end="00:38:10.93"><metadata ccrow="13" cccol="2"/>and new-planted orchards, on<br></br>this side Tiber;</p>
+      <p begin="00:38:10.93" end="00:38:15.00"><metadata ccrow="13" cccol="1"/>he hath left them you, and to<br></br>your heirs forever--</p>
+      <p begin="00:38:15.00" end="00:38:20.07"><metadata ccrow="13" cccol="0"/>common pleasures, to walk abroad<br></br>and recreate yourselves.</p>
+      <p begin="00:38:20.07" end="00:38:23.90"><metadata ccrow="14" cccol="7"/>Here was a Caesar!</p>
+      <p begin="00:38:23.90" end="00:38:27.10"><metadata ccrow="14" cccol="4"/>When comes such another?</p>
+      <p begin="00:38:27.10" end="00:38:29.83"><metadata ccrow="14" cccol="9"/>Never! Never!</p>
+      <p begin="00:38:43.83" end="00:38:46.10"><metadata ccrow="14" cccol="8"/>Now let it work.</p>
+      <p begin="00:38:46.10" end="00:38:52.83"><metadata ccrow="13" cccol="1"/>Mischief, thou art afoot, take<br></br>thou what course thou wilt.</p>
+      <p begin="00:38:52.83" end="00:38:54.30"><metadata ccrow="14" cccol="8"/>How now, fellow?</p>
+      <p begin="00:38:54.30" end="00:38:56.57"><metadata ccrow="13" cccol="0"/>Sir, Octavius is already come to<br></br>Rome.</p>
+      <p begin="00:38:56.57" end="00:38:57.67"><metadata ccrow="14" cccol="10"/>Where is he?</p>
+      <p begin="00:38:57.67" end="00:38:59.03"><metadata ccrow="13" cccol="1"/>He and Lepidus are at Caesar&apos;s<br></br>house.</p>
+      <p begin="00:38:59.03" end="00:39:01.60"><metadata ccrow="13" cccol="1"/>And thither will I straight to<br></br>visit him.</p>
+      <p begin="00:39:01.60" end="00:39:03.03"><metadata ccrow="14" cccol="5"/>He comes upon a wish.</p>
+      <p begin="00:39:03.03" end="00:39:06.57"><metadata ccrow="13" cccol="1"/>Fortune is merry, and in this<br></br>mood will give us anything.</p>
+      <p begin="00:39:06.57" end="00:39:08.03"><metadata ccrow="13" cccol="3"/>I heard him say Brutus and<br></br>Cassius</p>
+      <p begin="00:39:08.03" end="00:39:09.90"><metadata ccrow="13" cccol="0"/>are rid like madmen through the<br></br>gates of Rome.</p>
+      <p begin="00:39:09.90" end="00:39:11.50"><metadata ccrow="13" cccol="0"/>Be like they had some notice of<br></br>the people,</p>
+      <p begin="00:39:11.50" end="00:39:12.83"><metadata ccrow="14" cccol="5"/>how I had moved them.</p>
+      <p begin="00:39:15.80" end="00:39:18.03"><metadata ccrow="14" cccol="2"/>Come, bring me to Octavius.</p>
+      <p begin="00:39:22.83" end="00:39:26.97"><metadata ccrow="13" cccol="2"/>I dreamt tonight that I did<br></br>feast with Caesar,</p>
+      <p begin="00:39:26.97" end="00:39:30.53"><metadata ccrow="13" cccol="1"/>and things unluckily charge my<br></br>fantasy.</p>
+      <p begin="00:39:30.53" end="00:39:33.43"><metadata ccrow="13" cccol="1"/>I have no will to wander forth<br></br>of doors,</p>
+      <p begin="00:39:33.43" end="00:39:34.73"><metadata ccrow="14" cccol="1"/>yet something leads me forth.</p>
+      <p begin="00:39:34.73" end="00:39:35.93"><metadata ccrow="14" cccol="7"/>What is your name?</p>
+      <p begin="00:39:35.93" end="00:39:37.13"><metadata ccrow="14" cccol="5"/>Whither are you going?</p>
+      <p begin="00:39:37.13" end="00:39:38.37"><metadata ccrow="14" cccol="6"/>Where do you dwell?</p>
+      <p begin="00:39:38.37" end="00:39:39.80"><metadata ccrow="13" cccol="3"/>Are you a married man or a<br></br>bachelor?</p>
+      <p begin="00:39:39.80" end="00:39:41.13"><metadata ccrow="14" cccol="3"/>Answer every man directly.</p>
+      <p begin="00:39:41.13" end="00:39:42.23"><metadata ccrow="14" cccol="8"/>Ay, and briefly.</p>
+      <p begin="00:39:42.23" end="00:39:43.40"><metadata ccrow="14" cccol="8"/>Ay, and wisely.</p>
+      <p begin="00:39:43.40" end="00:39:44.67"><metadata ccrow="14" cccol="1"/>Ay, and truly, you were best.</p>
+      <p begin="00:39:44.67" end="00:39:45.77"><metadata ccrow="14" cccol="8"/>What is my name?</p>
+      <p begin="00:39:45.77" end="00:39:46.87"><metadata ccrow="14" cccol="6"/>Whither am I going?</p>
+      <p begin="00:39:46.87" end="00:39:48.13"><metadata ccrow="14" cccol="7"/>Where do I dwell?</p>
+      <p begin="00:39:48.13" end="00:39:51.47"><metadata ccrow="13" cccol="4"/>Am I a married man or a<br></br>bachelor?</p>
+      <p begin="00:39:51.47" end="00:39:55.30"><metadata ccrow="13" cccol="1"/>Hmm, then, to answer every man<br></br>directly and briefly,</p>
+      <p begin="00:39:55.30" end="00:40:00.13"><metadata ccrow="13" cccol="0"/>wisely and truly: wisely I say,<br></br>I am a bachelor.</p>
+      <p begin="00:40:00.13" end="00:40:03.17"><metadata ccrow="13" cccol="1"/>That&apos;s as much as to say they<br></br>are fools that marry.</p>
+      <p begin="00:40:03.17" end="00:40:05.20"><metadata ccrow="13" cccol="0"/>You&apos;ll bear me a bang for that,<br></br>I fear.</p>
+      <p begin="00:40:05.20" end="00:40:06.30"><metadata ccrow="14" cccol="7"/>Proceed directly.</p>
+      <p begin="00:40:06.30" end="00:40:07.60"><metadata ccrow="13" cccol="0"/>Directly, I am going to Caesar&apos;s<br></br>funeral.</p>
+      <p begin="00:40:07.60" end="00:40:08.80"><metadata ccrow="14" cccol="4"/>As a friend or an enemy?</p>
+      <p begin="00:40:08.80" end="00:40:09.93"><metadata ccrow="14" cccol="10"/>As a friend.</p>
+      <p begin="00:40:09.93" end="00:40:11.20"><metadata ccrow="13" cccol="4"/>That matter is answered<br></br>directly.</p>
+      <p begin="00:40:11.20" end="00:40:12.33"><metadata ccrow="14" cccol="2"/>For your dwelling, briefly.</p>
+      <p begin="00:40:12.33" end="00:40:13.50"><metadata ccrow="14" cccol="0"/>Briefly, I dwell by the Capitol.</p>
+      <p begin="00:40:13.50" end="00:40:14.60"><metadata ccrow="14" cccol="5"/>Your name, sir, truly.</p>
+      <p begin="00:40:14.60" end="00:40:15.80"><metadata ccrow="14" cccol="4"/>Truly, my name is Cinna.</p>
+      <p begin="00:40:15.80" end="00:40:18.13"><metadata ccrow="13" cccol="3"/>Tear him to pieces; he&apos;s a<br></br>conspirator!</p>
+      <p begin="00:40:18.13" end="00:40:20.93"><metadata ccrow="13" cccol="1"/>I&apos;m Cinna the poet! I&apos;m Cinna<br></br>the poet!</p>
+      <p begin="00:40:20.93" end="00:40:23.13"><metadata ccrow="13" cccol="2"/>Tear him for his bad verses!<br></br>Tear him for his bad verses!</p>
+      <p begin="00:40:23.13" end="00:40:25.40"><metadata ccrow="14" cccol="0"/>I am not Cinna the conspirator!</p>
+      <p begin="00:40:25.40" end="00:40:26.80"><metadata ccrow="13" cccol="2"/>It is no matter, his name&apos;s<br></br>Cinna.</p>
+      <p begin="00:40:26.80" end="00:40:28.53"><metadata ccrow="13" cccol="1"/>Pluck but his name out of his<br></br>heart, and turn him going.</p>
+      <p begin="00:40:28.53" end="00:40:32.13"><metadata ccrow="14" cccol="6"/>Tear him! Tear him!</p>
+      <p begin="00:40:32.13" end="00:40:33.90"><metadata ccrow="14" cccol="11"/>Tear him!</p>
+      <p begin="00:40:36.50" end="00:40:39.50"><metadata ccrow="0" cccol="0"/></p>
+    </div>
+  </body>
+</tt>

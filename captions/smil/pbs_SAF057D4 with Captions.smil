@@ -1,0 +1,23 @@
+<smil xmlns:qt="http://www.apple.com/quicktime/resources/smilextensions"
+qt:time-slider="true">
+
+
+
+  <head>
+    <meta name="title" content="SAF057D4"/>
+    <layout>
+      <root-layout width="640"  height="580" background-color="black"/>
+      <region id="video" width="640" height="480" left="0" top="0" fit="fill"/>
+      <region id="bottom" width="640" height="100" left="80" top="480" />
+    </layout>
+  </head>
+
+  <body>
+    <par>
+      <video src="SAF057D4.mp4" region="video"/>
+      <seq>
+        <textstream src="SAF057D4.txt" region="bottom" />
+      </seq>
+    </par>
+  </body>
+</smil>

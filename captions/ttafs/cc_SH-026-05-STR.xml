@@ -1,0 +1,504 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tt xmlns="http://www.w3.org/2006/04/ttaf1" xmlns:tts="http://www.w3.org/2006/04/ttaf1#styling" xml:lang="en">
+  <head>
+    <styling>
+      <style id="defaultSpeaker" tts:fontSize="24" tts:fontFamily="Arial" tts:fontWeight="normal" tts:fontStyle="normal" tts:textDecoration="none" tts:color="white" tts:backgroundColor="black" tts:textAlign="center" />
+      <style id="defaultCaption" tts:fontSize="24" tts:fontFamily="Arial" tts:fontWeight="normal" tts:fontStyle="normal" tts:textDecoration="none" tts:color="white" tts:backgroundColor="black" tts:textAlign="center" />
+    </styling>
+  </head>
+  <body style="defaultCaption" id="thebody">
+    <div xml:lang="en">
+      <p begin="00:00:00.00" end="00:00:10.67"><metadata ccrow="0" cccol="0"/></p>
+      <p begin="00:00:10.67" end="00:00:12.33"><metadata ccrow="13" cccol="7"/>I HAVE TWO NIGHTS<br></br>WATCHED WITH YOU,</p>
+      <p begin="00:00:12.33" end="00:00:14.30"><metadata ccrow="13" cccol="3"/>BUT CAN PERCEIVE NO TRUTH<br></br>IN YOUR REPORT.</p>
+      <p begin="00:00:14.30" end="00:00:15.73" tts:textAlign="right"><metadata ccrow="13" cccol="21"/>WHEN WAS IT<br></br>SHE LAST WALKED?</p>
+      <p begin="00:00:15.73" end="00:00:18.27" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>SINCE HIS MAJESTY<br></br>WENT INTO THE FIELD,</p>
+      <p begin="00:00:18.27" end="00:00:21.03" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>I HAVE SEEN HER RISE<br></br>FROM HER BED,</p>
+      <p begin="00:00:21.03" end="00:00:23.03" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>THROW HER NIGHTGOWN<br></br>UPON HER,</p>
+      <p begin="00:00:23.03" end="00:00:26.53" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>UNLOCK HER CLOSET,<br></br>TAKE FORTH PAPER,</p>
+      <p begin="00:00:26.53" end="00:00:29.10" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>FOLD IT,<br></br>WRITE UPON IT,</p>
+      <p begin="00:00:29.10" end="00:00:30.20" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>READ IT,</p>
+      <p begin="00:00:30.20" end="00:00:32.40" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>AFTERWARDS SEAL IT,<br></br>AND AGAIN RETURN TO BED.</p>
+      <p begin="00:00:32.40" end="00:00:36.17" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>YET ALL THIS WHILE<br></br>IN A MOST FAST SLEEP.</p>
+      <p begin="00:00:36.17" end="00:00:39.27" tts:textAlign="right"><metadata ccrow="13" cccol="12"/>A GREAT PERTURBATION<br></br>IN NATURE,</p>
+      <p begin="00:00:39.27" end="00:00:41.23" tts:textAlign="right"><metadata ccrow="13" cccol="14"/>TO RECEIVE AT ONCE<br></br>THE BENEFIT OF SLEEP,</p>
+      <p begin="00:00:41.23" end="00:00:44.93" tts:textAlign="right"><metadata ccrow="13" cccol="14"/>AND DO THE EFFECTS<br></br>OF WATCHING.</p>
+      <p begin="00:00:44.93" end="00:00:46.40" tts:textAlign="right"><metadata ccrow="14" cccol="5"/>IN THIS SLUMBERY AGITATION,</p>
+      <p begin="00:00:46.40" end="00:00:48.87" tts:textAlign="right"><metadata ccrow="13" cccol="13"/>BESIDES HER WALKING<br></br>AND OTHER ACTUAL PERFORMANCES,</p>
+      <p begin="00:00:48.87" end="00:00:51.37" tts:textAlign="right"><metadata ccrow="13" cccol="14"/>WHAT, AT ANY TIME,<br></br>HAVE YOU HEARD HER SAY?</p>
+      <p begin="00:00:51.37" end="00:00:55.50" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>THAT, SIR, WHICH I WILL NOT<br></br>REPORT AFTER HER.</p>
+      <p begin="00:00:55.50" end="00:00:56.50" tts:textAlign="right"><metadata ccrow="14" cccol="18"/>YOU MAY TO ME,</p>
+      <p begin="00:00:56.50" end="00:00:58.07" tts:textAlign="right"><metadata ccrow="13" cccol="14"/>AND &apos;TIS MOST MEET<br></br>YOU SHOULD.</p>
+      <p begin="00:00:58.07" end="00:00:59.77" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>NEITHER TO YOU<br></br>NOR ANYONE,</p>
+      <p begin="00:00:59.77" end="00:01:02.70" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>HAVING NO WITNESS<br></br>TO CONFIRM MY SPEECH.</p>
+      <p begin="00:01:05.13" end="00:01:08.13" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>Lo you,<br></br>here she comes.</p>
+      <p begin="00:01:11.47" end="00:01:13.07" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>THIS IS<br></br>HER VERY GUISE,</p>
+      <p begin="00:01:13.07" end="00:01:15.70" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>AND, UPON MY LIFE,<br></br>FAST ASLEEP.</p>
+      <p begin="00:01:15.70" end="00:01:17.97" tts:textAlign="right"><metadata ccrow="13" cccol="20"/>HOW CAME SHE<br></br>BY THAT LIGHT?</p>
+      <p begin="00:01:17.97" end="00:01:19.50" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>WHY, IT STOOD BY HER;</p>
+      <p begin="00:01:19.50" end="00:01:21.73" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>SHE HAS LIGHT<br></br>BY HER CONTINUALLY.</p>
+      <p begin="00:01:21.73" end="00:01:23.27" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>&apos;TIS HER COMMAND.</p>
+      <p begin="00:01:23.27" end="00:01:25.60" tts:textAlign="right"><metadata ccrow="13" cccol="24"/>YOU SEE?<br></br>HER EYES ARE OPEN!</p>
+      <p begin="00:01:25.60" end="00:01:28.37" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>AYE, BUT THEIR SENSE<br></br>IS SHUT.</p>
+      <p begin="00:01:32.37" end="00:01:34.47"><metadata ccrow="12" cccol="22"/>WHAT IS IT<br></br>SHE DOES NOW?</p>
+      <p begin="00:01:32.37" end="00:01:34.47"><metadata ccrow="14" cccol="1"/>SHH.</p>
+      <p begin="00:01:39.37" end="00:01:41.03" tts:textAlign="right"><metadata ccrow="13" cccol="24"/>LOOK HOW<br></br>SHE RUBS HER HANDS.</p>
+      <p begin="00:01:41.03" end="00:01:42.70" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>IT IS AN ACCUSTOMED ACTION<br></br>WITH HER</p>
+      <p begin="00:01:42.70" end="00:01:45.17" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>TO BE SEEN THUS<br></br>WASHING HER HANDS.</p>
+      <p begin="00:01:45.17" end="00:01:46.83" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>I HAVE KNOWN HER<br></br>CONTINUE IN THIS</p>
+      <p begin="00:01:46.83" end="00:01:47.97" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>A QUARTER OF AN HOUR.</p>
+      <p begin="00:01:47.97" end="00:01:49.23"><metadata ccrow="14" cccol="7"/>YET HERE&apos;S A SPOT.</p>
+      <p begin="00:01:49.23" end="00:01:50.57" tts:textAlign="right"><metadata ccrow="14" cccol="15"/>HARK, SHE SPEAKS.</p>
+      <p begin="00:01:50.57" end="00:01:53.83"><metadata ccrow="14" cccol="7"/>OUT, DAMNED SPOT.</p>
+      <p begin="00:01:53.83" end="00:01:56.30"><metadata ccrow="13" cccol="12"/>[crying]<br></br>OUT, I SAY.</p>
+      <p begin="00:01:58.10" end="00:02:00.60"><metadata ccrow="14" cccol="13"/>ONE...</p>
+      <p begin="00:02:00.60" end="00:02:02.33"><metadata ccrow="14" cccol="13"/>TWO...</p>
+      <p begin="00:02:02.33" end="00:02:05.70"><metadata ccrow="13" cccol="11"/>WHY, THEN<br></br>&apos;TIS TIME TO DO IT.</p>
+      <p begin="00:02:11.53" end="00:02:17.30"><metadata ccrow="14" cccol="9"/>HELL IS MURKY.</p>
+      <p begin="00:02:17.30" end="00:02:19.97"><metadata ccrow="14" cccol="7"/>FIE, MY LORD, FIE!</p>
+      <p begin="00:02:19.97" end="00:02:22.30"><metadata ccrow="14" cccol="5"/>A SOLDIER, AND AFEARD?</p>
+      <p begin="00:02:22.30" end="00:02:24.17"><metadata ccrow="13" cccol="7"/>WHAT NEED WE FEAR<br></br>WHO KNOWS IT,</p>
+      <p begin="00:02:24.17" end="00:02:26.20"><metadata ccrow="13" cccol="7"/>WHEN NONE CAN CALL<br></br>OUR POWER TO ACCOUNT?</p>
+      <p begin="00:02:28.63" end="00:02:30.10"><metadata ccrow="14" cccol="3"/>YET WHO WOULD HAVE THOUGHT</p>
+      <p begin="00:02:30.10" end="00:02:34.53"><metadata ccrow="13" cccol="4"/>THE OLD MAN TO HAVE HAD<br></br>SO MUCH BLOOD IN HIM?</p>
+      <p begin="00:02:34.53" end="00:02:35.97" tts:textAlign="right"><metadata ccrow="14" cccol="15"/>DO YOU MARK THAT?</p>
+      <p begin="00:02:37.90" end="00:02:45.00"><metadata ccrow="13" cccol="6"/>♪ THE THANE OF FIFE<br></br>HAD A WIFE. ♪</p>
+      <p begin="00:02:45.00" end="00:02:46.97"><metadata ccrow="14" cccol="7"/>WHERE IS SHE NOW?</p>
+      <p begin="00:02:46.97" end="00:02:53.13"><metadata ccrow="13" cccol="5"/>WHAT, WILL THESE HANDS<br></br>NE&apos;ER BE CLEAN?</p>
+      <p begin="00:02:54.67" end="00:02:56.93"><metadata ccrow="13" cccol="3"/>NO MORE O&apos; THAT, MY LORD.<br></br>NO MORE O&apos; THAT.</p>
+      <p begin="00:02:56.93" end="00:02:59.80" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>YOU MAR ALL<br></br>WITH THIS STARTING.</p>
+      <p begin="00:02:59.80" end="00:03:01.03" tts:textAlign="right"><metadata ccrow="14" cccol="17"/><span tts:fontStyle="italic" > GO TO!  GO TO!</span></p>
+      <p begin="00:03:01.03" end="00:03:02.67" tts:textAlign="right"><metadata ccrow="13" cccol="17"/><span tts:fontStyle="italic" > YOU HAVE KNOWN<br></br> WHAT YOU SHOULD NOT.</span></p>
+      <p begin="00:03:02.67" end="00:03:04.30" tts:textAlign="right"><metadata ccrow="13" cccol="19"/>SHE HAS SPOKE<br></br>WHAT SHE SHOULD NOT;</p>
+      <p begin="00:03:04.30" end="00:03:05.23" tts:textAlign="right"><metadata ccrow="14" cccol="14"/>I AM SURE OF THAT.</p>
+      <p begin="00:03:05.23" end="00:03:07.70" tts:textAlign="right"><metadata ccrow="13" cccol="20"/>HEAVEN KNOWS<br></br>WHAT SHE HAS KNOWN.</p>
+      <p begin="00:03:07.70" end="00:03:09.13"><metadata ccrow="14" cccol="7"/>[gasps]</p>
+      <p begin="00:03:09.13" end="00:03:10.27"><metadata ccrow="14" cccol="8"/>YET!</p>
+      <p begin="00:03:10.27" end="00:03:13.83" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>HERE&apos;S THE SMELL<br></br>OF THE BLOOD STILL.</p>
+      <p begin="00:03:13.83" end="00:03:17.63"><metadata ccrow="14" cccol="6"/>[breathing heavily]</p>
+      <p begin="00:03:17.63" end="00:03:28.20"><metadata ccrow="13" cccol="0"/>ALL THE PERFUMES OF ARABIA WILL<br></br>NOT SWEETEN THIS LITTLE HAND.</p>
+      <p begin="00:03:28.20" end="00:03:30.20"><metadata ccrow="14" cccol="11"/>[sniffing]</p>
+      <p begin="00:03:31.13" end="00:03:32.73"><metadata ccrow="14" cccol="12"/>[crying]</p>
+      <p begin="00:03:32.73" end="00:03:34.53" tts:textAlign="right"><metadata ccrow="14" cccol="11"/>WHAT A SIGH IS THERE!</p>
+      <p begin="00:03:34.53" end="00:03:36.47" tts:textAlign="right"><metadata ccrow="13" cccol="23"/>THE HEART<br></br>IS SORELY CHARGED.</p>
+      <p begin="00:03:36.47" end="00:03:38.40" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>I WOULD NOT HAVE SUCH<br></br>A HEART IN MY BOSOM</p>
+      <p begin="00:03:38.40" end="00:03:40.57" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>FOR THE DIGNITY<br></br>OF THE WHOLE BODY.</p>
+      <p begin="00:03:40.57" end="00:03:42.90" tts:textAlign="right"><metadata ccrow="14" cccol="14"/>WELL, WELL, WELL--</p>
+      <p begin="00:03:42.90" end="00:03:44.67" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>PRAY GOD IT BE, SIR.</p>
+      <p begin="00:03:44.67" end="00:03:45.67"><metadata ccrow="14" cccol="12"/>[gasps]</p>
+      <p begin="00:03:50.23" end="00:03:52.10" tts:textAlign="right"><metadata ccrow="13" cccol="20"/>THIS DISEASE<br></br>IS BEYOND MY PRACTICE.</p>
+      <p begin="00:03:52.10" end="00:03:53.50" tts:textAlign="right"><metadata ccrow="14" cccol="10"/>YET I HAVE KNOWN THOSE</p>
+      <p begin="00:03:53.50" end="00:03:55.13" tts:textAlign="right"><metadata ccrow="13" cccol="15"/>WHICH HAVE WALKED<br></br>IN THEIR SLEEP</p>
+      <p begin="00:03:55.13" end="00:03:57.83" tts:textAlign="right"><metadata ccrow="13" cccol="12"/>WHO HAVE DIED HOLILY<br></br>IN THEIR BEDS.</p>
+      <p begin="00:03:57.83" end="00:04:00.07"><metadata ccrow="14" cccol="8"/>WASH YOUR HANDS.</p>
+      <p begin="00:04:00.07" end="00:04:01.37"><metadata ccrow="14" cccol="5"/>PUT ON YOUR NIGHTGOWN.</p>
+      <p begin="00:04:01.37" end="00:04:02.87"><metadata ccrow="14" cccol="7"/>LOOK NOT SO PALE.</p>
+      <p begin="00:04:02.87" end="00:04:06.00"><metadata ccrow="13" cccol="5"/>I TELL YOU YET AGAIN,<br></br>BANQUO&apos;S BURIED;</p>
+      <p begin="00:04:06.00" end="00:04:08.07"><metadata ccrow="13" cccol="7"/>HE CANNOT COME OUT<br></br>ON &apos;S GRAVE!</p>
+      <p begin="00:04:08.07" end="00:04:09.63" tts:textAlign="right"><metadata ccrow="14" cccol="24"/>EVEN SO?</p>
+      <p begin="00:04:09.63" end="00:04:12.87"><metadata ccrow="13" cccol="11"/>[whispers]<br></br>To bed, to bed.</p>
+      <p begin="00:04:12.87" end="00:04:14.97"><metadata ccrow="13" cccol="8"/>THERE&apos;S KNOCKING<br></br>AT THE GATE; COME.</p>
+      <p begin="00:04:14.97" end="00:04:17.97"><metadata ccrow="14" cccol="13"/>COME!</p>
+      <p begin="00:04:17.97" end="00:04:21.90"><metadata ccrow="14" cccol="10"/>COME!  COME!</p>
+      <p begin="00:04:21.90" end="00:04:23.70"><metadata ccrow="14" cccol="7"/>GIVE ME YOUR HAND.</p>
+      <p begin="00:04:23.70" end="00:04:30.87"><metadata ccrow="13" cccol="10"/>WHAT&apos;S DONE<br></br>CANNOT BE UNDONE.</p>
+      <p begin="00:04:32.90" end="00:04:39.17"><metadata ccrow="14" cccol="8"/>TO BED!  TO BED!</p>
+      <p begin="00:04:39.17" end="00:04:41.10"><metadata ccrow="14" cccol="12"/>TO BED!</p>
+      <p begin="00:04:41.10" end="00:04:43.10" tts:textAlign="right"><metadata ccrow="14" cccol="22"/>[grunting]</p>
+      <p begin="00:04:47.27" end="00:04:48.50" tts:textAlign="right"><metadata ccrow="14" cccol="9"/>WILL SHE GO NOW TO BED?</p>
+      <p begin="00:04:48.50" end="00:04:50.70" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>DIRECTLY.</p>
+      <p begin="00:04:50.70" end="00:04:53.13" tts:textAlign="right"><metadata ccrow="13" cccol="16"/>FOUL WHISPERINGS<br></br>ARE ABROAD.</p>
+      <p begin="00:04:53.13" end="00:04:55.93" tts:textAlign="right"><metadata ccrow="13" cccol="17"/>UNNATURAL DEEDS<br></br>DO BREED UNNATURAL TROUBLES.</p>
+      <p begin="00:04:55.93" end="00:04:57.63" tts:textAlign="right"><metadata ccrow="13" cccol="18"/>INFECTED MINDS<br></br>TO THEIR DEAF PILLOWS</p>
+      <p begin="00:04:57.63" end="00:04:59.57" tts:textAlign="right"><metadata ccrow="13" cccol="18"/>WILL DISCHARGE<br></br>THEIR SECRETS.</p>
+      <p begin="00:04:59.57" end="00:05:03.13" tts:textAlign="right"><metadata ccrow="13" cccol="7"/>MORE NEEDS SHE THE DIVINE<br></br>THAN THE PHYSICIAN.</p>
+      <p begin="00:05:03.13" end="00:05:08.13" tts:textAlign="right"><metadata ccrow="14" cccol="8"/>GOD--GOD FORGIVE US ALL.</p>
+      <p begin="00:05:08.13" end="00:05:09.33" tts:textAlign="right"><metadata ccrow="14" cccol="17"/>LOOK AFTER HER.</p>
+      <p begin="00:05:09.33" end="00:05:11.27" tts:textAlign="right"><metadata ccrow="13" cccol="17"/>REMOVE FROM HER<br></br>THE MEANS OF ALL ANNOYANCE,</p>
+      <p begin="00:05:11.27" end="00:05:12.70" tts:textAlign="right"><metadata ccrow="13" cccol="13"/>AND STILL KEEP EYES<br></br>UPON HER.</p>
+      <p begin="00:05:12.70" end="00:05:13.90" tts:textAlign="right"><metadata ccrow="14" cccol="18"/>SO GOOD NIGHT.</p>
+      <p begin="00:05:13.90" end="00:05:15.03" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>GOOD NIGHT,<br></br>GOOD DOCTOR.</p>
+      <p begin="00:05:16.27" end="00:05:20.63"><metadata ccrow="13" cccol="5"/>MY MIND SHE HAS MATED<br></br>AND AMAZED MY SIGHT.</p>
+      <p begin="00:05:20.63" end="00:05:24.53"><metadata ccrow="13" cccol="12"/>I THINK,<br></br>BUT DARE NOT SPEAK.</p>
+      <p begin="00:05:30.83" end="00:05:32.77" tts:textAlign="right"><metadata ccrow="13" cccol="21"/><span tts:fontStyle="italic" > (Menteith)<br></br> THE ENGLISH POWER IS NEAR,</span></p>
+      <p begin="00:05:32.77" end="00:05:34.13"><metadata ccrow="14" cccol="7"/>LED ON BY MALCOLM,</p>
+      <p begin="00:05:34.13" end="00:05:37.63"><metadata ccrow="13" cccol="7"/>HIS UNCLE SIWARD,<br></br>AND THE GOOD MACDUFF.</p>
+      <p begin="00:05:39.53" end="00:05:40.97"><metadata ccrow="14" cccol="8"/>REVENGES BURN IN THEM;</p>
+      <p begin="00:05:40.97" end="00:05:43.30"><metadata ccrow="13" cccol="9"/>FOR THEIR DEAR CAUSES<br></br>WOULD TO THE BLEEDING</p>
+      <p begin="00:05:43.30" end="00:05:45.90" tts:textAlign="right"><metadata ccrow="13" cccol="7"/>AND THE GRIM ALARM EXCITE<br></br>THE MORTIFIED MAN.</p>
+      <p begin="00:05:45.90" end="00:05:47.77" tts:textAlign="right"><metadata ccrow="13" cccol="16"/>NEAR BIRNAM WOOD<br></br>SHALL WE MEET THEM.</p>
+      <p begin="00:05:47.77" end="00:05:48.90" tts:textAlign="right"><metadata ccrow="13" cccol="24"/>THAT WAY<br></br>ARE THEY COMING.</p>
+      <p begin="00:05:48.90" end="00:05:51.17"><metadata ccrow="13" cccol="5"/>WHO KNOWS IF DONALBAIN<br></br>BE WITH HIS BROTHER?</p>
+      <p begin="00:05:51.17" end="00:05:52.83" tts:textAlign="right"><metadata ccrow="13" cccol="20"/>FOR CERTAIN,<br></br>SIR, HE&apos;S NOT.</p>
+      <p begin="00:05:52.83" end="00:05:54.50" tts:textAlign="right"><metadata ccrow="13" cccol="19"/>I HAVE A FILE<br></br>OF ALL THE GENTRY.</p>
+      <p begin="00:05:54.50" end="00:05:57.83" tts:textAlign="right"><metadata ccrow="13" cccol="10"/>THERE IS SIWARD&apos;S SON,<br></br>AND MANY UNROUGH YOUTHS</p>
+      <p begin="00:05:57.83" end="00:06:00.43" tts:textAlign="right"><metadata ccrow="13" cccol="11"/>THAT EVEN NOW PROTEST<br></br>THEIR FIRST OF MANHOOD.</p>
+      <p begin="00:06:00.43" end="00:06:02.50" tts:textAlign="right"><metadata ccrow="14" cccol="11"/>WHAT DOES THE TYRANT?</p>
+      <p begin="00:06:02.50" end="00:06:04.73" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>GREAT DUNSINANE<br></br>HE STRONGLY FORTIFIES.</p>
+      <p begin="00:06:04.73" end="00:06:06.50" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>SOME SAY HE&apos;S MAD.</p>
+      <p begin="00:06:06.50" end="00:06:11.10" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>OTHERS THAT LESSER HATE HIM<br></br>DO CALL IT VALIANT FURY.</p>
+      <p begin="00:06:11.10" end="00:06:12.10" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>BUT FOR CERTAIN</p>
+      <p begin="00:06:12.10" end="00:06:14.03" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>HE CANNOT BUCKLE<br></br>HIS DISTEMPERED CAUSE</p>
+      <p begin="00:06:14.03" end="00:06:16.47" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>WITHIN THE BELT<br></br>OF RULE.</p>
+      <p begin="00:06:16.47" end="00:06:20.07"><metadata ccrow="13" cccol="2"/>NOW DOES HE FEEL HIS SECRET<br></br>MURDERS STICKING ON HIS HANDS.</p>
+      <p begin="00:06:20.07" end="00:06:23.27"><metadata ccrow="13" cccol="2"/>NOW MINUTELY REVOLTS UPBRAID<br></br>HIS FAITH BREACH.</p>
+      <p begin="00:06:23.27" end="00:06:27.83"><metadata ccrow="13" cccol="2"/>THOSE HE COMMANDS MOVE ONLY<br></br>IN COMMAND, NOTHING IN LOVE.</p>
+      <p begin="00:06:27.83" end="00:06:31.70"><metadata ccrow="13" cccol="3"/>NOW DOES HE FEEL HIS TITLE<br></br>HANG LOOSE ABOUT HIM,</p>
+      <p begin="00:06:31.70" end="00:06:34.80"><metadata ccrow="13" cccol="6"/>LIKE A GIANT&apos;S ROBE<br></br>UPON A DWARFISH THIEF.</p>
+      <p begin="00:06:34.80" end="00:06:37.30" tts:textAlign="right"><metadata ccrow="11" cccol="8"/>[men chuckling]</p>
+      <p begin="00:06:34.80" end="00:06:37.30" tts:textAlign="right"><metadata ccrow="13" cccol="12"/>WHO THEN SHALL BLAME<br></br>HIS PESTERED SENSES</p>
+      <p begin="00:06:37.30" end="00:06:39.73" tts:textAlign="right"><metadata ccrow="13" cccol="12"/>TO RECOIL AND START,<br></br>WHEN ALL THAT IS WITHIN HIM</p>
+      <p begin="00:06:39.73" end="00:06:41.83" tts:textAlign="right"><metadata ccrow="13" cccol="13"/>DOES CONDEMN ITSELF<br></br>FOR BEING THERE?</p>
+      <p begin="00:06:41.83" end="00:06:43.10" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>WELL, MARCH WE ON,</p>
+      <p begin="00:06:43.10" end="00:06:45.27" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>TO GIVE OBEDIENCE<br></br>WHERE &apos;TIS TRULY OWED.</p>
+      <p begin="00:06:45.27" end="00:06:47.67" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>MEET WE THE MEDICINE<br></br>OF THE SICKLY WEAL,</p>
+      <p begin="00:06:47.67" end="00:06:50.47" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>AND WITH HIM POUR WE,<br></br>IN OUR COUNTRY&apos;S PURGE,</p>
+      <p begin="00:06:50.47" end="00:06:52.17" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>EACH DROP OF US.</p>
+      <p begin="00:06:52.17" end="00:06:55.97" tts:textAlign="right"><metadata ccrow="13" cccol="10"/>OR SO MUCH AS IT NEEDS<br></br>TO DEW THE SOVEREIGN FLOWER</p>
+      <p begin="00:06:55.97" end="00:06:58.53" tts:textAlign="right"><metadata ccrow="14" cccol="12"/>AND DROWN THE WEEDS.</p>
+      <p begin="00:06:58.53" end="00:07:01.87" tts:textAlign="right"><metadata ccrow="13" cccol="15"/>MAKE WE OUR MARCH<br></br>TOWARDS BIRNAM.</p>
+      <p begin="00:07:05.97" end="00:07:08.33" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>BRING ME<br></br>NO MORE REPORTS.</p>
+      <p begin="00:07:08.33" end="00:07:12.20" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>LET THEM FLY, ALL.</p>
+      <p begin="00:07:15.97" end="00:07:19.73"><metadata ccrow="13" cccol="4"/>TILL BIRNAM WOOD REMOVE<br></br>TO DUNSINANE,</p>
+      <p begin="00:07:19.73" end="00:07:22.20"><metadata ccrow="14" cccol="3"/>I CANNOT TAINT WITH FEAR.</p>
+      <p begin="00:07:24.83" end="00:07:27.63"><metadata ccrow="14" cccol="4"/>WHAT&apos;S THE BOY MALCOLM?</p>
+      <p begin="00:07:27.63" end="00:07:30.70"><metadata ccrow="14" cccol="3"/>WAS HE NOT BORN OF WOMAN?</p>
+      <p begin="00:07:32.50" end="00:07:34.97"><metadata ccrow="13" cccol="5"/>THE SPIRITS THAT KNOW<br></br>ALL MORTAL CONSEQUENCES</p>
+      <p begin="00:07:34.97" end="00:07:36.83"><metadata ccrow="14" cccol="4"/>HAVE PRONOUNCED ME THUS:</p>
+      <p begin="00:07:36.83" end="00:07:40.73"><metadata ccrow="13" cccol="6"/>&quot;FEAR NOT, MACBETH;<br></br>NO MAN THAT&apos;S BORN OF WOMAN</p>
+      <p begin="00:07:40.73" end="00:07:43.37"><metadata ccrow="13" cccol="11"/>SHALL E&apos;ER<br></br>HAVE POWER UPON THEE.&quot;</p>
+      <p begin="00:07:43.37" end="00:07:45.03"><metadata ccrow="14" cccol="4"/>THEN FLY, FALSE THANES,</p>
+      <p begin="00:07:45.03" end="00:07:48.43"><metadata ccrow="13" cccol="11"/>AND MINGLE<br></br>WITH THE ENGLISH EPICURES.</p>
+      <p begin="00:07:48.43" end="00:07:51.03"><metadata ccrow="13" cccol="7"/>THE MIND I SWAY BY<br></br>AND THE HEART I BEAR</p>
+      <p begin="00:07:51.03" end="00:07:55.23"><metadata ccrow="13" cccol="3"/>SHALL NEVER SAG WITH DOUBT<br></br>NOR SHAKE WITH FEAR.</p>
+      <p begin="00:07:56.80" end="00:08:00.37"><metadata ccrow="13" cccol="3"/>THE DEVIL DAMN THEE BLACK,<br></br>THOU CREAM-FACED LOON.</p>
+      <p begin="00:08:00.37" end="00:08:02.27" tts:textAlign="right"><metadata ccrow="13" cccol="15"/>WHERE GOT&apos;ST THOU<br></br>THAT GOOSE LOOK?</p>
+      <p begin="00:08:02.27" end="00:08:03.63" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>THERE ARE 10,000--</p>
+      <p begin="00:08:03.63" end="00:08:05.43" tts:textAlign="left"><metadata ccrow="12" cccol="7"/>GEESE, VILLAIN?</p>
+      <p begin="00:08:03.63" end="00:08:05.43" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>SOLDIERS, SIR.</p>
+      <p begin="00:08:05.43" end="00:08:07.67"><metadata ccrow="13" cccol="7"/>GO PRICK THY FACE<br></br>AND OVERRED THY FEAR,</p>
+      <p begin="00:08:07.67" end="00:08:08.83"><metadata ccrow="14" cccol="5"/>THOU LILY-LIVERED BOY.</p>
+      <p begin="00:08:08.83" end="00:08:10.10" tts:textAlign="right"><metadata ccrow="14" cccol="10"/><span tts:fontStyle="italic" > WHAT SOLDIERS, PATCH?</span></p>
+      <p begin="00:08:10.10" end="00:08:12.13"><metadata ccrow="14" cccol="7"/>DEATH OF THY SOUL.</p>
+      <p begin="00:08:12.13" end="00:08:15.07"><metadata ccrow="13" cccol="2"/>THOSE LINEN CHEEKS OF THINE<br></br>ARE COUNSELORS TO FEAR.</p>
+      <p begin="00:08:15.07" end="00:08:15.90"><metadata ccrow="14" cccol="9"/>WHAT SOLDIERS,</p>
+      <p begin="00:08:15.90" end="00:08:17.03" tts:textAlign="right"><metadata ccrow="14" cccol="22"/><span tts:fontStyle="italic" > WHEYFACE?</span></p>
+      <p begin="00:08:17.03" end="00:08:18.57"><metadata ccrow="14" cccol="4"/>THE ENGLISH FORCE, SIR.</p>
+      <p begin="00:08:18.57" end="00:08:20.40"><metadata ccrow="14" cccol="6"/>TAKE THY FACE HENCE!</p>
+      <p begin="00:08:20.40" end="00:08:21.53"><metadata ccrow="14" cccol="12"/>SEYTON!</p>
+      <p begin="00:08:23.73" end="00:08:26.37"><metadata ccrow="13" cccol="3"/>I AM ALMOST SICK AT HEART,<br></br>WHEN I BEHOLD--</p>
+      <p begin="00:08:26.37" end="00:08:29.03"><metadata ccrow="14" cccol="9"/>SEYTON, I SAY!</p>
+      <p begin="00:08:30.93" end="00:08:33.73"><metadata ccrow="13" cccol="11"/>THIS PUSH<br></br>WILL CHEER ME EVER...</p>
+      <p begin="00:08:33.73" end="00:08:38.47"><metadata ccrow="14" cccol="7"/>OR DISSEAT ME NOW.</p>
+      <p begin="00:08:41.70" end="00:08:45.20"><metadata ccrow="14" cccol="3"/>I HAVE LIVED LONG ENOUGH.</p>
+      <p begin="00:08:45.20" end="00:08:49.33"><metadata ccrow="13" cccol="9"/>MY WAY OF LIFE<br></br>IS FALL&apos;N INTO THE SEAR,</p>
+      <p begin="00:08:49.33" end="00:08:53.93"><metadata ccrow="14" cccol="8"/>THE YELLOW LEAF;</p>
+      <p begin="00:08:53.93" end="00:08:57.27"><metadata ccrow="13" cccol="5"/>AND THAT WHICH SHOULD<br></br>ACCOMPANY OLD AGE,</p>
+      <p begin="00:08:57.27" end="00:09:05.80"><metadata ccrow="13" cccol="3"/>AS HONOR, LOVE, OBEDIENCE,<br></br>TROOPS OF FRIENDS,</p>
+      <p begin="00:09:05.80" end="00:09:07.70"><metadata ccrow="14" cccol="4"/>I MUST NOT LOOK TO HAVE,</p>
+      <p begin="00:09:07.70" end="00:09:11.47"><metadata ccrow="13" cccol="3"/>BUT IN THEIR STEAD CURSES,<br></br>NOT LOUD BUT DEEP,</p>
+      <p begin="00:09:11.47" end="00:09:12.93"><metadata ccrow="14" cccol="6"/>MOUTH-HONOR, BREATH,</p>
+      <p begin="00:09:12.93" end="00:09:16.43" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>WOULD FAIN DENY AND DARE NOT.</p>
+      <p begin="00:09:16.43" end="00:09:18.63"><metadata ccrow="14" cccol="12"/>SEYTON!</p>
+      <p begin="00:09:18.63" end="00:09:20.00" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>WHAT&apos;S YOUR<br></br>GRACIOUS PLEASURE?</p>
+      <p begin="00:09:20.00" end="00:09:21.23" tts:textAlign="right"><metadata ccrow="14" cccol="17"/>WHAT NEWS MORE?</p>
+      <p begin="00:09:21.23" end="00:09:23.53" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>ALL IS CONFIRMED, MY LORD,<br></br>WHICH WAS REPORTED.</p>
+      <p begin="00:09:23.53" end="00:09:25.57"><metadata ccrow="14" cccol="9"/>I&apos;LL FIGHT...</p>
+      <p begin="00:09:25.57" end="00:09:28.30"><metadata ccrow="13" cccol="7"/>TILL FROM MY BONES<br></br>MY FLESH BE HACKED.</p>
+      <p begin="00:09:28.30" end="00:09:29.60"><metadata ccrow="14" cccol="7"/>BRING ME MY ARMOR.</p>
+      <p begin="00:09:29.60" end="00:09:30.70" tts:textAlign="left"><metadata ccrow="14" cccol="0"/><span tts:fontStyle="italic" >&apos;TIS NOT NEEDED YET.</span></p>
+      <p begin="00:09:30.70" end="00:09:32.60"><metadata ccrow="13" cccol="8"/>I&apos;LL PUT IT ON.<br></br>SEND OUT MORE HORSES.</p>
+      <p begin="00:09:32.60" end="00:09:33.73"><metadata ccrow="14" cccol="4"/>SKIRR THE COUNTRY ROUND.</p>
+      <p begin="00:09:33.73" end="00:09:35.37" tts:textAlign="right"><metadata ccrow="13" cccol="22"/>HANG THOSE<br></br>THAT TALK OF FEAR!</p>
+      <p begin="00:09:35.37" end="00:09:36.70" tts:textAlign="right"><metadata ccrow="14" cccol="14"/>BRING ME MY ARMOR!</p>
+      <p begin="00:09:40.73" end="00:09:43.63" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>HOW DOES YOUR PATIENT,<br></br>DOCTOR?</p>
+      <p begin="00:09:43.63" end="00:09:46.30" tts:textAlign="right"><metadata ccrow="13" cccol="11"/>NOT SO SICK, MY LORD,<br></br>AS SHE IS TROUBLED</p>
+      <p begin="00:09:46.30" end="00:09:49.23" tts:textAlign="right"><metadata ccrow="13" cccol="7"/>WITH THICK-COMING FANCIES<br></br>THAT KEEP HER FROM HER REST.</p>
+      <p begin="00:09:49.23" end="00:09:51.53" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>CURE HER OF THAT.</p>
+      <p begin="00:09:51.53" end="00:09:55.20" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>CANST THOU NOT MINISTER<br></br>TO A MIND DISEASED,</p>
+      <p begin="00:09:55.20" end="00:09:58.10" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>PLUCK FROM THE MEMORY<br></br>A ROOTED SORROW,</p>
+      <p begin="00:09:58.10" end="00:10:01.07" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>RAZE OUT THE WRITTEN TROUBLES<br></br>OF THE BRAIN,</p>
+      <p begin="00:10:01.07" end="00:10:03.57" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>AND WITH SOME SWEET<br></br>OBLIVIOUS ANTIDOTE</p>
+      <p begin="00:10:03.57" end="00:10:05.17" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>CLEANSE THE STUFFED BOSOM</p>
+      <p begin="00:10:05.17" end="00:10:08.40" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>OF THAT PERILOUS STUFF<br></br>WHICH WEIGHS UPON THE HEART?</p>
+      <p begin="00:10:08.40" end="00:10:10.60" tts:textAlign="right"><metadata ccrow="13" cccol="13"/>THEREIN THE PATIENT<br></br>MUST MINISTER TO HIMSELF.</p>
+      <p begin="00:10:10.60" end="00:10:13.17" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>THROW PHYSIC TO THE DOGS!<br></br>I&apos;LL NONE OF IT!</p>
+      <p begin="00:10:13.17" end="00:10:15.37" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>COME, PUT MINE ARMOR ON.</p>
+      <p begin="00:10:15.37" end="00:10:16.97"><metadata ccrow="14" cccol="7"/>SEYTON, SEND OUT.</p>
+      <p begin="00:10:16.97" end="00:10:19.30"><metadata ccrow="13" cccol="7"/>DOCTOR, THE THANES<br></br>FLY FROM ME.</p>
+      <p begin="00:10:19.30" end="00:10:21.60" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>COME, SIR!  DISPATCH!</p>
+      <p begin="00:10:23.53" end="00:10:31.63" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>IF THOU COULDST, DOCTOR,<br></br>CAST THE WATER OF MY LAND,</p>
+      <p begin="00:10:31.63" end="00:10:34.60" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>FIND HER DISEASE</p>
+      <p begin="00:10:34.60" end="00:10:39.43" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>AND PURGE IT TO A SOUND<br></br>AND PRISTINE HEALTH,</p>
+      <p begin="00:10:39.43" end="00:10:43.00" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>I WOULD APPLAUD THEE<br></br>TO THE VERY ECHO,</p>
+      <p begin="00:10:43.00" end="00:10:44.90" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>THAT SHOULD APPLAUD AGAIN!</p>
+      <p begin="00:10:44.90" end="00:10:47.90" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>PULL IT OFF, I SAY!</p>
+      <p begin="00:10:47.90" end="00:10:51.77" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>WHAT RHUBARB, SENNA,<br></br>OR WHAT PURGATIVE DRUG</p>
+      <p begin="00:10:51.77" end="00:10:53.97" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>WOULD SCOUR<br></br>THESE ENGLISH HENCE?</p>
+      <p begin="00:10:53.97" end="00:10:55.67" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>HEAR&apos;ST THOU OF THEM?</p>
+      <p begin="00:10:55.67" end="00:10:56.93" tts:textAlign="right"><metadata ccrow="14" cccol="14"/>AYE, MY GOOD LORD.</p>
+      <p begin="00:10:56.93" end="00:10:59.13" tts:textAlign="right"><metadata ccrow="13" cccol="9"/>YOUR ROYAL PREPARATIONS<br></br>MAKE US HEAR SOMETHING.</p>
+      <p begin="00:11:02.77" end="00:11:04.63"><metadata ccrow="14" cccol="7"/>BRING IT AFTER ME.</p>
+      <p begin="00:11:04.63" end="00:11:08.30"><metadata ccrow="13" cccol="6"/>I WILL NOT BE AFRAID<br></br>OF DEATH AND BANE</p>
+      <p begin="00:11:08.30" end="00:11:10.87" tts:textAlign="right"><metadata ccrow="13" cccol="14"/>TILL BIRNAM FOREST<br></br>COME TO DUNSINANE.</p>
+      <p begin="00:11:12.30" end="00:11:13.97"><metadata ccrow="13" cccol="5"/>WERE I FROM DUNSINANE<br></br>AWAY AND CLEAR,</p>
+      <p begin="00:11:13.97" end="00:11:16.37"><metadata ccrow="13" cccol="10"/>PROFIT AGAIN<br></br>SHOULD HARDLY DRAW ME HERE.</p>
+      <p begin="00:11:17.93" end="00:11:20.27"><metadata ccrow="13" cccol="8"/>COUSINS, I HOPE<br></br>THE DAYS ARE NEAR AT HAND</p>
+      <p begin="00:11:20.27" end="00:11:21.87"><metadata ccrow="14" cccol="2"/>THAT CHAMBERS WILL BE SAFE.</p>
+      <p begin="00:11:21.87" end="00:11:23.73" tts:textAlign="left"><metadata ccrow="13" cccol="0"/><span tts:fontStyle="italic" >(Menteith)<br></br>WE DOUBT IT NOTHING.</span></p>
+      <p begin="00:11:23.73" end="00:11:26.23" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>WHAT WOOD IS THIS<br></br>BEFORE US?</p>
+      <p begin="00:11:26.23" end="00:11:28.37" tts:textAlign="left"><metadata ccrow="14" cccol="0"/><span tts:fontStyle="italic" >THE WOOD OF BIRNAM.</span></p>
+      <p begin="00:11:30.97" end="00:11:32.90"><metadata ccrow="13" cccol="7"/>LET EVERY SOLDIER<br></br>HEW HIM DOWN A BOUGH,</p>
+      <p begin="00:11:32.90" end="00:11:34.53"><metadata ccrow="14" cccol="4"/>AND BEAR IT BEFORE HIM.</p>
+      <p begin="00:11:34.53" end="00:11:36.73"><metadata ccrow="13" cccol="4"/>THEREBY SHALL WE SHADOW<br></br>THE NUMBERS OF OUR HOST,</p>
+      <p begin="00:11:36.73" end="00:11:38.67"><metadata ccrow="13" cccol="5"/>AND MAKE DISCOVERY ERR<br></br>IN REPORT OF US.</p>
+      <p begin="00:11:38.67" end="00:11:39.77"><metadata ccrow="14" cccol="12"/>IT SHALL BE DONE.</p>
+      <p begin="00:11:39.77" end="00:11:42.07" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>WE LEARN NO OTHER<br></br>BUT THE CONFIDENT TYRANT</p>
+      <p begin="00:11:42.07" end="00:11:44.07" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>KEEPS STILL<br></br>IN DUNSINANE,</p>
+      <p begin="00:11:44.07" end="00:11:46.63" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>AND WILL ENDURE<br></br>OUR SETTING DOWN BEFORE &apos;T.</p>
+      <p begin="00:11:46.63" end="00:11:47.77" tts:textAlign="right"><metadata ccrow="14" cccol="13"/>&apos;TIS HIS MAIN HOPE.</p>
+      <p begin="00:11:47.77" end="00:11:49.70" tts:textAlign="right"><metadata ccrow="13" cccol="14"/>FOR WHERE THERE IS<br></br>ADVANTAGE TO BE GIVEN,</p>
+      <p begin="00:11:49.70" end="00:11:50.97" tts:textAlign="right"><metadata ccrow="14" cccol="14"/>BOTH MORE AND LESS</p>
+      <p begin="00:11:50.97" end="00:11:53.43"><metadata ccrow="13" cccol="3"/>HAVE GIVEN HIM THE REVOLT,<br></br>AND NONE SERVE WITH HIM</p>
+      <p begin="00:11:53.43" end="00:11:56.10"><metadata ccrow="13" cccol="5"/>BUT CONSTRAINED THINGS<br></br>WHOSE HEARTS ARE ABSENT TOO.</p>
+      <p begin="00:11:56.10" end="00:11:59.20" tts:textAlign="right"><metadata ccrow="13" cccol="11"/>LET OUR JUST CENSURES<br></br>ATTEND THE TRUE EVENT,</p>
+      <p begin="00:11:59.20" end="00:12:02.60" tts:textAlign="right"><metadata ccrow="13" cccol="19"/>AND PUT WE ON<br></br>INDUSTRIOUS SOLDIERSHIP!</p>
+      <p begin="00:12:02.60" end="00:12:05.87" tts:textAlign="left"><metadata ccrow="12" cccol="0"/><span tts:fontStyle="italic" >(Siward)<br></br>THE TIME APPROACHES<br></br>THAT WILL WITH DUE DECISION</span></p>
+      <p begin="00:12:05.87" end="00:12:08.33" tts:textAlign="left"><metadata ccrow="13" cccol="7"/>MAKE US KNOW<br></br>WHAT WE SHALL SAY WE HAVE</p>
+      <p begin="00:12:08.33" end="00:12:09.97"><metadata ccrow="14" cccol="5"/>AND WHAT WE OWE.</p>
+      <p begin="00:12:09.97" end="00:12:14.57"><metadata ccrow="13" cccol="4"/>THOUGHTS SPECULATIVE<br></br>THEIR UNSURE HOPES RELATE,</p>
+      <p begin="00:12:14.57" end="00:12:17.63"><metadata ccrow="13" cccol="4"/>BUT CERTAIN ISSUE<br></br>STROKES MUST ARBITRATE.</p>
+      <p begin="00:12:17.63" end="00:12:20.60"><metadata ccrow="13" cccol="8"/>TOWARD WHICH<br></br>ADVANCE THE WAR.</p>
+      <p begin="00:12:30.53" end="00:12:33.33"><metadata ccrow="13" cccol="6"/>HANG OUT OUR BANNERS<br></br>ON THE OUTWARD WALLS!</p>
+      <p begin="00:12:33.33" end="00:12:37.50" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>THE CRY IS STILL,<br></br>&quot;THEY COME.&quot;</p>
+      <p begin="00:12:37.50" end="00:12:41.17" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>OUR CASTLE&apos;S STRENGTH<br></br>WILL LAUGH A SIEGE TO SCORN.</p>
+      <p begin="00:12:41.17" end="00:12:45.60" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>HERE LET THEM LIE TILL FAMINE<br></br>AND THE AGUE EAT THEM UP.</p>
+      <p begin="00:12:45.60" end="00:12:48.70"><metadata ccrow="13" cccol="12"/>WERE THEY NOT FORCED<br></br>WITH THOSE THAT SHOULD BE OURS,</p>
+      <p begin="00:12:48.70" end="00:12:50.23" tts:textAlign="right"><metadata ccrow="13" cccol="19"/>WE MIGHT HAVE<br></br>MET THEM DAREFUL,</p>
+      <p begin="00:12:50.23" end="00:12:51.47" tts:textAlign="right"><metadata ccrow="14" cccol="17"/>BEARD TO BEARD,</p>
+      <p begin="00:12:51.47" end="00:12:52.93" tts:textAlign="right"><metadata ccrow="13" cccol="19"/>AND BEAT THEM<br></br>BACKWARD HOME.</p>
+      <p begin="00:12:52.93" end="00:12:54.27"><metadata ccrow="14" cccol="8"/>[woman wailing]</p>
+      <p begin="00:12:54.27" end="00:12:56.13" tts:textAlign="right"><metadata ccrow="14" cccol="13"/>WHAT IS THAT NOISE?</p>
+      <p begin="00:12:56.13" end="00:12:58.13" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>IT IS THE CRY OF WOMEN,<br></br>MY GOOD LORD.</p>
+      <p begin="00:13:01.13" end="00:13:07.80"><metadata ccrow="13" cccol="6"/>I HAVE ALMOST FORGOT<br></br>THE TASTE OF FEARS.</p>
+      <p begin="00:13:07.80" end="00:13:09.60"><metadata ccrow="14" cccol="7"/>THE TIME HAS BEEN</p>
+      <p begin="00:13:09.60" end="00:13:12.90"><metadata ccrow="13" cccol="2"/>MY SENSES WOULD HAVE COOLED<br></br>TO HEAR A NIGHT SHRIEK,</p>
+      <p begin="00:13:12.90" end="00:13:16.20"><metadata ccrow="13" cccol="6"/>AND MY FELL OF HAIR<br></br>WOULD AT A DISMAL TREATISE</p>
+      <p begin="00:13:16.20" end="00:13:19.97"><metadata ccrow="13" cccol="9"/>ROUSE AND STIR<br></br>AS LIFE WERE IN IT.</p>
+      <p begin="00:13:19.97" end="00:13:24.33"><metadata ccrow="13" cccol="7"/>I HAVE SUPPED FULL<br></br>WITH HORRORS.</p>
+      <p begin="00:13:24.33" end="00:13:27.73"><metadata ccrow="13" cccol="7"/>DIRENESS, FAMILIAR<br></br>TO MY SLAUGHTEROUS THOUGHTS,</p>
+      <p begin="00:13:27.73" end="00:13:31.00"><metadata ccrow="14" cccol="5"/>CANNOT ONCE START ME.</p>
+      <p begin="00:13:32.53" end="00:13:34.47" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>WHEREFORE WAS THAT CRY?</p>
+      <p begin="00:13:34.47" end="00:13:37.83" tts:textAlign="right"><metadata ccrow="13" cccol="13"/>THE QUEEN, MY LORD,<br></br>IS DEAD.</p>
+      <p begin="00:13:37.83" end="00:13:39.47"><metadata ccrow="14" cccol="0"/>SHE SHOULD HAVE DIED HEREAFTER.</p>
+      <p begin="00:13:39.47" end="00:13:41.67"><metadata ccrow="13" cccol="2"/>THERE WOULD HAVE BEEN A TIME<br></br>FOR SUCH A WORD.</p>
+      <p begin="00:13:41.67" end="00:13:42.97"><metadata ccrow="14" cccol="11"/>TOMORROW--</p>
+      <p begin="00:13:47.97" end="00:13:53.00"><metadata ccrow="14" cccol="8"/>AND TOMORROW...</p>
+      <p begin="00:13:53.00" end="00:13:59.43"><metadata ccrow="13" cccol="8"/>AND TOMORROW...</p>
+      <p begin="00:13:59.43" end="00:14:04.90"><metadata ccrow="13" cccol="3"/>CREEPS IN THIS PETTY PACE<br></br>FROM DAY TO DAY,</p>
+      <p begin="00:14:04.90" end="00:14:09.27"><metadata ccrow="13" cccol="6"/>TO THE LAST SYLLABLE<br></br>OF RECORDED TIME,</p>
+      <p begin="00:14:09.27" end="00:14:13.70"><metadata ccrow="13" cccol="5"/>AND ALL OUR YESTERDAYS<br></br>HAVE LIGHTED FOOLS</p>
+      <p begin="00:14:13.70" end="00:14:18.03"><metadata ccrow="14" cccol="4"/>THE WAY TO DUSTY DEATH.</p>
+      <p begin="00:14:18.03" end="00:14:24.77"><metadata ccrow="14" cccol="4"/>OUT, OUT, BRIEF CANDLE.</p>
+      <p begin="00:14:24.77" end="00:14:26.77"><metadata ccrow="14" cccol="12"/>[scoffs]</p>
+      <p begin="00:14:26.77" end="00:14:29.37"><metadata ccrow="14" cccol="2"/>LIFE&apos;S BUT A WALKING SHADOW,</p>
+      <p begin="00:14:29.37" end="00:14:32.90"><metadata ccrow="13" cccol="1"/>A POOR PLAYER THAT STRUTS AND<br></br>FRETS HIS HOUR UPON THE STAGE</p>
+      <p begin="00:14:32.90" end="00:14:36.07"><metadata ccrow="14" cccol="3"/>AND THEN IS HEARD NO MORE.</p>
+      <p begin="00:14:36.07" end="00:14:38.47"><metadata ccrow="14" cccol="1"/>IT IS A TALE TOLD BY AN IDIOT.</p>
+      <p begin="00:14:38.47" end="00:14:44.53"><metadata ccrow="13" cccol="1"/>IT IS FULL OF SOUND AND FURY,<br></br>SIGNIFYING...</p>
+      <p begin="00:14:44.53" end="00:14:46.30"><metadata ccrow="14" cccol="12"/>NOTHING.</p>
+      <p begin="00:14:50.00" end="00:14:51.37"><metadata ccrow="14" cccol="1"/>THY COMEST TO USE THY TONGUE.</p>
+      <p begin="00:14:51.37" end="00:14:52.87" tts:textAlign="right"><metadata ccrow="14" cccol="14"/>THY STORY QUICKLY.</p>
+      <p begin="00:14:52.87" end="00:14:54.93" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>GRACIOUS MY LORD,</p>
+      <p begin="00:14:54.93" end="00:14:57.77" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>I SHOULD REPORT THAT<br></br>WHICH I SAY I SAW,</p>
+      <p begin="00:14:57.77" end="00:14:59.17" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>BUT KNOW NOT HOW<br></br>TO DO IT.</p>
+      <p begin="00:14:59.17" end="00:15:01.17"><metadata ccrow="14" cccol="8"/>WELL, SAY, SIR.</p>
+      <p begin="00:15:01.17" end="00:15:04.13" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>AS I STOOD MY WATCH<br></br>UPON THE HILL,</p>
+      <p begin="00:15:04.13" end="00:15:07.97" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>I LOOKED TOWARD BIRNAM,<br></br>AND ANON,</p>
+      <p begin="00:15:07.97" end="00:15:10.03" tts:textAlign="left"><metadata ccrow="13" cccol="0"/><span tts:fontStyle="italic" >METHOUGHT THE WOOD<br></br>BEGAN TO MOVE.</span></p>
+      <p begin="00:15:10.03" end="00:15:11.03"><metadata ccrow="14" cccol="13"/>LIAR!</p>
+      <p begin="00:15:11.03" end="00:15:12.03"><metadata ccrow="14" cccol="18"/>AND SLAVE!</p>
+      <p begin="00:15:12.03" end="00:15:13.97" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>LET ME ENDURE YOUR WRATH<br></br>IF IT BE NOT SO.</p>
+      <p begin="00:15:13.97" end="00:15:16.17" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>WITHIN THIS THREE MILE<br></br>MAY YOU SEE IT COMING,</p>
+      <p begin="00:15:16.17" end="00:15:17.27" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>I SAY, A MOVING GROVE.</p>
+      <p begin="00:15:17.27" end="00:15:18.40" tts:textAlign="right"><metadata ccrow="14" cccol="9"/>IF THOU SPEAK&apos;ST FALSE,</p>
+      <p begin="00:15:18.40" end="00:15:20.37" tts:textAlign="right"><metadata ccrow="13" cccol="14"/>UPON THE NEXT TREE<br></br>SHALT THOU HANG ALIVE</p>
+      <p begin="00:15:20.37" end="00:15:22.20" tts:textAlign="right"><metadata ccrow="14" cccol="9"/>TILL FAMINE CLING THEE!</p>
+      <p begin="00:15:23.27" end="00:15:25.77" tts:textAlign="right"><metadata ccrow="14" cccol="9"/>IF THY SPEECH BE SOOTH,</p>
+      <p begin="00:15:25.77" end="00:15:27.70" tts:textAlign="right"><metadata ccrow="13" cccol="14"/>I CARE NOT IF THOU<br></br>DOST FOR ME AS MUCH.</p>
+      <p begin="00:15:33.00" end="00:15:35.30"><metadata ccrow="14" cccol="5"/>I PULL IN RESOLUTION,</p>
+      <p begin="00:15:35.30" end="00:15:39.20"><metadata ccrow="13" cccol="7"/>AND BEGIN TO DOUBT<br></br>THE EQUIVOCATION OF THE FIEND</p>
+      <p begin="00:15:39.20" end="00:15:42.20"><metadata ccrow="14" cccol="5"/>THAT LIES LIKE TRUTH.</p>
+      <p begin="00:15:42.20" end="00:15:47.60"><metadata ccrow="13" cccol="2"/>&quot;FEAR NOT, TILL BIRNAM WOOD<br></br>DO COME TO DUNSINANE.&quot;</p>
+      <p begin="00:15:47.60" end="00:15:52.47"><metadata ccrow="13" cccol="6"/>AND NOW A WOOD COMES<br></br>TOWARD DUNSINANE.</p>
+      <p begin="00:15:54.80" end="00:15:57.23"><metadata ccrow="14" cccol="14"/>ARM.</p>
+      <p begin="00:15:57.23" end="00:16:00.63"><metadata ccrow="14" cccol="9"/>ARM!  AND OUT!</p>
+      <p begin="00:16:00.63" end="00:16:03.53"><metadata ccrow="13" cccol="3"/>IF THIS WHICH HE AVOUCHES<br></br>DOES APPEAR,</p>
+      <p begin="00:16:03.53" end="00:16:08.70"><metadata ccrow="13" cccol="3"/>THERE IS NOR FLYING HENCE<br></br>NOR TARRYING HERE.</p>
+      <p begin="00:16:08.70" end="00:16:12.87"><metadata ccrow="14" cccol="0"/>I &apos;GIN TO BE AWEARY O&apos; THE SUN,</p>
+      <p begin="00:16:12.87" end="00:16:16.97"><metadata ccrow="13" cccol="0"/>AND WISH THE ESTATE O&apos; THE WORLD<br></br>WERE NOW UNDONE.</p>
+      <p begin="00:16:16.97" end="00:16:18.27"><metadata ccrow="14" cccol="5"/>RING THE ALARUM BELL!</p>
+      <p begin="00:16:18.27" end="00:16:20.60"><metadata ccrow="14" cccol="10"/>BLOW, WIND!</p>
+      <p begin="00:16:20.60" end="00:16:22.47"><metadata ccrow="14" cccol="10"/>COME, WRACK!</p>
+      <p begin="00:16:22.47" end="00:16:25.83"><metadata ccrow="13" cccol="7"/>AT LEAST WE&apos;LL DIE<br></br>WITH HARNESS ON OUR BACK!</p>
+      <p begin="00:16:25.83" end="00:16:28.83"><metadata ccrow="14" cccol="5"/>[dramatic march music]</p>
+      <p begin="00:16:28.83" end="00:16:36.77"><metadata ccrow="14" cccol="14"/>♪ ♪</p>
+      <p begin="00:16:40.70" end="00:16:42.57"><metadata ccrow="14" cccol="8"/>NOW NEAR ENOUGH.</p>
+      <p begin="00:16:42.57" end="00:16:45.77"><metadata ccrow="13" cccol="1"/>YOUR LEAFY SCREENS THROW DOWN,<br></br>AND SHOW LIKE THOSE YOU ARE.</p>
+      <p begin="00:16:45.77" end="00:16:48.80"><metadata ccrow="13" cccol="7"/>YOU, WORTHY UNCLE,<br></br>SHALL, WITH MY COUSIN,</p>
+      <p begin="00:16:48.80" end="00:16:51.23"><metadata ccrow="13" cccol="5"/>YOUR RIGHT NOBLE SON,<br></br>LEAD OUR FIRST BATTLE.</p>
+      <p begin="00:16:51.23" end="00:16:54.57"><metadata ccrow="13" cccol="0"/>WORTHY MACDUFF AND WE WILL TAKE<br></br>UPON &apos;S WHAT ELSE REMAINS TO DO,</p>
+      <p begin="00:16:54.57" end="00:16:55.93"><metadata ccrow="14" cccol="4"/>ACCORDING TO OUR ORDER.</p>
+      <p begin="00:16:55.93" end="00:16:57.70" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>FARE YOU WELL.</p>
+      <p begin="00:16:57.70" end="00:17:00.93" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>DO WE BUT FIND<br></br>THE TYRANT&apos;S POWER TONIGHT,</p>
+      <p begin="00:17:00.93" end="00:17:06.33" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>LET US BE BEATEN<br></br>IF WE CANNOT FIGHT.</p>
+      <p begin="00:17:06.33" end="00:17:08.47" tts:textAlign="right"><metadata ccrow="13" cccol="24"/>MAKE ALL<br></br>OUR TRUMPETS SPEAK!</p>
+      <p begin="00:17:08.47" end="00:17:10.20"><metadata ccrow="14" cccol="6"/>[trumpets signaling]</p>
+      <p begin="00:17:10.20" end="00:17:12.03" tts:textAlign="right"><metadata ccrow="14" cccol="11"/>GIVE THEM ALL BREATH,</p>
+      <p begin="00:17:12.03" end="00:17:18.83" tts:textAlign="right"><metadata ccrow="13" cccol="6"/>THOSE CLAMOROUS HARBINGERS<br></br>OF BLOOD AND DEATH.</p>
+      <p begin="00:17:18.83" end="00:17:23.60"><metadata ccrow="13" cccol="1"/>THEY HAVE TIED ME TO A STAKE;<br></br>I CANNOT FLY,</p>
+      <p begin="00:17:23.60" end="00:17:27.43"><metadata ccrow="13" cccol="9"/>BUT BEARLIKE,<br></br>I MUST FIGHT THE COURSE.</p>
+      <p begin="00:17:27.43" end="00:17:30.67"><metadata ccrow="13" cccol="8"/>WHAT IS HE THAT<br></br>WAS NOT BORN OF WOMAN?</p>
+      <p begin="00:17:30.67" end="00:17:32.37"><metadata ccrow="14" cccol="11"/>[chuckles]</p>
+      <p begin="00:17:32.37" end="00:17:35.87"><metadata ccrow="13" cccol="4"/>SUCH A ONE AM I TO FEAR,<br></br>OR NONE.</p>
+      <p begin="00:17:35.87" end="00:17:37.67" tts:textAlign="right"><metadata ccrow="14" cccol="15"/>WHAT IS THY NAME?</p>
+      <p begin="00:17:41.73" end="00:17:43.53"><metadata ccrow="13" cccol="7"/>THOU&apos;LT BE AFRAID<br></br>TO HEAR IT.</p>
+      <p begin="00:17:43.53" end="00:17:44.70"><metadata ccrow="14" cccol="20"/>NO,</p>
+      <p begin="00:17:44.70" end="00:17:46.63" tts:textAlign="right"><metadata ccrow="13" cccol="13"/>THOUGH THOU CALL&apos;ST<br></br>THYSELF A HOTTER NAME</p>
+      <p begin="00:17:46.63" end="00:17:47.73" tts:textAlign="right"><metadata ccrow="14" cccol="12"/>THAN ANY IS IN HELL.</p>
+      <p begin="00:17:49.63" end="00:17:51.90"><metadata ccrow="14" cccol="7"/>MY NAME&apos;S MACBETH.</p>
+      <p begin="00:17:51.90" end="00:17:53.60"><metadata ccrow="14" cccol="19"/>[exhales]</p>
+      <p begin="00:17:53.60" end="00:17:56.57" tts:textAlign="right"><metadata ccrow="13" cccol="15"/>THE DEVIL HIMSELF<br></br>COULD NOT PRONOUNCE</p>
+      <p begin="00:17:56.57" end="00:17:58.47" tts:textAlign="right"><metadata ccrow="13" cccol="12"/>A TITLE MORE HATEFUL<br></br>TO MINE EAR.</p>
+      <p begin="00:17:58.47" end="00:18:00.30"><metadata ccrow="14" cccol="5"/>NO.</p>
+      <p begin="00:18:00.30" end="00:18:02.87" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>NOR MORE FEARFUL.</p>
+      <p begin="00:18:04.37" end="00:18:07.20" tts:textAlign="right"><metadata ccrow="13" cccol="21"/>THOU LIEST,<br></br>ABHORRED TYRANT.</p>
+      <p begin="00:18:08.47" end="00:18:11.43" tts:textAlign="right"><metadata ccrow="13" cccol="8"/>WITH MY SWORD I&apos;LL PROVE<br></br>THE LIE THOU SPEAK&apos;ST.</p>
+      <p begin="00:18:16.67" end="00:18:18.67"><metadata ccrow="14" cccol="7"/>[thunder rumbling]</p>
+      <p begin="00:18:23.00" end="00:18:24.03"><metadata ccrow="14" cccol="6"/>[grunts]</p>
+      <p begin="00:18:54.37" end="00:19:04.43"><metadata ccrow="0" cccol="0"/></p>
+      <p begin="00:19:04.43" end="00:19:06.10"><metadata ccrow="14" cccol="18"/>[cries]</p>
+      <p begin="00:19:06.10" end="00:19:10.00" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>THOU WAST BORN OF WOMAN.</p>
+      <p begin="00:19:13.60" end="00:19:18.90"><metadata ccrow="13" cccol="5"/>BUT SWORDS I SMILE AT,<br></br>WEAPONS LAUGH TO SCORN,</p>
+      <p begin="00:19:18.90" end="00:19:24.20"><metadata ccrow="13" cccol="7"/>BRANDISHED BY MAN<br></br>THAT&apos;S OF A WOMAN BORN.</p>
+      <p begin="00:19:26.23" end="00:19:33.57"><metadata ccrow="14" cccol="1"/>[suspensful music accelerates]</p>
+      <p begin="00:19:33.57" end="00:19:36.07"><metadata ccrow="14" cccol="12"/>TYRANT!</p>
+      <p begin="00:19:36.07" end="00:19:38.53"><metadata ccrow="14" cccol="9"/>SHOW THY FACE!</p>
+      <p begin="00:19:42.50" end="00:19:46.57"><metadata ccrow="13" cccol="6"/>IF THOU BE&apos;ST SLAIN<br></br>AND WITH NO STROKE OF MINE,</p>
+      <p begin="00:19:46.57" end="00:19:50.50"><metadata ccrow="13" cccol="1"/>MY WIFE AND CHILDREN&apos;S GHOSTS<br></br>WILL HAUNT ME STILL.</p>
+      <p begin="00:19:50.50" end="00:19:55.83"><metadata ccrow="13" cccol="5"/>EITHER THOU, MACBETH,<br></br>OR ELSE MY SWORD,</p>
+      <p begin="00:19:55.83" end="00:19:59.97"><metadata ccrow="13" cccol="4"/>WITH AN UNBATTERED EDGE,<br></br>I SHEATH AGAIN UNDEEDED.</p>
+      <p begin="00:19:59.97" end="00:20:03.07"><metadata ccrow="14" cccol="3"/>LET ME FIND HIM, FORTUNE.</p>
+      <p begin="00:20:03.07" end="00:20:05.37"><metadata ccrow="14" cccol="6"/>AND MORE I BEG NOT.</p>
+      <p begin="00:20:10.93" end="00:20:15.97"><metadata ccrow="13" cccol="0"/>WHY SHOULD I PLAY THE ROMAN FOOL<br></br>AND DIE ON MINE OWN SWORD?</p>
+      <p begin="00:20:15.97" end="00:20:20.50"><metadata ccrow="13" cccol="6"/>WHILES I SEE LIVES,<br></br>THE GASHES DO BETTER UPON THEM.</p>
+      <p begin="00:20:20.50" end="00:20:21.53" tts:textAlign="left"><metadata ccrow="13" cccol="0"/><span tts:fontStyle="italic" >(Macduff)<br></br>TURN,</span></p>
+      <p begin="00:20:21.53" end="00:20:24.53"><metadata ccrow="14" cccol="11"/>HELLHOUND.</p>
+      <p begin="00:20:24.53" end="00:20:26.20" tts:textAlign="left"><metadata ccrow="14" cccol="0"/><span tts:fontStyle="italic" >TURN!</span></p>
+      <p begin="00:20:30.90" end="00:20:34.37"><metadata ccrow="13" cccol="8"/>OF ALL MEN ELSE<br></br>I HAVE AVOIDED THEE.</p>
+      <p begin="00:20:34.37" end="00:20:38.77" tts:textAlign="right"><metadata ccrow="14" cccol="13"/><span tts:fontStyle="italic" > BUT GET THEE BACK.</span></p>
+      <p begin="00:20:38.77" end="00:20:43.57" tts:textAlign="right"><metadata ccrow="13" cccol="5"/>MY SOUL IS TOO MUCH CHARGED<br></br>WITH BLOOD OF THINE ALREADY.</p>
+      <p begin="00:20:43.57" end="00:20:47.00"><metadata ccrow="14" cccol="8"/>I HAVE NO WORDS.</p>
+      <p begin="00:20:47.00" end="00:20:49.87"><metadata ccrow="14" cccol="4"/>MY VOICE IS IN MY SWORD.</p>
+      <p begin="00:20:52.17" end="00:20:56.97"><metadata ccrow="13" cccol="5"/>THOU BLOODIER VILLAIN<br></br>THAN TERMS CAN GIVE THEE OUT!</p>
+      <p begin="00:21:03.87" end="00:21:13.87"><metadata ccrow="0" cccol="0"/></p>
+      <p begin="00:21:13.87" end="00:21:15.23" tts:textAlign="right"><metadata ccrow="14" cccol="14"/>THOU LOSEST LABOR.</p>
+      <p begin="00:21:19.67" end="00:21:23.00" tts:textAlign="right"><metadata ccrow="13" cccol="14"/>AS WELL MAYST THOU<br></br>THE INTRENCHANT AIR</p>
+      <p begin="00:21:23.00" end="00:21:27.57" tts:textAlign="right"><metadata ccrow="13" cccol="5"/>WITH THY KEEN BLADE IMPRESS<br></br>AS MAKE ME BLEED.</p>
+      <p begin="00:21:27.57" end="00:21:31.03" tts:textAlign="right"><metadata ccrow="14" cccol="10"/>I BEAR A CHARMED LIFE,</p>
+      <p begin="00:21:31.03" end="00:21:36.80" tts:textAlign="right"><metadata ccrow="13" cccol="12"/>WHICH MUST NOT YIELD<br></br>TO ONE OF WOMAN BORN.</p>
+      <p begin="00:21:36.80" end="00:21:40.33"><metadata ccrow="14" cccol="7"/>DESPAIR THY CHARM,</p>
+      <p begin="00:21:40.33" end="00:21:46.07"><metadata ccrow="13" cccol="7"/>AND LET THE ANGEL<br></br>WHOM THOU STILL HAST SERVED</p>
+      <p begin="00:21:46.07" end="00:21:48.20"><metadata ccrow="14" cccol="11"/>TELL THEE</p>
+      <p begin="00:21:48.20" end="00:21:52.13"><metadata ccrow="13" cccol="10"/>MACDUFF WAS<br></br>FROM HIS MOTHER&apos;S WOMB</p>
+      <p begin="00:21:52.13" end="00:21:55.30"><metadata ccrow="14" cccol="8"/>UNTIMELY RIPPED!</p>
+      <p begin="00:21:55.30" end="00:21:57.30"><metadata ccrow="14" cccol="12"/>[scoffs]</p>
+      <p begin="00:22:02.03" end="00:22:04.70"><metadata ccrow="14" cccol="12"/>[sighs]</p>
+      <p begin="00:22:10.33" end="00:22:14.67"><metadata ccrow="13" cccol="5"/>ACCURSED BE THE TONGUE<br></br>THAT TELLS ME SO,</p>
+      <p begin="00:22:14.67" end="00:22:20.03"><metadata ccrow="13" cccol="7"/>FOR IT HATH COWED<br></br>MY BETTER PART OF MAN.</p>
+      <p begin="00:22:24.37" end="00:22:28.53"><metadata ccrow="13" cccol="2"/>AND BE THESE JUGGLING FIENDS<br></br>NO MORE BELIEVED...</p>
+      <p begin="00:22:28.53" end="00:22:33.23"><metadata ccrow="13" cccol="6"/>THAT PALTER WITH US<br></br>IN A DOUBLE SENSE,</p>
+      <p begin="00:22:33.23" end="00:22:38.07"><metadata ccrow="13" cccol="1"/>THAT KEEP THE WORD OF PROMISE<br></br>TO OUR EAR</p>
+      <p begin="00:22:38.07" end="00:22:40.40"><metadata ccrow="14" cccol="3"/>AND BREAK IT TO OUR HOPE.</p>
+      <p begin="00:22:40.40" end="00:22:43.13"><metadata ccrow="14" cccol="11"/>[shudders]</p>
+      <p begin="00:22:43.13" end="00:22:44.87"><metadata ccrow="14" cccol="3"/>I&apos;LL NOT FIGHT WITH THEE.</p>
+      <p begin="00:22:44.87" end="00:22:49.60"><metadata ccrow="14" cccol="4"/>THEN YIELD THEE, COWARD!</p>
+      <p begin="00:22:49.60" end="00:22:52.43"><metadata ccrow="13" cccol="4"/>AND LIVE TO BE THE SHOW<br></br>AND GAZE OF THE TIME.</p>
+      <p begin="00:22:52.43" end="00:22:55.10"><metadata ccrow="13" cccol="8"/>WE&apos;LL HAVE THEE,<br></br>AS OUR RARER MONSTERS ARE,</p>
+      <p begin="00:22:55.10" end="00:22:58.10"><metadata ccrow="13" cccol="6"/><span tts:fontStyle="italic" > PAINTED UPON A POLE,<br></br> AND UNDERWRIT,</span></p>
+      <p begin="00:22:58.10" end="00:23:02.23"><metadata ccrow="14" cccol="1"/>&quot;HERE MAY YOU SEE THE TYRANT.&quot;</p>
+      <p begin="00:23:02.23" end="00:23:06.67"><metadata ccrow="14" cccol="8"/>I WILL NOT YIELD</p>
+      <p begin="00:23:06.67" end="00:23:10.77"><metadata ccrow="13" cccol="7"/>TO KISS THE GROUND<br></br>BEFORE YOUNG MALCOLM&apos;S FEET</p>
+      <p begin="00:23:10.77" end="00:23:13.37"><metadata ccrow="13" cccol="8"/>AND TO BE BAITED<br></br>WITH THE RABBLE&apos;S CURSE.</p>
+      <p begin="00:23:13.37" end="00:23:16.40"><metadata ccrow="13" cccol="7"/>THOUGH BIRNAM WOOD<br></br>BE COME TO DUNSINANE,</p>
+      <p begin="00:23:16.40" end="00:23:20.13"><metadata ccrow="13" cccol="7"/>AND THOU OPPOSED,<br></br>BEING OF NO WOMAN BORN,</p>
+      <p begin="00:23:20.13" end="00:23:21.80" tts:textAlign="right"><metadata ccrow="14" cccol="8"/>YET I WILL TRY THE LAST!</p>
+      <p begin="00:23:23.50" end="00:23:27.13" tts:textAlign="right"><metadata ccrow="13" cccol="18"/>BEFORE MY BODY<br></br>I THROW MY WARLIKE SHIELD.</p>
+      <p begin="00:23:27.13" end="00:23:30.20" tts:textAlign="right"><metadata ccrow="14" cccol="16"/>LAY ON, MACDUFF,</p>
+      <p begin="00:23:30.20" end="00:23:32.67" tts:textAlign="right"><metadata ccrow="13" cccol="15"/>AND DAMNED BE HIM<br></br>THAT FIRST CRIES,</p>
+      <p begin="00:23:32.67" end="00:23:34.63" tts:textAlign="right"><metadata ccrow="14" cccol="17"/>&quot;HOLD, ENOUGH!&quot;</p>
+      <p begin="00:23:59.90" end="00:24:09.97"><metadata ccrow="0" cccol="0"/></p>
+      <p begin="00:24:09.97" end="00:24:12.13" tts:textAlign="right"><metadata ccrow="14" cccol="14"/>THIS WAY, MY LORD.</p>
+      <p begin="00:24:12.13" end="00:24:14.70" tts:textAlign="right"><metadata ccrow="14" cccol="3"/>THE CASTLE&apos;S GENTLY RENDERED.</p>
+      <p begin="00:24:14.70" end="00:24:19.03" tts:textAlign="right"><metadata ccrow="13" cccol="11"/>THE DAY ALMOST ITSELF<br></br>PROFESSES YOURS,</p>
+      <p begin="00:24:19.03" end="00:24:20.90" tts:textAlign="right"><metadata ccrow="14" cccol="12"/>AND LITTLE IS TO DO.</p>
+      <p begin="00:24:20.90" end="00:24:23.10" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>I WOULD THE FRIENDS WE MISS<br></br>WERE SAFE ARRIVED.</p>
+      <p begin="00:24:23.10" end="00:24:25.30" tts:textAlign="right"><metadata ccrow="14" cccol="15"/>SOME MUST GO OFF.</p>
+      <p begin="00:24:25.30" end="00:24:27.43"><metadata ccrow="14" cccol="4"/>AND YET, BY THESE I SEE,</p>
+      <p begin="00:24:27.43" end="00:24:30.30"><metadata ccrow="13" cccol="9"/>SO GREAT A DAY<br></br>AS THIS IS CHEAPLY BOUGHT.</p>
+      <p begin="00:24:30.30" end="00:24:33.70" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>MACDUFF IS MISSING,<br></br>AND YOUR NOBLE SON.</p>
+      <p begin="00:24:35.93" end="00:24:39.17" tts:textAlign="right"><metadata ccrow="13" cccol="14"/>YOUR SON, MY LORD,<br></br>HATH PAID A SOLDIER&apos;S DEBT.</p>
+      <p begin="00:24:39.17" end="00:24:41.23" tts:textAlign="right"><metadata ccrow="13" cccol="19"/>HE ONLY LIVED<br></br>BUT TILL HE WAS A MAN,</p>
+      <p begin="00:24:41.23" end="00:24:43.57" tts:textAlign="right"><metadata ccrow="13" cccol="13"/>THE WHICH NO SOONER<br></br>HAD HIS PROWESS CONFIRMED</p>
+      <p begin="00:24:43.57" end="00:24:45.50" tts:textAlign="right"><metadata ccrow="13" cccol="6"/>IN THE UNSHRINKING STATION<br></br>WHERE HE FOUGHT</p>
+      <p begin="00:24:45.50" end="00:24:48.73" tts:textAlign="right"><metadata ccrow="14" cccol="9"/>BUT LIKE A MAN HE DIED.</p>
+      <p begin="00:24:48.73" end="00:24:52.10" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>THEN HE IS DEAD.</p>
+      <p begin="00:24:52.10" end="00:24:54.80" tts:textAlign="right"><metadata ccrow="13" cccol="3"/>YOUR CAUSE OF SORROW MUST NOT<br></br>BE MEASURED BY HIS WORTH,</p>
+      <p begin="00:24:54.80" end="00:24:56.50" tts:textAlign="right"><metadata ccrow="14" cccol="8"/>FOR THEN IT HATH NO END.</p>
+      <p begin="00:24:56.50" end="00:24:59.17" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>HAD HE HIS HURTS BEFORE?</p>
+      <p begin="00:24:59.17" end="00:25:01.37" tts:textAlign="right"><metadata ccrow="14" cccol="14"/>AYE, ON THE FRONT.</p>
+      <p begin="00:25:01.37" end="00:25:05.37" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>WHY THEN,<br></br>GOD&apos;S SOLDIER BE HE.</p>
+      <p begin="00:25:05.37" end="00:25:08.87" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>HAD I AS MANY SONS<br></br>AS I HAVE HAIRS,</p>
+      <p begin="00:25:08.87" end="00:25:12.03" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>I WOULD NOT WISH THEM<br></br>TO A FAIRER DEATH.</p>
+      <p begin="00:25:12.03" end="00:25:15.90" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>AND SO HIS KNELL IS KNOLLED.</p>
+      <p begin="00:25:15.90" end="00:25:18.63" tts:textAlign="left"><metadata ccrow="13" cccol="0"/><span tts:fontStyle="italic" >(Malcolm)<br></br>HE&apos;S WORTH MORE SORROW,</span></p>
+      <p begin="00:25:18.63" end="00:25:20.97" tts:textAlign="left"><metadata ccrow="13" cccol="0"/>AND THAT<br></br>I&apos;LL SPEND FOR HIM.</p>
+      <p begin="00:25:20.97" end="00:25:23.17"><metadata ccrow="14" cccol="6"/>HE&apos;S WORTH NO MORE.</p>
+      <p begin="00:25:23.17" end="00:25:26.30"><metadata ccrow="13" cccol="4"/>THEY SAY HE PARTED WELL<br></br>AND PAID HIS SCORE.</p>
+      <p begin="00:25:26.30" end="00:25:30.87"><metadata ccrow="14" cccol="4"/>AND SO GOD BE WITH HIM.</p>
+      <p begin="00:25:38.37" end="00:25:48.37"><metadata ccrow="0" cccol="0"/></p>
+      <p begin="00:25:48.37" end="00:25:54.83"><metadata ccrow="14" cccol="5"/>HAIL, KING.</p>
+      <p begin="00:25:54.83" end="00:25:57.80" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>FOR SO THOU ART.</p>
+      <p begin="00:25:57.80" end="00:26:01.20" tts:textAlign="left"><metadata ccrow="14" cccol="0"/>THE TIME IS FREE.</p>
+      <p begin="00:26:05.00" end="00:26:09.73"><metadata ccrow="13" cccol="6"/>I SEE THEE COMPASSED<br></br>WITH THY KINGDOM&apos;S PEARL,</p>
+      <p begin="00:26:09.73" end="00:26:13.63"><metadata ccrow="13" cccol="4"/>WHO SPEAK MY SALUTATION<br></br>IN THEIR MINDS,</p>
+      <p begin="00:26:13.63" end="00:26:21.07" tts:textAlign="right"><metadata ccrow="13" cccol="11"/>WHOSE VOICES I DESIRE<br></br>ALOUD WITH MINE:</p>
+      <p begin="00:26:21.07" end="00:26:23.47" tts:textAlign="right"><metadata ccrow="14" cccol="9"/>HAIL, KING OF SCOTLAND.</p>
+      <p begin="00:26:23.47" end="00:26:26.37"><metadata ccrow="13" cccol="13"/>(all)<br></br>HAIL, KING OF SCOTLAND!</p>
+      <p begin="00:26:36.10" end="00:26:38.03"><metadata ccrow="13" cccol="7"/>WE SHALL NOT SPEND<br></br>A LARGE EXPENSE OF TIME</p>
+      <p begin="00:26:38.03" end="00:26:39.97"><metadata ccrow="13" cccol="8"/>BEFORE WE RECKON<br></br>WITH YOUR SEVERAL LOVES,</p>
+      <p begin="00:26:39.97" end="00:26:41.33"><metadata ccrow="14" cccol="3"/>AND MAKE US EVEN WITH YOU.</p>
+      <p begin="00:26:41.33" end="00:26:46.17"><metadata ccrow="13" cccol="5"/>MY THANES AND KINSMEN,<br></br>HENCEFORTH BE EARLS,</p>
+      <p begin="00:26:46.17" end="00:26:49.73"><metadata ccrow="13" cccol="2"/>THE FIRST THAT EVER SCOTLAND<br></br>IN SUCH AN HONOR NAMED.</p>
+      <p begin="00:26:49.73" end="00:26:53.50"><metadata ccrow="13" cccol="1"/>WHAT&apos;S MORE TO DO, AS WOULD BE<br></br>NEWLY PLANTED WITH THE TIME,</p>
+      <p begin="00:26:53.50" end="00:26:56.10"><metadata ccrow="13" cccol="8"/>AS CALLING HOME<br></br>OUR EXILED FRIENDS ABROAD</p>
+      <p begin="00:26:56.10" end="00:26:58.23"><metadata ccrow="13" cccol="6"/>THAT FLED THE SNARES<br></br>OF WATCHFUL TYRANNY,</p>
+      <p begin="00:26:58.23" end="00:27:01.60"><metadata ccrow="13" cccol="3"/>PRODUCING FORTH THE CRUEL<br></br>MINISTERS OF THIS DEAD BUTCHER</p>
+      <p begin="00:27:01.60" end="00:27:05.87"><metadata ccrow="13" cccol="4"/>AND HIS FIENDLIKE QUEEN,<br></br>WHO, AS &apos;TIS THOUGHT,</p>
+      <p begin="00:27:05.87" end="00:27:08.87"><metadata ccrow="13" cccol="3"/>BY SELF AND VIOLENT HANDS<br></br>TOOK OFF HER LIFE.</p>
+      <p begin="00:27:11.57" end="00:27:15.80"><metadata ccrow="13" cccol="2"/>THIS, AND WHAT NEEDFUL ELSE<br></br>THAT CALLS UPON US,</p>
+      <p begin="00:27:15.80" end="00:27:17.13"><metadata ccrow="14" cccol="5"/>BY THE GRACE OF GRACE</p>
+      <p begin="00:27:17.13" end="00:27:21.03"><metadata ccrow="13" cccol="2"/>WE WILL PERFORM IN MEASURE,<br></br>TIME, AND PLACE.</p>
+      <p begin="00:27:21.03" end="00:27:23.20"><metadata ccrow="14" cccol="2"/>SO THANKS TO ALL AT ONCE...</p>
+      <p begin="00:27:23.20" end="00:27:28.37"><metadata ccrow="13" cccol="0"/>AND TO EACH ONE, WHOM WE INVITE<br></br>TO SEE US CROWNED AT SCONE.</p>
+      <p begin="00:29:49.33" end="00:29:59.33"><metadata ccrow="0" cccol="0"/></p>
+      <p begin="00:29:59.33" end="00:30:01.80"><metadata ccrow="12" cccol="8"/>(male announcer)<br></br>THE MATERIAL<br></br>ON THIS VIDEOCASSETTE</p>
+      <p begin="00:30:01.80" end="00:30:03.50"><metadata ccrow="14" cccol="3"/>IS PROTECTED BY COPYRIGHT.</p>
+      <p begin="00:30:03.50" end="00:30:05.43"><metadata ccrow="14" cccol="2"/>IT IS FOR PRIVATE USE ONLY,</p>
+      <p begin="00:30:05.43" end="00:30:08.70"><metadata ccrow="13" cccol="7"/>AND ANY OTHER USE,<br></br>INCLUDING COPYING, REPRODUCING,</p>
+      <p begin="00:30:08.70" end="00:30:11.37"><metadata ccrow="13" cccol="3"/>OR PERFORMANCE IN PUBLIC,<br></br>IN WHOLE OR IN PART,</p>
+      <p begin="00:30:11.37" end="00:30:13.13"><metadata ccrow="14" cccol="5"/>IS PROHIBITED BY LAW.</p>
+      <p begin="00:30:16.47" end="00:30:19.47"><metadata ccrow="0" cccol="0"/></p>
+    </div>
+  </body>
+</tt>

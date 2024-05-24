@@ -1,0 +1,756 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tt xmlns="http://www.w3.org/2006/04/ttaf1" xmlns:tts="http://www.w3.org/2006/04/ttaf1#styling" xml:lang="en">
+  <head>
+    <styling>
+      <style id="defaultSpeaker" tts:fontSize="24" tts:fontFamily="Arial" tts:fontWeight="normal" tts:fontStyle="normal" tts:textDecoration="none" tts:color="white" tts:backgroundColor="black" tts:textAlign="center" />
+      <style id="defaultCaption" tts:fontSize="24" tts:fontFamily="Arial" tts:fontWeight="normal" tts:fontStyle="normal" tts:textDecoration="none" tts:color="white" tts:backgroundColor="black" tts:textAlign="center" />
+    </styling>
+  </head>
+  <body style="defaultCaption" id="thebody">
+    <div xml:lang="en">
+      <p begin="00:00:00.00" end="00:00:04.80"><metadata ccrow="0" cccol="0"/></p>
+      <p begin="00:00:04.80" end="00:00:06.60"><metadata ccrow="0" cccol="0"/></p>
+      <p begin="00:00:06.60" end="00:00:08.67"><metadata ccrow="13" cccol="4"/>that Antonio hath a ship<br></br>of rich lading</p>
+      <p begin="00:00:08.67" end="00:00:10.07"><metadata ccrow="13" cccol="5"/>wrecked in the narrow<br></br>seas,</p>
+      <p begin="00:00:10.07" end="00:00:12.53"><metadata ccrow="13" cccol="3"/>the Goodwins I think they<br></br>call the place,</p>
+      <p begin="00:00:12.53" end="00:00:14.50"><metadata ccrow="13" cccol="3"/>a very dangerous flat, and<br></br>fatal,</p>
+      <p begin="00:00:14.50" end="00:00:16.13"><metadata ccrow="13" cccol="5"/>where the carcasses of<br></br>many a tall ship</p>
+      <p begin="00:00:16.13" end="00:00:17.40"><metadata ccrow="14" cccol="5"/>lie buried as they say</p>
+      <p begin="00:00:17.40" end="00:00:20.47"><metadata ccrow="13" cccol="3"/>if my gossip report be an<br></br>honest woman of her word.</p>
+      <p begin="00:00:20.47" end="00:00:22.33"><metadata ccrow="13" cccol="3"/>I would she were as lying<br></br>a gossip in that</p>
+      <p begin="00:00:22.33" end="00:00:25.33"><metadata ccrow="13" cccol="3"/>as ever knapped ginger or<br></br>made her neighbors believe</p>
+      <p begin="00:00:25.33" end="00:00:28.07"><metadata ccrow="13" cccol="3"/>she wept for the death of<br></br>a third husband.</p>
+      <p begin="00:00:28.07" end="00:00:31.73"><metadata ccrow="13" cccol="4"/>But it is true, without<br></br>any slips of prolixity</p>
+      <p begin="00:00:31.73" end="00:00:34.27"><metadata ccrow="13" cccol="5"/>or crossing the plain<br></br>highway of talk,</p>
+      <p begin="00:00:34.27" end="00:00:37.93"><metadata ccrow="13" cccol="3"/>that the good Antonio, the<br></br>honest Antonio--</p>
+      <p begin="00:00:37.93" end="00:00:39.23"><metadata ccrow="14" cccol="5"/>oh, that I had a title</p>
+      <p begin="00:00:39.23" end="00:00:40.87"><metadata ccrow="13" cccol="4"/>good enough to keep his<br></br>name company.</p>
+      <p begin="00:00:40.87" end="00:00:42.17"><metadata ccrow="14" cccol="6"/>Come, the full stop.</p>
+      <p begin="00:00:42.17" end="00:00:43.60"><metadata ccrow="14" cccol="5"/>Hey, what sayest thou?</p>
+      <p begin="00:00:43.60" end="00:00:47.50"><metadata ccrow="13" cccol="4"/>Why the end is, he hath<br></br>lost a ship.</p>
+      <p begin="00:00:47.50" end="00:00:50.50"><metadata ccrow="13" cccol="3"/>I would it might prove an<br></br>end to his losses.</p>
+      <p begin="00:00:50.50" end="00:00:52.60"><metadata ccrow="14" cccol="4"/>Let me say amen betimes,</p>
+      <p begin="00:00:52.60" end="00:00:56.53"><metadata ccrow="13" cccol="4"/>lest the devil cross my<br></br>prayer,</p>
+      <p begin="00:00:56.53" end="00:00:59.27"><metadata ccrow="13" cccol="4"/>for here he comes in the<br></br>likeness of a Jew.</p>
+      <p begin="00:01:04.87" end="00:01:07.40"><metadata ccrow="14" cccol="7"/>How now, Shylock?</p>
+      <p begin="00:01:07.40" end="00:01:08.93"><metadata ccrow="13" cccol="6"/>What news among the<br></br>merchants?</p>
+      <p begin="00:01:08.93" end="00:01:10.23"><metadata ccrow="14" cccol="11"/>You knew.</p>
+      <p begin="00:01:10.23" end="00:01:12.03"><metadata ccrow="13" cccol="3"/>None so well, none so well<br></br>as you</p>
+      <p begin="00:01:12.03" end="00:01:13.20"><metadata ccrow="14" cccol="4"/>of my daughter&apos;s flight.</p>
+      <p begin="00:01:13.20" end="00:01:14.53"><metadata ccrow="14" cccol="8"/>That&apos;s certain.</p>
+      <p begin="00:01:14.53" end="00:01:16.97"><metadata ccrow="12" cccol="4"/>I, for my part, knew the<br></br>tailor made the wings she<br></br>flew withal.</p>
+      <p begin="00:01:16.97" end="00:01:19.23"><metadata ccrow="13" cccol="1"/>And Shylock, for his own part,<br></br>knew the bird was fledged</p>
+      <p begin="00:01:19.23" end="00:01:20.97"><metadata ccrow="13" cccol="7"/>and that it is the<br></br>complexion of them all</p>
+      <p begin="00:01:20.97" end="00:01:22.40"><metadata ccrow="14" cccol="7"/>to leave the dam.</p>
+      <p begin="00:01:22.40" end="00:01:23.73"><metadata ccrow="14" cccol="5"/>She is damned for it.</p>
+      <p begin="00:01:25.63" end="00:01:27.63"><metadata ccrow="13" cccol="5"/>That&apos;s certain, if the<br></br>devil may be a judge.</p>
+      <p begin="00:01:27.63" end="00:01:29.70"><metadata ccrow="13" cccol="3"/>My own flesh and blood to<br></br>rebel!</p>
+      <p begin="00:01:29.70" end="00:01:31.20"><metadata ccrow="14" cccol="3"/>Out upon it, old carrion.</p>
+      <p begin="00:01:31.20" end="00:01:33.80"><metadata ccrow="14" cccol="3"/>Rebels it at these years?</p>
+      <p begin="00:01:33.80" end="00:01:37.97"><metadata ccrow="13" cccol="4"/>I say my daughter is my<br></br>flesh and my blood.</p>
+      <p begin="00:01:37.97" end="00:01:41.40"><metadata ccrow="13" cccol="4"/>There is more difference<br></br>between thy flesh and hers</p>
+      <p begin="00:01:41.40" end="00:01:43.67"><metadata ccrow="13" cccol="6"/>than between jet and<br></br>ivory,</p>
+      <p begin="00:01:43.67" end="00:01:45.10"><metadata ccrow="14" cccol="4"/>more between your bloods</p>
+      <p begin="00:01:45.10" end="00:01:48.73"><metadata ccrow="13" cccol="3"/>than there is between red<br></br>wine and Rhenish.</p>
+      <p begin="00:01:48.73" end="00:01:51.27"><metadata ccrow="13" cccol="4"/>But tell us, do you hear<br></br>whether Antonio</p>
+      <p begin="00:01:51.27" end="00:01:52.77"><metadata ccrow="13" cccol="4"/>have any loss at sea or<br></br>no?</p>
+      <p begin="00:01:52.77" end="00:01:54.13"><metadata ccrow="13" cccol="4"/>There I have another bad<br></br>match.</p>
+      <p begin="00:01:54.13" end="00:01:55.80"><metadata ccrow="14" cccol="5"/>A bankrupt, a prodigal</p>
+      <p begin="00:01:55.80" end="00:01:58.67"><metadata ccrow="13" cccol="4"/>who dare scarce show his<br></br>head on the Rialto.</p>
+      <p begin="00:01:58.67" end="00:02:02.90"><metadata ccrow="13" cccol="3"/>A beggar that was used to<br></br>come so smug upon the mart.</p>
+      <p begin="00:02:02.90" end="00:02:05.73"><metadata ccrow="14" cccol="3"/>Let him look to his bond.</p>
+      <p begin="00:02:05.73" end="00:02:07.97"><metadata ccrow="13" cccol="5"/>He was wont to call me<br></br>usurer.</p>
+      <p begin="00:02:07.97" end="00:02:09.67"><metadata ccrow="14" cccol="3"/>Let him look to his bond.</p>
+      <p begin="00:02:09.67" end="00:02:13.23"><metadata ccrow="12" cccol="4"/>He was wont to lend out<br></br>money for a Christian<br></br>courtesy.</p>
+      <p begin="00:02:13.23" end="00:02:15.87"><metadata ccrow="14" cccol="3"/>Let him look to his bond.</p>
+      <p begin="00:02:15.87" end="00:02:18.30"><metadata ccrow="12" cccol="6"/>Why, I am sure if he<br></br>forfeit thou wilt not take<br></br>his flesh.</p>
+      <p begin="00:02:18.30" end="00:02:20.03"><metadata ccrow="14" cccol="5"/>What&apos;s that good for?</p>
+      <p begin="00:02:20.03" end="00:02:23.17"><metadata ccrow="14" cccol="6"/>To bait fish withal.</p>
+      <p begin="00:02:23.17" end="00:02:25.67"><metadata ccrow="12" cccol="4"/>If it will feed nothing<br></br>else, it will feed my<br></br>revenge.</p>
+      <p begin="00:02:25.67" end="00:02:28.93"><metadata ccrow="12" cccol="4"/>He hath disgraced me and<br></br>hindered me half a<br></br>million,</p>
+      <p begin="00:02:28.93" end="00:02:30.93"><metadata ccrow="13" cccol="5"/>laughed at my losses,<br></br>mocked at my gains,</p>
+      <p begin="00:02:30.93" end="00:02:33.37"><metadata ccrow="13" cccol="7"/>scorned my nation,<br></br>thwarted my bargains,</p>
+      <p begin="00:02:33.37" end="00:02:36.00"><metadata ccrow="13" cccol="3"/>cooled my friends, heated<br></br>mine enemies,</p>
+      <p begin="00:02:36.00" end="00:02:37.60"><metadata ccrow="14" cccol="5"/>and what&apos;s his reason?</p>
+      <p begin="00:02:37.60" end="00:02:39.43"><metadata ccrow="14" cccol="10"/>I am a Jew.</p>
+      <p begin="00:02:39.43" end="00:02:41.47"><metadata ccrow="14" cccol="14"/>Ah!</p>
+      <p begin="00:02:43.60" end="00:02:45.90"><metadata ccrow="14" cccol="6"/>Hath not a Jew eyes?</p>
+      <p begin="00:02:45.90" end="00:02:50.90"><metadata ccrow="13" cccol="5"/>Hath not a Jew hands,<br></br>organs, dimensions,</p>
+      <p begin="00:02:50.90" end="00:02:53.03"><metadata ccrow="13" cccol="6"/>senses, affections,<br></br>passions,</p>
+      <p begin="00:02:53.03" end="00:02:55.70"><metadata ccrow="13" cccol="4"/>fed with the same food,<br></br>hurt with the same weapons,</p>
+      <p begin="00:02:55.70" end="00:02:59.43"><metadata ccrow="12" cccol="6"/>subject to the same<br></br>diseases, healed by the<br></br>same means,</p>
+      <p begin="00:02:59.43" end="00:03:02.00"><metadata ccrow="13" cccol="4"/>warmed and cooled by the<br></br>same winter and summer</p>
+      <p begin="00:03:02.00" end="00:03:03.37"><metadata ccrow="14" cccol="7"/>as a Christian is?</p>
+      <p begin="00:03:03.37" end="00:03:06.57"><metadata ccrow="13" cccol="3"/>If you prick us, do we not<br></br>bleed?</p>
+      <p begin="00:03:06.57" end="00:03:11.83"><metadata ccrow="13" cccol="4"/>If you tickle us, do we<br></br>not laugh?</p>
+      <p begin="00:03:11.83" end="00:03:15.17"><metadata ccrow="13" cccol="4"/>If you poison us, do we<br></br>not die?</p>
+      <p begin="00:03:15.17" end="00:03:20.80"><metadata ccrow="13" cccol="3"/>And if you wrong us, shall<br></br>we not revenge?</p>
+      <p begin="00:03:20.80" end="00:03:26.73"><metadata ccrow="12" cccol="3"/>If we are like you in the<br></br>rest, we will resemble you<br></br>in that.</p>
+      <p begin="00:03:26.73" end="00:03:32.27"><metadata ccrow="13" cccol="2"/>If a Jew wrong a Christian,<br></br>what is his humility?</p>
+      <p begin="00:03:32.27" end="00:03:34.00"><metadata ccrow="14" cccol="12"/>Revenge.</p>
+      <p begin="00:03:34.00" end="00:03:35.93"><metadata ccrow="13" cccol="5"/>If a Christian wrong a<br></br>Jew,</p>
+      <p begin="00:03:35.93" end="00:03:40.00"><metadata ccrow="13" cccol="3"/>what should his sufferance<br></br>be by Christian example?</p>
+      <p begin="00:03:40.00" end="00:03:42.17"><metadata ccrow="14" cccol="9"/>Why, revenge.</p>
+      <p begin="00:03:42.17" end="00:03:46.03"><metadata ccrow="13" cccol="3"/>The villainy you teach me<br></br>I will execute,</p>
+      <p begin="00:03:46.03" end="00:03:47.70"><metadata ccrow="14" cccol="5"/>and it shall go hard,</p>
+      <p begin="00:03:47.70" end="00:03:49.87"><metadata ccrow="13" cccol="5"/>but I will better the<br></br>instruction.</p>
+      <p begin="00:03:49.87" end="00:03:52.73"><metadata ccrow="14" cccol="11"/>Gentlemen.</p>
+      <p begin="00:03:52.73" end="00:03:55.13"><metadata ccrow="13" cccol="4"/>My master Antonio is at<br></br>his house</p>
+      <p begin="00:03:55.13" end="00:03:57.67"><metadata ccrow="13" cccol="5"/>and has asked to speak<br></br>with you both.</p>
+      <p begin="00:03:57.67" end="00:03:59.20"><metadata ccrow="13" cccol="4"/>We have been up and down<br></br>to seek him.</p>
+      <p begin="00:03:59.20" end="00:04:04.43"><metadata ccrow="13" cccol="3"/>Here comes another of the<br></br>tribe.</p>
+      <p begin="00:04:04.43" end="00:04:08.40"><metadata ccrow="12" cccol="3"/>A third cannot be matched<br></br>unless the devil himself<br></br>turn Jew.</p>
+      <p begin="00:04:08.40" end="00:04:10.23"><metadata ccrow="13" cccol="3"/>How now, Tubal, what news<br></br>from Genoa?</p>
+      <p begin="00:04:10.23" end="00:04:11.73"><metadata ccrow="13" cccol="7"/>Hast thou found my<br></br>daughter?</p>
+      <p begin="00:04:11.73" end="00:04:14.33"><metadata ccrow="12" cccol="4"/>I often came where I did<br></br>hear of her, but cannot<br></br>find her.</p>
+      <p begin="00:04:14.33" end="00:04:15.67"><metadata ccrow="13" cccol="4"/>Why there, there, there,<br></br>there!</p>
+      <p begin="00:04:15.67" end="00:04:21.17"><metadata ccrow="13" cccol="5"/>A diamond gone cost me<br></br>2,000 ducats in Frankfurt.</p>
+      <p begin="00:04:21.17" end="00:04:24.13"><metadata ccrow="13" cccol="3"/>The curse never fell upon<br></br>our nation till now.</p>
+      <p begin="00:04:24.13" end="00:04:26.57"><metadata ccrow="14" cccol="3"/>I never felt it till now!</p>
+      <p begin="00:04:26.57" end="00:04:28.13"><metadata ccrow="14" cccol="6"/>2,000 ducats in that</p>
+      <p begin="00:04:28.13" end="00:04:31.17"><metadata ccrow="13" cccol="6"/>and other precious,<br></br>precious jewels.</p>
+      <p begin="00:04:31.17" end="00:04:34.93"><metadata ccrow="13" cccol="4"/>I would my daughter were<br></br>dead at my foot,</p>
+      <p begin="00:04:34.93" end="00:04:37.20"><metadata ccrow="14" cccol="3"/>and the jewels in her ear.</p>
+      <p begin="00:04:37.20" end="00:04:40.37"><metadata ccrow="12" cccol="3"/>Would she were hearsed at<br></br>my foot and the ducats in<br></br>her coffin.</p>
+      <p begin="00:04:40.37" end="00:04:41.53"><metadata ccrow="14" cccol="5"/>No news of them, huh?</p>
+      <p begin="00:04:41.53" end="00:04:42.80"><metadata ccrow="14" cccol="12"/>Why so?</p>
+      <p begin="00:04:42.80" end="00:04:45.17"><metadata ccrow="13" cccol="5"/>And I know not what&apos;s<br></br>spent on the search.</p>
+      <p begin="00:04:45.17" end="00:04:46.53"><metadata ccrow="14" cccol="11"/>Why thou--</p>
+      <p begin="00:04:46.53" end="00:04:47.67"><metadata ccrow="14" cccol="14"/>Shh!</p>
+      <p begin="00:04:47.67" end="00:04:49.80"><metadata ccrow="14" cccol="8"/>Loss upon loss!</p>
+      <p begin="00:04:49.80" end="00:04:54.93"><metadata ccrow="12" cccol="5"/>The thief gone with so<br></br>much, and so much to find<br></br>the thief.</p>
+      <p begin="00:04:54.93" end="00:04:59.27"><metadata ccrow="13" cccol="4"/>And no satisfaction, no<br></br>revenge,</p>
+      <p begin="00:04:59.27" end="00:05:02.13"><metadata ccrow="14" cccol="4"/>nor no ill luck stirring</p>
+      <p begin="00:05:02.13" end="00:05:04.07"><metadata ccrow="13" cccol="4"/>but what lights o&apos;er my<br></br>shoulders,</p>
+      <p begin="00:05:04.07" end="00:05:07.87"><metadata ccrow="13" cccol="6"/>no sighs but o&apos;er my<br></br>breathing,</p>
+      <p begin="00:05:07.87" end="00:05:10.40"><metadata ccrow="13" cccol="6"/>no tears but o&apos;er my<br></br>shedding.</p>
+      <p begin="00:05:10.40" end="00:05:12.67"><metadata ccrow="13" cccol="4"/>Yes, other men have ill<br></br>luck too.</p>
+      <p begin="00:05:12.67" end="00:05:14.10"><metadata ccrow="13" cccol="5"/>Antonio, as I heard in<br></br>Genoa--</p>
+      <p begin="00:05:14.10" end="00:05:15.30"><metadata ccrow="14" cccol="7"/>What, what? what?</p>
+      <p begin="00:05:15.30" end="00:05:17.00"><metadata ccrow="14" cccol="6"/>Ill luck, ill luck?</p>
+      <p begin="00:05:17.00" end="00:05:19.83"><metadata ccrow="13" cccol="4"/>Hath an Argosy cast away<br></br>coming from Tripolis.</p>
+      <p begin="00:05:19.83" end="00:05:23.60"><metadata ccrow="14" cccol="3"/>I thank God! I thank God!</p>
+      <p begin="00:05:23.60" end="00:05:24.90"><metadata ccrow="14" cccol="4"/>Is it true? Is it true?</p>
+      <p begin="00:05:24.90" end="00:05:27.60"><metadata ccrow="13" cccol="4"/>I spoke with some of the<br></br>sailors that escaped the wreck.</p>
+      <p begin="00:05:27.60" end="00:05:30.47"><metadata ccrow="14" cccol="3"/>I thank thee, good Tubal.</p>
+      <p begin="00:05:30.47" end="00:05:31.90"><metadata ccrow="14" cccol="5"/>Good news, good news.</p>
+      <p begin="00:05:31.90" end="00:05:33.13"><metadata ccrow="14" cccol="14"/>Ha!</p>
+      <p begin="00:05:33.13" end="00:05:34.73"><metadata ccrow="14" cccol="8"/>Heard in Genoa?</p>
+      <p begin="00:05:34.73" end="00:05:36.67"><metadata ccrow="13" cccol="5"/>your daughter spent in<br></br>Genoa, as I heard,</p>
+      <p begin="00:05:36.67" end="00:05:38.47"><metadata ccrow="13" cccol="6"/>one night, fourscore<br></br>ducats.</p>
+      <p begin="00:05:38.47" end="00:05:43.03"><metadata ccrow="13" cccol="3"/>Thou stick&apos;st a dagger in<br></br>me.</p>
+      <p begin="00:05:43.03" end="00:05:46.23"><metadata ccrow="13" cccol="3"/>I shall never see my gold<br></br>again.</p>
+      <p begin="00:05:46.23" end="00:05:49.43"><metadata ccrow="13" cccol="5"/>Fourscore ducats at a<br></br>sitting?</p>
+      <p begin="00:05:49.43" end="00:05:52.73"><metadata ccrow="14" cccol="7"/>Fourscore ducats!</p>
+      <p begin="00:05:52.73" end="00:05:55.17"><metadata ccrow="13" cccol="6"/>There came divers of<br></br>Antonio&apos;s creditors</p>
+      <p begin="00:05:55.17" end="00:05:56.53"><metadata ccrow="14" cccol="4"/>in my company to Venice</p>
+      <p begin="00:05:56.53" end="00:05:58.43"><metadata ccrow="13" cccol="6"/>that swear he cannot<br></br>choose but break.</p>
+      <p begin="00:05:58.43" end="00:05:59.80"><metadata ccrow="14" cccol="5"/>I am very glad of it.</p>
+      <p begin="00:05:59.80" end="00:06:01.23"><metadata ccrow="14" cccol="8"/>I&apos;ll plague him.</p>
+      <p begin="00:06:01.23" end="00:06:02.80"><metadata ccrow="14" cccol="7"/>I&apos;ll torture him.</p>
+      <p begin="00:06:02.80" end="00:06:04.07"><metadata ccrow="14" cccol="8"/>I am glad of it.</p>
+      <p begin="00:06:04.07" end="00:06:05.33"><metadata ccrow="13" cccol="4"/>One of them showed me a<br></br>ring</p>
+      <p begin="00:06:05.33" end="00:06:07.77"><metadata ccrow="13" cccol="4"/>he had of your daughter<br></br>for a monkey.</p>
+      <p begin="00:06:14.07" end="00:06:16.20"><metadata ccrow="14" cccol="9"/>Out upon her.</p>
+      <p begin="00:06:18.53" end="00:06:21.80"><metadata ccrow="14" cccol="3"/>Thou torturest me, Tubal.</p>
+      <p begin="00:06:21.80" end="00:06:27.33"><metadata ccrow="14" cccol="6"/>It was my turquoise.</p>
+      <p begin="00:06:27.33" end="00:06:32.20"><metadata ccrow="13" cccol="4"/>I had it of Leah when I<br></br>was a bachelor.</p>
+      <p begin="00:06:32.20" end="00:06:38.23"><metadata ccrow="13" cccol="3"/>I would not have given it<br></br>for a wilderness of monkeys.</p>
+      <p begin="00:06:38.23" end="00:06:42.80"><metadata ccrow="13" cccol="4"/>But Antonio is certainly<br></br>undone.</p>
+      <p begin="00:06:42.80" end="00:06:44.63"><metadata ccrow="14" cccol="7"/>Nay, that&apos;s true.</p>
+      <p begin="00:06:44.63" end="00:06:48.13"><metadata ccrow="14" cccol="7"/>That&apos;s very true.</p>
+      <p begin="00:06:48.13" end="00:06:51.57"><metadata ccrow="13" cccol="6"/>Go, Tubal, fee me an<br></br>officer.</p>
+      <p begin="00:06:51.57" end="00:06:56.03"><metadata ccrow="13" cccol="4"/>Bespeak him a fortnight<br></br>before.</p>
+      <p begin="00:06:56.03" end="00:06:59.03"><metadata ccrow="13" cccol="4"/>I will have the heart of<br></br>him if he forfeit,</p>
+      <p begin="00:06:59.03" end="00:07:01.13"><metadata ccrow="14" cccol="3"/>for were he out of Venice,</p>
+      <p begin="00:07:01.13" end="00:07:04.20"><metadata ccrow="13" cccol="8"/>I can make what<br></br>merchandise I will.</p>
+      <p begin="00:07:04.20" end="00:07:08.27"><metadata ccrow="13" cccol="3"/>Go, Tubal, and meet me at<br></br>our synagogue.</p>
+      <p begin="00:07:12.23" end="00:07:15.20"><metadata ccrow="14" cccol="8"/>Go, good Tubal.</p>
+      <p begin="00:07:17.70" end="00:07:21.53"><metadata ccrow="14" cccol="4"/>At our synagogue, Tubal.</p>
+      <p begin="00:07:34.00" end="00:07:35.93"><metadata ccrow="14" cccol="7"/>I pray you, tarry,</p>
+      <p begin="00:07:35.93" end="00:07:39.50"><metadata ccrow="13" cccol="3"/>pause a day or two before<br></br>you hazard,</p>
+      <p begin="00:07:39.50" end="00:07:42.90"><metadata ccrow="13" cccol="4"/>for in choosing wrong, I<br></br>lose your company.</p>
+      <p begin="00:07:42.90" end="00:07:46.20"><metadata ccrow="13" cccol="6"/>Therefore, forbear a<br></br>while.</p>
+      <p begin="00:08:03.57" end="00:08:07.83"><metadata ccrow="13" cccol="4"/>There&apos;s something tells<br></br>me-- but it is not love--</p>
+      <p begin="00:08:07.83" end="00:08:09.90"><metadata ccrow="14" cccol="5"/>I would not lose you.</p>
+      <p begin="00:08:09.90" end="00:08:14.17"><metadata ccrow="13" cccol="3"/>And you know yourself hate<br></br>counsels not in such a quality.</p>
+      <p begin="00:08:14.17" end="00:08:17.87"><metadata ccrow="13" cccol="4"/>But lest you should not<br></br>understand me well--</p>
+      <p begin="00:08:17.87" end="00:08:21.50"><metadata ccrow="13" cccol="4"/>and yet a maiden hath no<br></br>tongue but thought--</p>
+      <p begin="00:08:21.50" end="00:08:24.37"><metadata ccrow="13" cccol="4"/>I would detain you here<br></br>some month or two</p>
+      <p begin="00:08:24.37" end="00:08:25.83"><metadata ccrow="14" cccol="3"/>before you venture for me.</p>
+      <p begin="00:08:29.57" end="00:08:31.93"><metadata ccrow="13" cccol="4"/>I could teach you how to<br></br>choose right,</p>
+      <p begin="00:08:31.93" end="00:08:34.73"><metadata ccrow="14" cccol="4"/>but then I am forsworn.</p>
+      <p begin="00:08:34.73" end="00:08:39.00"><metadata ccrow="14" cccol="6"/>So will I never be.</p>
+      <p begin="00:08:39.00" end="00:08:41.33"><metadata ccrow="14" cccol="6"/>So may you miss me.</p>
+      <p begin="00:08:41.33" end="00:08:43.00"><metadata ccrow="13" cccol="3"/>but if you do, you&apos;ll make<br></br>me wish a sin</p>
+      <p begin="00:08:43.00" end="00:08:46.83"><metadata ccrow="14" cccol="3"/>that I had been forsworn.</p>
+      <p begin="00:08:46.83" end="00:08:49.47"><metadata ccrow="14" cccol="7"/>Beshrew your eyes.</p>
+      <p begin="00:08:49.47" end="00:08:54.10"><metadata ccrow="13" cccol="4"/>They have o&apos;erlooked me<br></br>and divided me.</p>
+      <p begin="00:08:54.10" end="00:08:59.93"><metadata ccrow="13" cccol="4"/>One half of me is yours,<br></br>the other half, yours.</p>
+      <p begin="00:08:59.93" end="00:09:04.20"><metadata ccrow="13" cccol="3"/>Mine own, I would say, but<br></br>if mine, then yours,</p>
+      <p begin="00:09:04.20" end="00:09:06.23"><metadata ccrow="14" cccol="7"/>and so all yours.</p>
+      <p begin="00:09:08.13" end="00:09:10.60"><metadata ccrow="13" cccol="4"/>Oh, these naughty times<br></br>put bars</p>
+      <p begin="00:09:10.60" end="00:09:12.33"><metadata ccrow="13" cccol="5"/>between the owners and<br></br>their rights.</p>
+      <p begin="00:09:12.33" end="00:09:15.17"><metadata ccrow="14" cccol="5"/>And so, though yours,</p>
+      <p begin="00:09:15.17" end="00:09:17.33"><metadata ccrow="14" cccol="11"/>not yours.</p>
+      <p begin="00:09:17.33" end="00:09:18.57"><metadata ccrow="14" cccol="10"/>Prove it so,</p>
+      <p begin="00:09:18.57" end="00:09:20.67"><metadata ccrow="13" cccol="3"/>let fortune go to hell for<br></br>it, not I.</p>
+      <p begin="00:09:20.67" end="00:09:25.87"><metadata ccrow="13" cccol="3"/>I speak too long, but &apos;tis<br></br>to piece the time,</p>
+      <p begin="00:09:25.87" end="00:09:27.87"><metadata ccrow="13" cccol="4"/>to eke it and to draw it<br></br>out in length</p>
+      <p begin="00:09:27.87" end="00:09:29.70"><metadata ccrow="14" cccol="3"/>to stay you from election.</p>
+      <p begin="00:09:29.70" end="00:09:33.37"><metadata ccrow="13" cccol="4"/>Let me choose, for as I<br></br>am, I live upon the rack.</p>
+      <p begin="00:09:33.37" end="00:09:35.30"><metadata ccrow="14" cccol="4"/>Upon the rack, Bassanio?</p>
+      <p begin="00:09:35.30" end="00:09:36.40"><metadata ccrow="14" cccol="9"/>Then confess.</p>
+      <p begin="00:09:36.40" end="00:09:38.33"><metadata ccrow="13" cccol="5"/>What treason is there<br></br>mingled with your love?</p>
+      <p begin="00:09:38.33" end="00:09:41.37"><metadata ccrow="13" cccol="3"/>None but that ugly treason<br></br>of mistrust</p>
+      <p begin="00:09:41.37" end="00:09:43.87"><metadata ccrow="13" cccol="4"/>which makes me fear the<br></br>enjoying of my love.</p>
+      <p begin="00:09:43.87" end="00:09:46.07"><metadata ccrow="13" cccol="3"/>There may as well be amity<br></br>in life</p>
+      <p begin="00:09:46.07" end="00:09:48.97"><metadata ccrow="13" cccol="4"/>&apos;tween snow and fire as<br></br>treason and my love.</p>
+      <p begin="00:09:48.97" end="00:09:50.60"><metadata ccrow="13" cccol="4"/>Ay, but I fear you speak<br></br>upon the rack</p>
+      <p begin="00:09:50.60" end="00:09:52.53"><metadata ccrow="13" cccol="5"/>where men enforced do<br></br>speak anything.</p>
+      <p begin="00:09:52.53" end="00:09:55.40"><metadata ccrow="13" cccol="3"/>Promise me life, and I&apos;ll<br></br>confess the truth.</p>
+      <p begin="00:09:55.40" end="00:09:58.50"><metadata ccrow="13" cccol="4"/>Well, then, confess and<br></br>live.</p>
+      <p begin="00:09:58.50" end="00:10:01.93"><metadata ccrow="12" cccol="3"/>Confess and love had been<br></br>the very sum of my<br></br>confession.</p>
+      <p begin="00:10:01.93" end="00:10:03.80"><metadata ccrow="14" cccol="7"/>Oh, happy torment</p>
+      <p begin="00:10:03.80" end="00:10:07.10"><metadata ccrow="12" cccol="5"/>when my torturer doth<br></br>teach me answers for<br></br>deliverance.</p>
+      <p begin="00:10:07.10" end="00:10:10.57"><metadata ccrow="13" cccol="4"/>But let me to my fortune<br></br>and the caskets.</p>
+      <p begin="00:10:10.57" end="00:10:13.90"><metadata ccrow="14" cccol="11"/>Away then.</p>
+      <p begin="00:10:13.90" end="00:10:16.60"><metadata ccrow="13" cccol="5"/>I am locked in one of<br></br>them.</p>
+      <p begin="00:10:16.60" end="00:10:19.27"><metadata ccrow="13" cccol="5"/>If you do love me, you<br></br>will find me out.</p>
+      <p begin="00:10:27.83" end="00:10:33.30"><metadata ccrow="13" cccol="5"/>Nerissa and the rest,<br></br>stand all aloof.</p>
+      <p begin="00:10:33.30" end="00:10:35.80"><metadata ccrow="13" cccol="4"/>Let music sound while he<br></br>doth make his choice,</p>
+      <p begin="00:10:35.80" end="00:10:39.57"><metadata ccrow="14" cccol="8"/>then if he lose,</p>
+      <p begin="00:10:39.57" end="00:10:43.50"><metadata ccrow="13" cccol="4"/>he makes a swan-like end<br></br>fading in music.</p>
+      <p begin="00:10:43.50" end="00:10:46.63"><metadata ccrow="13" cccol="4"/>That the comparison may<br></br>stand more proper,</p>
+      <p begin="00:10:46.63" end="00:10:50.20"><metadata ccrow="12" cccol="3"/>my eye shall be the stream<br></br>and watery deathbed for<br></br>him.</p>
+      <p begin="00:10:50.20" end="00:10:54.80"><metadata ccrow="13" cccol="4"/>He may win, and what is<br></br>music then?</p>
+      <p begin="00:10:54.80" end="00:10:57.87"><metadata ccrow="13" cccol="3"/>Why then music is even as<br></br>the flourish</p>
+      <p begin="00:10:57.87" end="00:11:01.17"><metadata ccrow="13" cccol="3"/>when new subjects bow to a<br></br>new-crowned monarch.</p>
+      <p begin="00:11:01.17" end="00:11:04.30"><metadata ccrow="12" cccol="4"/>Such it is as are those<br></br>dulcet sounds at break of<br></br>day</p>
+      <p begin="00:11:04.30" end="00:11:06.77"><metadata ccrow="13" cccol="6"/>that creep into the<br></br>dreaming bridegroom&apos;s ear</p>
+      <p begin="00:11:06.77" end="00:11:09.80"><metadata ccrow="13" cccol="7"/>and summon him to<br></br>marriage.</p>
+      <p begin="00:11:09.80" end="00:11:13.67"><metadata ccrow="13" cccol="3"/>Now he goes, with no less<br></br>presence,</p>
+      <p begin="00:11:13.67" end="00:11:17.63"><metadata ccrow="13" cccol="4"/>but with much more love<br></br>than young Alcaides</p>
+      <p begin="00:11:17.63" end="00:11:19.27"><metadata ccrow="13" cccol="5"/>when he did redeem the<br></br>virgin tribute</p>
+      <p begin="00:11:19.27" end="00:11:23.07"><metadata ccrow="13" cccol="4"/>paid by howling Troy to<br></br>the sea monster.</p>
+      <p begin="00:11:23.07" end="00:11:24.97"><metadata ccrow="14" cccol="5"/>I stand for sacrifice.</p>
+      <p begin="00:11:24.97" end="00:11:28.83"><metadata ccrow="13" cccol="5"/>The rest aloof are the<br></br>Dardanian wives</p>
+      <p begin="00:11:28.83" end="00:11:30.67"><metadata ccrow="14" cccol="6"/>with bleared visages</p>
+      <p begin="00:11:30.67" end="00:11:33.00"><metadata ccrow="13" cccol="5"/>come forth to view the<br></br>issue of the exploit.</p>
+      <p begin="00:11:33.00" end="00:11:39.30"><metadata ccrow="14" cccol="9"/>Go, Hercules.</p>
+      <p begin="00:11:39.30" end="00:11:40.57"><metadata ccrow="14" cccol="7"/>Live thou; I live.</p>
+      <p begin="00:11:40.57" end="00:11:44.80"><metadata ccrow="13" cccol="6"/>With much, much more<br></br>dismay, I view the fight</p>
+      <p begin="00:11:44.80" end="00:11:47.27"><metadata ccrow="13" cccol="4"/>than thou that makes the<br></br>fray.</p>
+      <p begin="00:11:49.37" end="00:12:03.43"><metadata ccrow="13" cccol="5"/>Tell me where is fancy<br></br>bred?</p>
+      <p begin="00:12:03.43" end="00:12:11.20"><metadata ccrow="13" cccol="3"/>Or in the heart or in the<br></br>head?</p>
+      <p begin="00:12:11.20" end="00:12:21.93"><metadata ccrow="14" cccol="3"/>How begot, how nourished?</p>
+      <p begin="00:12:21.93" end="00:12:29.20"><metadata ccrow="14" cccol="9"/>Reply, reply.</p>
+      <p begin="00:12:29.20" end="00:12:39.13"><metadata ccrow="13" cccol="4"/>It is engendered in the<br></br>eyes</p>
+      <p begin="00:12:39.13" end="00:12:44.37"><metadata ccrow="14" cccol="8"/>with gazing fed,</p>
+      <p begin="00:12:44.37" end="00:12:50.77"><metadata ccrow="14" cccol="9"/>and fancy dies</p>
+      <p begin="00:12:50.77" end="00:13:05.23"><metadata ccrow="13" cccol="5"/>in the cradle where it<br></br>lies.</p>
+      <p begin="00:13:05.23" end="00:13:17.43"><metadata ccrow="13" cccol="4"/>Let us all ring fancy&apos;s<br></br>knell.</p>
+      <p begin="00:13:17.43" end="00:13:23.17"><metadata ccrow="14" cccol="9"/>I&apos;ll begin it.</p>
+      <p begin="00:13:23.17" end="00:13:26.03"><metadata ccrow="14" cccol="7"/>Ding, dong, bell.</p>
+      <p begin="00:13:28.80" end="00:13:31.53"><metadata ccrow="14" cccol="7"/>Ding, dong, bell.</p>
+      <p begin="00:13:34.13" end="00:13:36.80"><metadata ccrow="14" cccol="7"/>Ding, dong, bell.</p>
+      <p begin="00:13:39.23" end="00:13:41.97"><metadata ccrow="14" cccol="7"/>Ding, dong, bell.</p>
+      <p begin="00:13:49.47" end="00:13:54.93"><metadata ccrow="13" cccol="4"/>So may the outward shows<br></br>be least themselves.</p>
+      <p begin="00:13:54.93" end="00:14:00.90"><metadata ccrow="13" cccol="7"/>The world is still<br></br>deceived with ornament.</p>
+      <p begin="00:14:00.90" end="00:14:05.43"><metadata ccrow="13" cccol="6"/>In law, what plea so<br></br>tainted and corrupt</p>
+      <p begin="00:14:05.43" end="00:14:08.33"><metadata ccrow="13" cccol="3"/>but being seasoned with a<br></br>gracious voice</p>
+      <p begin="00:14:08.33" end="00:14:10.87"><metadata ccrow="14" cccol="3"/>obscures the show of evil?</p>
+      <p begin="00:14:10.87" end="00:14:14.63"><metadata ccrow="13" cccol="4"/>In religion, what damned<br></br>error</p>
+      <p begin="00:14:14.63" end="00:14:17.20"><metadata ccrow="13" cccol="4"/>but some sober brow will<br></br>bless it,</p>
+      <p begin="00:14:17.20" end="00:14:18.67"><metadata ccrow="13" cccol="5"/>and approve it with a<br></br>text,</p>
+      <p begin="00:14:18.67" end="00:14:22.27"><metadata ccrow="13" cccol="3"/>hiding the grossness with<br></br>fair ornament?</p>
+      <p begin="00:14:22.27" end="00:14:23.47"><metadata ccrow="14" cccol="3"/>There is no vice so simple</p>
+      <p begin="00:14:23.47" end="00:14:26.00"><metadata ccrow="13" cccol="4"/>but assumes some mark of<br></br>virtue</p>
+      <p begin="00:14:26.00" end="00:14:27.93"><metadata ccrow="14" cccol="5"/>on his outward parts.</p>
+      <p begin="00:14:27.93" end="00:14:30.03"><metadata ccrow="14" cccol="7"/>How many cowards,</p>
+      <p begin="00:14:30.03" end="00:14:34.40"><metadata ccrow="13" cccol="4"/>whose hearts are all as<br></br>false as stairs of sand,</p>
+      <p begin="00:14:34.40" end="00:14:36.43"><metadata ccrow="14" cccol="3"/>wear yet upon their chins</p>
+      <p begin="00:14:36.43" end="00:14:39.20"><metadata ccrow="13" cccol="3"/>the beards of Hercules and<br></br>frowning Mars,</p>
+      <p begin="00:14:39.20" end="00:14:43.30"><metadata ccrow="13" cccol="3"/>who inward searched, have<br></br>livers white as milk.</p>
+      <p begin="00:14:43.30" end="00:14:45.90"><metadata ccrow="13" cccol="6"/>And these assume but<br></br>valor&apos;s excrement</p>
+      <p begin="00:14:45.90" end="00:14:48.07"><metadata ccrow="14" cccol="3"/>to render them redoubted.</p>
+      <p begin="00:14:48.07" end="00:14:53.17"><metadata ccrow="12" cccol="4"/>Look on beauty, and you<br></br>shall see &apos;tis purchased<br></br>by the weight</p>
+      <p begin="00:14:53.17" end="00:14:55.40"><metadata ccrow="13" cccol="5"/>which therein works a<br></br>miracle in nature,</p>
+      <p begin="00:14:55.40" end="00:14:59.53"><metadata ccrow="13" cccol="3"/>making them lightest that<br></br>wear most of it.</p>
+      <p begin="00:14:59.53" end="00:15:03.93"><metadata ccrow="13" cccol="3"/>So are those crisped snaky<br></br>golden locks</p>
+      <p begin="00:15:03.93" end="00:15:06.43"><metadata ccrow="13" cccol="5"/>which make such wanton<br></br>gambols with the wind</p>
+      <p begin="00:15:06.43" end="00:15:07.90"><metadata ccrow="14" cccol="4"/>upon supposed fairness,</p>
+      <p begin="00:15:07.90" end="00:15:12.07"><metadata ccrow="13" cccol="5"/>often known to be the<br></br>dowry of a second head,</p>
+      <p begin="00:15:12.07" end="00:15:16.43"><metadata ccrow="13" cccol="4"/>the skull that bred them<br></br>in the sepulchre.</p>
+      <p begin="00:15:16.43" end="00:15:20.23"><metadata ccrow="13" cccol="5"/>Thus ornament is but a<br></br>guiled shore</p>
+      <p begin="00:15:20.23" end="00:15:21.90"><metadata ccrow="14" cccol="4"/>to a most dangerous sea,</p>
+      <p begin="00:15:21.90" end="00:15:25.73"><metadata ccrow="13" cccol="6"/>the beauteous scarf<br></br>veiling an Indian beauty.</p>
+      <p begin="00:15:25.73" end="00:15:29.60"><metadata ccrow="13" cccol="2"/>In a word, the seeming truth<br></br>which cunning times put on</p>
+      <p begin="00:15:29.60" end="00:15:31.13"><metadata ccrow="14" cccol="5"/>to entrap the wisest.</p>
+      <p begin="00:15:31.13" end="00:15:37.37"><metadata ccrow="13" cccol="3"/>Therefore then, thou gaudy<br></br>gold, hard food for Midas,</p>
+      <p begin="00:15:37.37" end="00:15:38.83"><metadata ccrow="14" cccol="6"/>I will none of thee.</p>
+      <p begin="00:15:38.83" end="00:15:40.87"><metadata ccrow="13" cccol="5"/>Nor none of thee, thou<br></br>pale and common drudge</p>
+      <p begin="00:15:40.87" end="00:15:42.13"><metadata ccrow="14" cccol="6"/>&apos;tween man and man.</p>
+      <p begin="00:15:42.13" end="00:15:45.80"><metadata ccrow="13" cccol="5"/>But thou, thou meagre<br></br>lead,</p>
+      <p begin="00:15:45.80" end="00:15:49.97"><metadata ccrow="13" cccol="4"/>which rather threaten&apos;st<br></br>than dost promise aught.</p>
+      <p begin="00:15:49.97" end="00:15:56.57"><metadata ccrow="13" cccol="5"/>Thy plainness moves me<br></br>more than eloquence,</p>
+      <p begin="00:15:56.57" end="00:16:00.67"><metadata ccrow="14" cccol="7"/>and here choose I.</p>
+      <p begin="00:16:00.67" end="00:16:03.10"><metadata ccrow="14" cccol="4"/>Joy be the consequence.</p>
+      <p begin="00:16:06.97" end="00:16:09.73"><metadata ccrow="13" cccol="5"/>How all other passions<br></br>fleet to air</p>
+      <p begin="00:16:09.73" end="00:16:14.33"><metadata ccrow="13" cccol="3"/>as doubtful thoughts, and<br></br>rash-embraced despair</p>
+      <p begin="00:16:14.33" end="00:16:17.27"><metadata ccrow="13" cccol="4"/>and shudd&apos;ring fear, and<br></br>green-eyed jealousy.</p>
+      <p begin="00:16:17.27" end="00:16:19.83"><metadata ccrow="14" cccol="5"/>Oh, love, be moderate.</p>
+      <p begin="00:16:19.83" end="00:16:21.90"><metadata ccrow="14" cccol="7"/>Allay thy ecstasy.</p>
+      <p begin="00:16:21.90" end="00:16:23.13"><metadata ccrow="14" cccol="4"/>In measure rain thy joy.</p>
+      <p begin="00:16:23.13" end="00:16:25.13"><metadata ccrow="14" cccol="7"/>Scant this excess.</p>
+      <p begin="00:16:25.13" end="00:16:26.40"><metadata ccrow="13" cccol="6"/>I feel too much thy<br></br>blessing.</p>
+      <p begin="00:16:26.40" end="00:16:28.37"><metadata ccrow="13" cccol="4"/>Make it less for fear I<br></br>surfeit.</p>
+      <p begin="00:16:30.57" end="00:16:35.47"><metadata ccrow="14" cccol="7"/>What find I here?</p>
+      <p begin="00:16:39.17" end="00:16:41.63"><metadata ccrow="14" cccol="3"/>Fair Portia&apos;s counterfeit!</p>
+      <p begin="00:16:45.13" end="00:16:50.43"><metadata ccrow="13" cccol="3"/>What demigod hath come so<br></br>near creation?</p>
+      <p begin="00:16:50.43" end="00:16:53.53"><metadata ccrow="13" cccol="6"/>Move these eyes, or<br></br>whether,</p>
+      <p begin="00:16:53.53" end="00:16:56.13"><metadata ccrow="13" cccol="5"/>riding on the balls of<br></br>mine, seem they in motion?</p>
+      <p begin="00:16:56.13" end="00:16:58.60"><metadata ccrow="13" cccol="5"/>Here are severed lips,<br></br>parted with sugar breath</p>
+      <p begin="00:16:58.60" end="00:17:00.97"><metadata ccrow="13" cccol="5"/>so sweet a bar should<br></br>sunder such sweet friends.</p>
+      <p begin="00:17:00.97" end="00:17:03.63"><metadata ccrow="13" cccol="5"/>Here in her hairs, the<br></br>painter plays the spider</p>
+      <p begin="00:17:03.63" end="00:17:06.50"><metadata ccrow="13" cccol="2"/>and hath woven a golden mesh<br></br>to entrap the hearts of men</p>
+      <p begin="00:17:06.50" end="00:17:08.40"><metadata ccrow="13" cccol="6"/>faster than gnats in<br></br>cobwebs.</p>
+      <p begin="00:17:08.40" end="00:17:11.03"><metadata ccrow="14" cccol="9"/>But her eyes,</p>
+      <p begin="00:17:11.03" end="00:17:14.33"><metadata ccrow="13" cccol="5"/>how could he see to do<br></br>them?</p>
+      <p begin="00:17:14.33" end="00:17:16.23"><metadata ccrow="13" cccol="3"/>Having made one, methinks<br></br>it should have power</p>
+      <p begin="00:17:16.23" end="00:17:19.43"><metadata ccrow="13" cccol="5"/>to steal both his and<br></br>leave itself unfurnished.</p>
+      <p begin="00:17:19.43" end="00:17:21.83"><metadata ccrow="13" cccol="5"/>But look, how far the<br></br>substance of my praise</p>
+      <p begin="00:17:21.83" end="00:17:25.23"><metadata ccrow="13" cccol="3"/>doth wrong this shadow in<br></br>underprizing it.</p>
+      <p begin="00:17:25.23" end="00:17:30.97"><metadata ccrow="13" cccol="4"/>So far this shadow doth<br></br>limp behind the substance.</p>
+      <p begin="00:17:32.77" end="00:17:34.83"><metadata ccrow="14" cccol="6"/>Here is the scroll,</p>
+      <p begin="00:17:34.83" end="00:17:36.70"><metadata ccrow="13" cccol="3"/>the continent, and summary<br></br>of my fortune.</p>
+      <p begin="00:17:36.70" end="00:17:39.97"><metadata ccrow="13" cccol="4"/>&quot;You that choose not by<br></br>the view</p>
+      <p begin="00:17:39.97" end="00:17:43.13"><metadata ccrow="13" cccol="3"/>&quot;chance as fair and choose<br></br>as true.</p>
+      <p begin="00:17:43.13" end="00:17:47.07"><metadata ccrow="12" cccol="3"/>&quot;Since this fortune falls<br></br>to you, be content and<br></br>seek no new.</p>
+      <p begin="00:17:47.07" end="00:17:51.10"><metadata ccrow="12" cccol="4"/>&quot;If you be well pleased<br></br>with this and hold your<br></br>fortune for your bliss,</p>
+      <p begin="00:17:51.10" end="00:17:56.70"><metadata ccrow="12" cccol="4"/>turn you where your lady<br></br>is and claim her with a<br></br>loving kiss.&quot;</p>
+      <p begin="00:17:56.70" end="00:18:00.80"><metadata ccrow="14" cccol="8"/>A gentle scroll.</p>
+      <p begin="00:18:00.80" end="00:18:04.87"><metadata ccrow="14" cccol="4"/>Fair lady, by your leave</p>
+      <p begin="00:18:04.87" end="00:18:10.53"><metadata ccrow="13" cccol="4"/>I come by note, to give<br></br>and to receive,</p>
+      <p begin="00:18:10.53" end="00:18:12.80"><metadata ccrow="13" cccol="3"/>like one of two contending<br></br>in a prize</p>
+      <p begin="00:18:12.80" end="00:18:14.93"><metadata ccrow="13" cccol="4"/>that thinks he hath done<br></br>well in people&apos;s eyes</p>
+      <p begin="00:18:14.93" end="00:18:17.30"><metadata ccrow="13" cccol="6"/>hearing applause and<br></br>universal shout,</p>
+      <p begin="00:18:17.30" end="00:18:19.97"><metadata ccrow="13" cccol="5"/>giddy in spirit, still<br></br>gazing in a doubt</p>
+      <p begin="00:18:19.97" end="00:18:22.93"><metadata ccrow="13" cccol="5"/>whether those peals of<br></br>praise be his or no.</p>
+      <p begin="00:18:22.93" end="00:18:27.13"><metadata ccrow="13" cccol="3"/>So thrice-fair lady, stand<br></br>I,</p>
+      <p begin="00:18:27.13" end="00:18:30.23"><metadata ccrow="13" cccol="6"/>even so as doubtful<br></br>whether what I see be true</p>
+      <p begin="00:18:30.23" end="00:18:34.87"><metadata ccrow="13" cccol="4"/>until confirmed, signed,<br></br>ratified by you.</p>
+      <p begin="00:18:37.07" end="00:18:38.87"><metadata ccrow="14" cccol="3"/>You see me, lord Bassanio,</p>
+      <p begin="00:18:38.87" end="00:18:40.83"><metadata ccrow="14" cccol="9"/>where I stand</p>
+      <p begin="00:18:40.83" end="00:18:43.43"><metadata ccrow="14" cccol="9"/>such as I am.</p>
+      <p begin="00:18:43.43" end="00:18:46.00"><metadata ccrow="14" cccol="4"/>Though for myself alone,</p>
+      <p begin="00:18:46.00" end="00:18:48.03"><metadata ccrow="13" cccol="4"/>I would not be ambitious<br></br>in my wish</p>
+      <p begin="00:18:48.03" end="00:18:49.60"><metadata ccrow="13" cccol="6"/>to wish myself much<br></br>better,</p>
+      <p begin="00:18:49.60" end="00:18:53.53"><metadata ccrow="12" cccol="4"/>yet for you, I would be<br></br>trebled twenty times<br></br>myself,</p>
+      <p begin="00:18:53.53" end="00:18:58.77"><metadata ccrow="12" cccol="5"/>a thousand times more<br></br>rich, ten thousand times<br></br>more fair</p>
+      <p begin="00:18:58.77" end="00:19:01.20"><metadata ccrow="13" cccol="3"/>that only to stand high in<br></br>your account</p>
+      <p begin="00:19:01.20" end="00:19:05.40"><metadata ccrow="12" cccol="6"/>I might in virtues,<br></br>beauties, livings, friends<br></br>exceed account.</p>
+      <p begin="00:19:05.40" end="00:19:08.27"><metadata ccrow="13" cccol="3"/>But the full sum of me is<br></br>sum of something</p>
+      <p begin="00:19:08.27" end="00:19:12.17"><metadata ccrow="13" cccol="4"/>which, to term in gross,<br></br>is an unlessoned girl</p>
+      <p begin="00:19:12.17" end="00:19:15.63"><metadata ccrow="14" cccol="4"/>unschooled, unpracticed.</p>
+      <p begin="00:19:15.63" end="00:19:20.80"><metadata ccrow="12" cccol="3"/>Happy in this, she is not<br></br>yet so old but she may<br></br>learn.</p>
+      <p begin="00:19:20.80" end="00:19:24.90"><metadata ccrow="12" cccol="3"/>Happier than this, she is<br></br>not bred so dull but she<br></br>can learn.</p>
+      <p begin="00:19:24.90" end="00:19:29.43"><metadata ccrow="13" cccol="4"/>Happiest of all is that<br></br>her gentle spirit</p>
+      <p begin="00:19:29.43" end="00:19:31.93"><metadata ccrow="13" cccol="3"/>commits itself to yours to<br></br>be directed</p>
+      <p begin="00:19:31.93" end="00:19:39.60"><metadata ccrow="13" cccol="5"/>as from her lord, her<br></br>governor, her king.</p>
+      <p begin="00:19:39.60" end="00:19:45.23"><metadata ccrow="12" cccol="3"/>Myself and what is mine to<br></br>you and yours is now<br></br>converted.</p>
+      <p begin="00:19:48.47" end="00:19:52.47"><metadata ccrow="13" cccol="3"/>But now I was the lord of<br></br>this fair mansion,</p>
+      <p begin="00:19:52.47" end="00:19:56.47"><metadata ccrow="13" cccol="5"/>master of my servants,<br></br>queen o&apos;er myself.</p>
+      <p begin="00:19:56.47" end="00:20:01.63"><metadata ccrow="13" cccol="2"/>And even now, but now, this<br></br>house, these servants,</p>
+      <p begin="00:20:01.63" end="00:20:10.40"><metadata ccrow="13" cccol="4"/>and this same myself are<br></br>yours, my lord.</p>
+      <p begin="00:20:10.40" end="00:20:14.53"><metadata ccrow="13" cccol="5"/>I give them with this<br></br>ring,</p>
+      <p begin="00:20:14.53" end="00:20:20.70"><metadata ccrow="13" cccol="3"/>which when you part from,<br></br>lose, or give away,</p>
+      <p begin="00:20:20.70" end="00:20:22.63"><metadata ccrow="13" cccol="3"/>let it presage the ruin of<br></br>your love</p>
+      <p begin="00:20:22.63" end="00:20:25.93"><metadata ccrow="13" cccol="6"/>and be my vantage to<br></br>exclaim on you.</p>
+      <p begin="00:20:25.93" end="00:20:30.80"><metadata ccrow="13" cccol="3"/>Madam, you have bereft me<br></br>of all words.</p>
+      <p begin="00:20:30.80" end="00:20:33.63"><metadata ccrow="13" cccol="4"/>Only my blood speaks to<br></br>you in my veins,</p>
+      <p begin="00:20:33.63" end="00:20:36.57"><metadata ccrow="13" cccol="7"/>and there is such<br></br>confusion in my powers</p>
+      <p begin="00:20:36.57" end="00:20:39.63"><metadata ccrow="12" cccol="5"/>as, after some oration<br></br>fairly spoke by a beloved<br></br>prince,</p>
+      <p begin="00:20:39.63" end="00:20:42.10"><metadata ccrow="12" cccol="4"/>there doth appear among<br></br>the buzzing, pleased<br></br>multitude</p>
+      <p begin="00:20:42.10" end="00:20:45.13"><metadata ccrow="13" cccol="5"/>where every something,<br></br>being blent together,</p>
+      <p begin="00:20:45.13" end="00:20:47.00"><metadata ccrow="13" cccol="7"/>turns to a wild of<br></br>nothing,</p>
+      <p begin="00:20:47.00" end="00:20:51.13"><metadata ccrow="13" cccol="3"/>save of joy expressed and<br></br>not expressed.</p>
+      <p begin="00:20:51.13" end="00:20:56.30"><metadata ccrow="13" cccol="4"/>But when this ring parts<br></br>from this finger,</p>
+      <p begin="00:20:56.30" end="00:20:58.70"><metadata ccrow="13" cccol="6"/>then parts life from<br></br>hence.</p>
+      <p begin="00:20:58.70" end="00:21:03.43"><metadata ccrow="13" cccol="4"/>Oh, then be bold to say<br></br>Bassanio&apos;s dead.</p>
+      <p begin="00:21:24.20" end="00:21:27.10"><metadata ccrow="13" cccol="4"/>My lord and lady, it is<br></br>now our time</p>
+      <p begin="00:21:27.10" end="00:21:30.37"><metadata ccrow="13" cccol="5"/>that have stood by and<br></br>seen our wishes prosper</p>
+      <p begin="00:21:30.37" end="00:21:32.40"><metadata ccrow="14" cccol="7"/>to cry &quot;good joy.&quot;</p>
+      <p begin="00:21:32.40" end="00:21:34.47"><metadata ccrow="13" cccol="5"/>Good joy, my lord and<br></br>lady.</p>
+      <p begin="00:21:34.47" end="00:21:36.77"><metadata ccrow="13" cccol="4"/>My lord Bassanio, and my<br></br>gentle lady,</p>
+      <p begin="00:21:36.77" end="00:21:39.43"><metadata ccrow="13" cccol="5"/>I wish you all the joy<br></br>that you can wish,</p>
+      <p begin="00:21:39.43" end="00:21:41.17"><metadata ccrow="13" cccol="3"/>for I am sure you can wish<br></br>none from me.</p>
+      <p begin="00:21:41.17" end="00:21:43.63"><metadata ccrow="13" cccol="3"/>And when your honors mean<br></br>to solemnize</p>
+      <p begin="00:21:43.63" end="00:21:45.03"><metadata ccrow="14" cccol="3"/>the bargain of your faith,</p>
+      <p begin="00:21:45.03" end="00:21:47.73"><metadata ccrow="13" cccol="3"/>I do beseech you, even at<br></br>that time,</p>
+      <p begin="00:21:47.73" end="00:21:49.93"><metadata ccrow="14" cccol="5"/>I may be married too.</p>
+      <p begin="00:21:49.93" end="00:21:51.70"><metadata ccrow="14" cccol="7"/>With all my heart,</p>
+      <p begin="00:21:51.70" end="00:21:54.13"><metadata ccrow="14" cccol="3"/>so thou can&apos;st get a wife.</p>
+      <p begin="00:21:54.13" end="00:21:56.60"><metadata ccrow="13" cccol="3"/>I thank your lordship, you<br></br>have got me one.</p>
+      <p begin="00:21:56.60" end="00:21:59.70"><metadata ccrow="13" cccol="3"/>My eyes, my lord, can look<br></br>as swift as yours.</p>
+      <p begin="00:21:59.70" end="00:22:01.63"><metadata ccrow="14" cccol="5"/>You saw the mistress.</p>
+      <p begin="00:22:01.63" end="00:22:04.33"><metadata ccrow="14" cccol="7"/>I beheld the maid.</p>
+      <p begin="00:22:04.33" end="00:22:06.43"><metadata ccrow="14" cccol="6"/>You loved; I loved.</p>
+      <p begin="00:22:06.43" end="00:22:07.77"><metadata ccrow="14" cccol="7"/>For intermission,</p>
+      <p begin="00:22:07.77" end="00:22:09.43"><metadata ccrow="13" cccol="3"/>no more pertains to me, my<br></br>lord, than you.</p>
+      <p begin="00:22:09.43" end="00:22:11.37"><metadata ccrow="13" cccol="4"/>Your fortune stood upon<br></br>the caskets there</p>
+      <p begin="00:22:11.37" end="00:22:13.10"><metadata ccrow="13" cccol="4"/>and so did mine too, as<br></br>the matter falls.</p>
+      <p begin="00:22:13.10" end="00:22:15.87"><metadata ccrow="13" cccol="4"/>For wooing here until I<br></br>sweat again</p>
+      <p begin="00:22:15.87" end="00:22:18.60"><metadata ccrow="13" cccol="3"/>and swearing till my very<br></br>roof was dry</p>
+      <p begin="00:22:18.60" end="00:22:20.07"><metadata ccrow="14" cccol="6"/>with oaths of love,</p>
+      <p begin="00:22:20.07" end="00:22:23.77"><metadata ccrow="13" cccol="6"/>at last-- if promise<br></br>last--</p>
+      <p begin="00:22:23.77" end="00:22:26.47"><metadata ccrow="13" cccol="4"/>I got a promise of this<br></br>fair one here</p>
+      <p begin="00:22:26.47" end="00:22:27.60"><metadata ccrow="14" cccol="7"/>to have her love,</p>
+      <p begin="00:22:27.60" end="00:22:30.13"><metadata ccrow="13" cccol="3"/>provided that your fortune<br></br>achieved her mistress.</p>
+      <p begin="00:22:30.13" end="00:22:31.60"><metadata ccrow="14" cccol="5"/>Is this true, Nerissa?</p>
+      <p begin="00:22:31.60" end="00:22:32.70"><metadata ccrow="14" cccol="9"/>Madam, it is.</p>
+      <p begin="00:22:32.70" end="00:22:34.87"><metadata ccrow="13" cccol="6"/>So you stand pleased<br></br>withal.</p>
+      <p begin="00:22:34.87" end="00:22:36.13"><metadata ccrow="14" cccol="5"/>And do you, Gratiano,</p>
+      <p begin="00:22:36.13" end="00:22:38.13"><metadata ccrow="14" cccol="8"/>mean good faith?</p>
+      <p begin="00:22:38.13" end="00:22:39.40"><metadata ccrow="14" cccol="6"/>Yes, faith, my lord.</p>
+      <p begin="00:22:39.40" end="00:22:42.13"><metadata ccrow="13" cccol="4"/>Our feast shall be much<br></br>honored in your marriage.</p>
+      <p begin="00:22:42.13" end="00:22:45.13"><metadata ccrow="12" cccol="4"/>We&apos;ll play with them the<br></br>first boy for a thousand<br></br>ducats.</p>
+      <p begin="00:22:45.13" end="00:22:46.50"><metadata ccrow="14" cccol="5"/>What, and stake down?</p>
+      <p begin="00:22:46.50" end="00:22:49.70"><metadata ccrow="13" cccol="3"/>No, we shall ne&apos;er win at<br></br>that sport and stake down.</p>
+      <p begin="00:22:49.70" end="00:22:51.67"><metadata ccrow="14" cccol="6"/>But who comes here?</p>
+      <p begin="00:22:51.67" end="00:22:53.43"><metadata ccrow="14" cccol="4"/>Lorenzo and his infidel?</p>
+      <p begin="00:22:53.43" end="00:22:56.30"><metadata ccrow="13" cccol="3"/>What, and my old venetian<br></br>friend, Salerio?</p>
+      <p begin="00:22:56.30" end="00:23:00.37"><metadata ccrow="13" cccol="6"/>Lorenzo and Salerio,<br></br>welcome hither,</p>
+      <p begin="00:23:00.37" end="00:23:02.40"><metadata ccrow="13" cccol="4"/>if that the youth of my<br></br>new interest here</p>
+      <p begin="00:23:02.40" end="00:23:03.83"><metadata ccrow="13" cccol="5"/>have power to bid you<br></br>welcome.</p>
+      <p begin="00:23:03.83" end="00:23:06.50"><metadata ccrow="13" cccol="2"/>By your leave, I bid my very<br></br>friends and countrymen,</p>
+      <p begin="00:23:06.50" end="00:23:07.80"><metadata ccrow="14" cccol="5"/>sweet Portia, welcome.</p>
+      <p begin="00:23:07.80" end="00:23:09.00"><metadata ccrow="14" cccol="7"/>So do I, my lord.</p>
+      <p begin="00:23:09.00" end="00:23:10.20"><metadata ccrow="14" cccol="3"/>They are entirely welcome.</p>
+      <p begin="00:23:10.20" end="00:23:11.47"><metadata ccrow="14" cccol="6"/>I thank your honor.</p>
+      <p begin="00:23:11.47" end="00:23:12.80"><metadata ccrow="14" cccol="5"/>For my part, my lord,</p>
+      <p begin="00:23:12.80" end="00:23:14.87"><metadata ccrow="13" cccol="3"/>my purpose was not to have<br></br>seen you here.</p>
+      <p begin="00:23:14.87" end="00:23:16.90"><metadata ccrow="13" cccol="4"/>But meeting with Salerio<br></br>by the way,</p>
+      <p begin="00:23:16.90" end="00:23:19.30"><metadata ccrow="13" cccol="4"/>he did entreat me, past<br></br>all saying nay,</p>
+      <p begin="00:23:19.30" end="00:23:20.60"><metadata ccrow="14" cccol="4"/>to come with him along.</p>
+      <p begin="00:23:20.60" end="00:23:24.07"><metadata ccrow="13" cccol="3"/>I did, my lord, and I have<br></br>reason for it.</p>
+      <p begin="00:23:24.07" end="00:23:25.80"><metadata ccrow="13" cccol="4"/>Signior Antonio commends<br></br>him to you.</p>
+      <p begin="00:23:25.80" end="00:23:27.80"><metadata ccrow="13" cccol="4"/>Ere I ope his letter, I<br></br>pray thee tell me</p>
+      <p begin="00:23:27.80" end="00:23:29.50"><metadata ccrow="14" cccol="4"/>how my good friend doth.</p>
+      <p begin="00:23:29.50" end="00:23:31.27"><metadata ccrow="13" cccol="3"/>Not sick, my lord, unless<br></br>it be in mind.</p>
+      <p begin="00:23:31.27" end="00:23:33.40"><metadata ccrow="14" cccol="3"/>Nor well, unless in mind.</p>
+      <p begin="00:23:33.40" end="00:23:35.70"><metadata ccrow="13" cccol="3"/>His letter here will show<br></br>you his estate.</p>
+      <p begin="00:23:37.83" end="00:23:41.50"><metadata ccrow="13" cccol="6"/>Nerissa, cheer yond<br></br>stranger.</p>
+      <p begin="00:23:41.50" end="00:23:43.20"><metadata ccrow="14" cccol="8"/>Bid her welcome.</p>
+      <p begin="00:23:43.20" end="00:23:44.90"><metadata ccrow="14" cccol="6"/>Your hand, Salerio.</p>
+      <p begin="00:23:44.90" end="00:23:47.30"><metadata ccrow="13" cccol="6"/>What&apos;s the news from<br></br>Venice?</p>
+      <p begin="00:23:47.30" end="00:23:49.60"><metadata ccrow="13" cccol="6"/>How doth that royal<br></br>merchant, good Antonio?</p>
+      <p begin="00:23:49.60" end="00:23:52.23"><metadata ccrow="13" cccol="3"/>I know he will be glad of<br></br>our success.</p>
+      <p begin="00:23:52.23" end="00:23:53.53"><metadata ccrow="14" cccol="7"/>We are the Jasons.</p>
+      <p begin="00:23:53.53" end="00:23:54.80"><metadata ccrow="14" cccol="4"/>We have won the fleece.</p>
+      <p begin="00:23:54.80" end="00:23:57.33"><metadata ccrow="13" cccol="4"/>I would you had won the<br></br>fleece that he hath lost.</p>
+      <p begin="00:23:57.33" end="00:24:00.27"><metadata ccrow="13" cccol="5"/>There are some shrewd<br></br>contents in yond same paper</p>
+      <p begin="00:24:00.27" end="00:24:02.27"><metadata ccrow="13" cccol="3"/>that steal the color from<br></br>Bassanio&apos;s cheek.</p>
+      <p begin="00:24:02.27" end="00:24:04.30"><metadata ccrow="14" cccol="5"/>Some dear friend dead.</p>
+      <p begin="00:24:04.30" end="00:24:05.53"><metadata ccrow="14" cccol="3"/>Else nothing in the world</p>
+      <p begin="00:24:05.53" end="00:24:07.10"><metadata ccrow="13" cccol="5"/>could turn so much the<br></br>constitution</p>
+      <p begin="00:24:07.10" end="00:24:08.27"><metadata ccrow="14" cccol="6"/>of any constant man.</p>
+      <p begin="00:24:08.27" end="00:24:09.57"><metadata ccrow="14" cccol="5"/>What, worse and worse?</p>
+      <p begin="00:24:09.57" end="00:24:12.03"><metadata ccrow="13" cccol="3"/>With leave, Bassanio, I am<br></br>half yourself,</p>
+      <p begin="00:24:12.03" end="00:24:14.07"><metadata ccrow="13" cccol="3"/>and I must freely have the<br></br>half of anything</p>
+      <p begin="00:24:14.07" end="00:24:15.70"><metadata ccrow="13" cccol="6"/>that this same paper<br></br>brings you.</p>
+      <p begin="00:24:15.70" end="00:24:18.93"><metadata ccrow="12" cccol="3"/>Oh, sweet Portia, here are<br></br>a few of the unpleasant&apos;st<br></br>words</p>
+      <p begin="00:24:18.93" end="00:24:20.50"><metadata ccrow="14" cccol="4"/>that ever blotted paper.</p>
+      <p begin="00:24:20.50" end="00:24:23.53"><metadata ccrow="12" cccol="4"/>Gentle lady, when I did<br></br>first impart my love to<br></br>you,</p>
+      <p begin="00:24:23.53" end="00:24:25.93"><metadata ccrow="12" cccol="3"/>I freely told you all the<br></br>wealth I had ran in my<br></br>veins--</p>
+      <p begin="00:24:25.93" end="00:24:27.23"><metadata ccrow="14" cccol="6"/>I was a gentleman--</p>
+      <p begin="00:24:27.23" end="00:24:28.63"><metadata ccrow="14" cccol="3"/>and then I told you true.</p>
+      <p begin="00:24:28.63" end="00:24:30.00"><metadata ccrow="14" cccol="6"/>And yet, dear lady,</p>
+      <p begin="00:24:30.00" end="00:24:33.63"><metadata ccrow="12" cccol="3"/>rating myself at nothing,<br></br>you shall see how much I<br></br>was a braggart.</p>
+      <p begin="00:24:33.63" end="00:24:36.77"><metadata ccrow="13" cccol="4"/>When I told you my state<br></br>was nothing,</p>
+      <p begin="00:24:36.77" end="00:24:39.40"><metadata ccrow="12" cccol="4"/>I should then have told<br></br>you that I was worse than<br></br>nothing,</p>
+      <p begin="00:24:39.40" end="00:24:42.63"><metadata ccrow="13" cccol="3"/>for indeed I have engaged<br></br>myself to a dear friend,</p>
+      <p begin="00:24:42.63" end="00:24:48.30"><metadata ccrow="13" cccol="4"/>engaged my friend to his<br></br>mere enemy to feed my means.</p>
+      <p begin="00:24:48.30" end="00:24:49.80"><metadata ccrow="14" cccol="4"/>Here is a letter, lady.</p>
+      <p begin="00:24:49.80" end="00:24:52.17"><metadata ccrow="13" cccol="4"/>The paper as the body of<br></br>my friend</p>
+      <p begin="00:24:52.17" end="00:24:56.27"><metadata ccrow="13" cccol="1"/>and every word in it a gaping<br></br>wound issuing lifeblood.</p>
+      <p begin="00:24:56.27" end="00:24:58.87"><metadata ccrow="14" cccol="4"/>But is it true, Salerio?</p>
+      <p begin="00:24:58.87" end="00:25:00.40"><metadata ccrow="13" cccol="5"/>Have all his ventures<br></br>failed?</p>
+      <p begin="00:25:00.40" end="00:25:01.60"><metadata ccrow="14" cccol="7"/>What, not one hit?</p>
+      <p begin="00:25:01.60" end="00:25:04.10"><metadata ccrow="13" cccol="3"/>From Tripolis, from Mexico<br></br>and England?</p>
+      <p begin="00:25:04.10" end="00:25:08.50"><metadata ccrow="13" cccol="3"/>From Lisbon, Barbary, and<br></br>India?</p>
+      <p begin="00:25:08.50" end="00:25:12.67"><metadata ccrow="13" cccol="3"/>And not one vessel &apos;scape<br></br>the dreadful touch</p>
+      <p begin="00:25:12.67" end="00:25:13.97"><metadata ccrow="14" cccol="3"/>of merchant-marring rocks?</p>
+      <p begin="00:25:13.97" end="00:25:15.37"><metadata ccrow="14" cccol="7"/>Not one, my lord.</p>
+      <p begin="00:25:15.37" end="00:25:16.77"><metadata ccrow="13" cccol="3"/>Besides, it should appear<br></br>that,</p>
+      <p begin="00:25:16.77" end="00:25:19.17"><metadata ccrow="13" cccol="2"/>if he had the present money<br></br>to discharge the Jew,</p>
+      <p begin="00:25:19.17" end="00:25:20.43"><metadata ccrow="14" cccol="5"/>he would not take it.</p>
+      <p begin="00:25:20.43" end="00:25:23.17"><metadata ccrow="12" cccol="7"/>Never did I know a<br></br>creature that did bear the<br></br>shape of man</p>
+      <p begin="00:25:23.17" end="00:25:26.23"><metadata ccrow="13" cccol="5"/>so keen and greedy to<br></br>confound a man.</p>
+      <p begin="00:25:26.23" end="00:25:28.10"><metadata ccrow="13" cccol="6"/>He plies the Duke at<br></br>morning and at night</p>
+      <p begin="00:25:28.10" end="00:25:29.90"><metadata ccrow="13" cccol="6"/>and doth impeach the<br></br>freedom of the state</p>
+      <p begin="00:25:29.90" end="00:25:32.03"><metadata ccrow="14" cccol="3"/>if they deny him justice.</p>
+      <p begin="00:25:32.03" end="00:25:34.90"><metadata ccrow="13" cccol="3"/>Twenty merchants, the Duke<br></br>himself,</p>
+      <p begin="00:25:34.90" end="00:25:38.07"><metadata ccrow="12" cccol="5"/>and the magnificoes of<br></br>greatest port have all<br></br>persuaded with him.</p>
+      <p begin="00:25:38.07" end="00:25:40.93"><metadata ccrow="13" cccol="5"/>But none can drive him<br></br>from the envious plea</p>
+      <p begin="00:25:40.93" end="00:25:45.03"><metadata ccrow="13" cccol="3"/>of forfeiture, of justice,<br></br>and his bond.</p>
+      <p begin="00:25:45.03" end="00:25:47.67"><metadata ccrow="13" cccol="5"/>When I was with him, I<br></br>have heard him swear</p>
+      <p begin="00:25:47.67" end="00:25:50.10"><metadata ccrow="13" cccol="3"/>to Tubal and to Chus, his<br></br>countrymen,</p>
+      <p begin="00:25:50.10" end="00:25:52.33"><metadata ccrow="13" cccol="3"/>that he would rather have<br></br>Antonio&apos;s flesh</p>
+      <p begin="00:25:52.33" end="00:25:54.30"><metadata ccrow="13" cccol="5"/>than twenty times the<br></br>value of the sum</p>
+      <p begin="00:25:54.30" end="00:25:55.57"><metadata ccrow="14" cccol="6"/>that he did owe him.</p>
+      <p begin="00:25:55.57" end="00:25:57.83"><metadata ccrow="14" cccol="6"/>And I know, my lord,</p>
+      <p begin="00:25:57.83" end="00:26:01.07"><metadata ccrow="13" cccol="5"/>if law, authority, and<br></br>power deny not,</p>
+      <p begin="00:26:01.07" end="00:26:04.07"><metadata ccrow="13" cccol="3"/>it will go hard with poor<br></br>Antonio.</p>
+      <p begin="00:26:04.07" end="00:26:06.43"><metadata ccrow="13" cccol="5"/>Is it your dear friend<br></br>that is thus in trouble?</p>
+      <p begin="00:26:06.43" end="00:26:09.47"><metadata ccrow="13" cccol="3"/>The dearest friend to me,<br></br>the kindest man,</p>
+      <p begin="00:26:09.47" end="00:26:13.40"><metadata ccrow="12" cccol="4"/>the best-conditioned and<br></br>unwearied spirit in doing<br></br>courtesies,</p>
+      <p begin="00:26:13.40" end="00:26:15.97"><metadata ccrow="12" cccol="6"/>and one in whom the<br></br>ancient Roman honor more<br></br>appears</p>
+      <p begin="00:26:15.97" end="00:26:17.57"><metadata ccrow="13" cccol="3"/>than any that draws breath<br></br>in Italy.</p>
+      <p begin="00:26:17.57" end="00:26:19.13"><metadata ccrow="14" cccol="3"/>What sum owes he the Jew?</p>
+      <p begin="00:26:19.13" end="00:26:21.80"><metadata ccrow="14" cccol="5"/>For me, 3,000 ducats.</p>
+      <p begin="00:26:21.80" end="00:26:24.13"><metadata ccrow="14" cccol="9"/>What, no more?</p>
+      <p begin="00:26:24.13" end="00:26:27.87"><metadata ccrow="13" cccol="4"/>Pay him 6,000 and deface<br></br>the bond.</p>
+      <p begin="00:26:27.87" end="00:26:32.57"><metadata ccrow="12" cccol="5"/>Double 6,000 and then<br></br>treble that before a<br></br>friend of this description</p>
+      <p begin="00:26:32.57" end="00:26:34.53"><metadata ccrow="13" cccol="3"/>shall lose a hair through<br></br>Bassanio&apos;s fault.</p>
+      <p begin="00:26:34.53" end="00:26:40.03"><metadata ccrow="13" cccol="6"/>First, go with me to<br></br>church and call me wife</p>
+      <p begin="00:26:40.03" end="00:26:42.57"><metadata ccrow="13" cccol="3"/>and then away to Venice to<br></br>your friend,</p>
+      <p begin="00:26:42.57" end="00:26:46.77"><metadata ccrow="12" cccol="3"/>for never shall you lie by<br></br>Portia&apos;s side with an<br></br>unquiet soul.</p>
+      <p begin="00:26:46.77" end="00:26:50.53"><metadata ccrow="12" cccol="3"/>You shall have gold to pay<br></br>the petty debt twenty<br></br>times over.</p>
+      <p begin="00:26:50.53" end="00:26:52.90"><metadata ccrow="13" cccol="5"/>When it is paid, bring<br></br>your true friend along.</p>
+      <p begin="00:26:52.90" end="00:26:57.00"><metadata ccrow="12" cccol="3"/>My maid Nerissa and myself<br></br>meantime will live as<br></br>maids and widows.</p>
+      <p begin="00:26:57.00" end="00:26:58.57"><metadata ccrow="14" cccol="10"/>Come, away.</p>
+      <p begin="00:26:58.57" end="00:27:01.00"><metadata ccrow="13" cccol="4"/>For you must hence upon<br></br>your wedding day.</p>
+      <p begin="00:27:01.00" end="00:27:02.30"><metadata ccrow="14" cccol="3"/>Bid your friends welcome.</p>
+      <p begin="00:27:02.30" end="00:27:03.50"><metadata ccrow="14" cccol="6"/>Show a merry cheer.</p>
+      <p begin="00:27:03.50" end="00:27:07.67"><metadata ccrow="13" cccol="3"/>Since you are dear bought,<br></br>I will love you dear.</p>
+      <p begin="00:27:09.87" end="00:27:12.63"><metadata ccrow="13" cccol="3"/>But let me hear the letter<br></br>of your friend.</p>
+      <p begin="00:27:16.37" end="00:27:19.87"><metadata ccrow="13" cccol="3"/>&quot;Sweet Bassanio, my ships<br></br>have all miscarried,</p>
+      <p begin="00:27:19.87" end="00:27:23.33"><metadata ccrow="13" cccol="3"/>&quot;my creditors grow cruel,<br></br>my estate is very low,</p>
+      <p begin="00:27:23.33" end="00:27:25.40"><metadata ccrow="13" cccol="5"/>&quot;my bond to the Jew is<br></br>forfeit,</p>
+      <p begin="00:27:25.40" end="00:27:29.37"><metadata ccrow="13" cccol="3"/>&quot;and since in paying it it<br></br>is impossible I should live,</p>
+      <p begin="00:27:29.37" end="00:27:31.03"><metadata ccrow="13" cccol="5"/>&quot;all debts are cleared<br></br>between you and I</p>
+      <p begin="00:27:31.03" end="00:27:34.20"><metadata ccrow="13" cccol="3"/>&quot;if I might but see you at<br></br>my death.</p>
+      <p begin="00:27:34.20" end="00:27:36.73"><metadata ccrow="13" cccol="3"/>&quot;Notwithstanding, use your<br></br>pleasure.</p>
+      <p begin="00:27:36.73" end="00:27:41.37"><metadata ccrow="12" cccol="6"/>If your love do not<br></br>persuade you to come, let<br></br>not my letter.&quot;</p>
+      <p begin="00:27:41.37" end="00:27:45.20"><metadata ccrow="13" cccol="5"/>Oh, love, dispatch all<br></br>business and be gone.</p>
+      <p begin="00:27:45.20" end="00:27:48.43"><metadata ccrow="12" cccol="5"/>Since I have your good<br></br>leave to go away, I will<br></br>make haste.</p>
+      <p begin="00:27:48.43" end="00:27:50.07"><metadata ccrow="14" cccol="5"/>But till I come again,</p>
+      <p begin="00:27:50.07" end="00:27:52.17"><metadata ccrow="13" cccol="6"/>no bed shall e&apos;er be<br></br>guilty of my stay,</p>
+      <p begin="00:27:52.17" end="00:27:54.97"><metadata ccrow="13" cccol="5"/>nor rest be interposer<br></br>&apos;twixt us twain.</p>
+      <p begin="00:28:00.33" end="00:28:01.83"><metadata ccrow="14" cccol="6"/>Jailer, look to him.</p>
+      <p begin="00:28:01.83" end="00:28:04.07"><metadata ccrow="14" cccol="5"/>Tell not me of mercy.</p>
+      <p begin="00:28:04.07" end="00:28:06.27"><metadata ccrow="13" cccol="3"/>This is the fool that lent<br></br>out money gratis.</p>
+      <p begin="00:28:06.27" end="00:28:07.40"><metadata ccrow="14" cccol="6"/>Jailer, look to him.</p>
+      <p begin="00:28:07.40" end="00:28:08.53"><metadata ccrow="14" cccol="3"/>Hear me yet, good Shylock.</p>
+      <p begin="00:28:08.53" end="00:28:09.83"><metadata ccrow="14" cccol="7"/>I&apos;ll have my bond!</p>
+      <p begin="00:28:09.83" end="00:28:10.97"><metadata ccrow="14" cccol="3"/>Speak not against my bond.</p>
+      <p begin="00:28:10.97" end="00:28:14.17"><metadata ccrow="13" cccol="3"/>I have sworn an oath that<br></br>I will have my bond.</p>
+      <p begin="00:28:14.17" end="00:28:16.93"><metadata ccrow="13" cccol="6"/>Thou call&apos;dst me dog<br></br>before thou hadst a cause,</p>
+      <p begin="00:28:16.93" end="00:28:19.70"><metadata ccrow="13" cccol="5"/>but since I am a dog,<br></br>beware my fangs.</p>
+      <p begin="00:28:19.70" end="00:28:22.80"><metadata ccrow="13" cccol="4"/>The Duke shall grant me<br></br>justice.</p>
+      <p begin="00:28:22.80" end="00:28:25.77"><metadata ccrow="13" cccol="3"/>I do wonder, thou naughty<br></br>jailer, that thou art so fond</p>
+      <p begin="00:28:25.77" end="00:28:27.70"><metadata ccrow="13" cccol="3"/>to come abroad with him at<br></br>his request.</p>
+      <p begin="00:28:27.70" end="00:28:28.97"><metadata ccrow="13" cccol="6"/>I pray thee, hear me<br></br>speak.</p>
+      <p begin="00:28:28.97" end="00:28:30.23"><metadata ccrow="14" cccol="7"/>I&apos;ll have my bond.</p>
+      <p begin="00:28:30.23" end="00:28:31.73"><metadata ccrow="13" cccol="6"/>I will not hear thee<br></br>speak.</p>
+      <p begin="00:28:31.73" end="00:28:34.90"><metadata ccrow="13" cccol="5"/>I&apos;ll have my bond, and<br></br>therefore speak no more.</p>
+      <p begin="00:28:34.90" end="00:28:38.70"><metadata ccrow="13" cccol="4"/>I&apos;ll not be made a soft<br></br>and dull-eyed fool</p>
+      <p begin="00:28:38.70" end="00:28:41.80"><metadata ccrow="13" cccol="3"/>to shake the head, relent,<br></br>and sigh,</p>
+      <p begin="00:28:41.80" end="00:28:43.37"><metadata ccrow="13" cccol="5"/>and yield to Christian<br></br>intercessors.</p>
+      <p begin="00:28:43.37" end="00:28:44.70"><metadata ccrow="14" cccol="10"/>Follow not.</p>
+      <p begin="00:28:44.70" end="00:28:46.33"><metadata ccrow="14" cccol="5"/>I&apos;ll have no speaking.</p>
+      <p begin="00:28:46.33" end="00:28:48.93"><metadata ccrow="14" cccol="6"/>I will have my bond.</p>
+      <p begin="00:28:48.93" end="00:28:52.00"><metadata ccrow="12" cccol="9"/>It is the most<br></br>impenetrable cur that ever<br></br>kept with man.</p>
+      <p begin="00:28:52.00" end="00:28:53.80"><metadata ccrow="14" cccol="9"/>Let him alone.</p>
+      <p begin="00:28:53.80" end="00:28:55.90"><metadata ccrow="13" cccol="4"/>I&apos;ll follow him no more<br></br>with bootless prayers.</p>
+      <p begin="00:28:55.90" end="00:28:57.20"><metadata ccrow="14" cccol="7"/>He seeks my life.</p>
+      <p begin="00:28:57.20" end="00:28:59.53"><metadata ccrow="14" cccol="4"/>His reason well I know.</p>
+      <p begin="00:28:59.53" end="00:29:01.57"><metadata ccrow="13" cccol="4"/>I oft delivered from his<br></br>forfeitures</p>
+      <p begin="00:29:01.57" end="00:29:04.37"><metadata ccrow="13" cccol="4"/>many that have at times<br></br>made moan to me.</p>
+      <p begin="00:29:04.37" end="00:29:06.17"><metadata ccrow="14" cccol="5"/>Therefore he hates me.</p>
+      <p begin="00:29:06.17" end="00:29:10.27"><metadata ccrow="12" cccol="4"/>I am sure the Duke will<br></br>never grant this<br></br>forfeiture to hold.</p>
+      <p begin="00:29:10.27" end="00:29:12.00"><metadata ccrow="13" cccol="4"/>The Duke cannot deny the<br></br>course of law.</p>
+      <p begin="00:29:12.00" end="00:29:14.70"><metadata ccrow="12" cccol="5"/>For the commodity that<br></br>strangers have with us in<br></br>Venice,</p>
+      <p begin="00:29:14.70" end="00:29:16.27"><metadata ccrow="13" cccol="3"/>if it be denied, will much<br></br>impeach</p>
+      <p begin="00:29:16.27" end="00:29:18.93"><metadata ccrow="13" cccol="1"/>the justice of the state since<br></br>that the trade and profit</p>
+      <p begin="00:29:18.93" end="00:29:22.73"><metadata ccrow="13" cccol="3"/>of the city consisteth of<br></br>all nations.</p>
+      <p begin="00:29:22.73" end="00:29:26.50"><metadata ccrow="14" cccol="9"/>Therefore, go.</p>
+      <p begin="00:29:26.50" end="00:29:30.10"><metadata ccrow="13" cccol="4"/>These griefs and losses<br></br>have so bated me</p>
+      <p begin="00:29:30.10" end="00:29:35.00"><metadata ccrow="12" cccol="3"/>that I shall hardly spare<br></br>a pound of flesh tomorrow<br></br>to my bloody creditor.</p>
+      <p begin="00:29:35.00" end="00:29:39.37"><metadata ccrow="14" cccol="7"/>Well, jailer, on.</p>
+      <p begin="00:29:43.40" end="00:29:47.60"><metadata ccrow="13" cccol="3"/>Pray God Bassanio come to<br></br>see me pay his debt.</p>
+      <p begin="00:29:50.83" end="00:29:52.60"><metadata ccrow="14" cccol="6"/>And then I care not.</p>
+      <p begin="00:29:57.20" end="00:30:00.30"><metadata ccrow="13" cccol="3"/>Madam, although I speak it<br></br>in your presence,</p>
+      <p begin="00:30:00.30" end="00:30:02.43"><metadata ccrow="13" cccol="5"/>you have a noble and a<br></br>true conceit</p>
+      <p begin="00:30:02.43" end="00:30:05.70"><metadata ccrow="13" cccol="4"/>of godlike amity, which<br></br>appears most strongly</p>
+      <p begin="00:30:05.70" end="00:30:08.27"><metadata ccrow="13" cccol="6"/>in bearing thus the<br></br>absence of your lord.</p>
+      <p begin="00:30:08.27" end="00:30:10.80"><metadata ccrow="13" cccol="4"/>But if you knew to whom<br></br>you show this honor,</p>
+      <p begin="00:30:10.80" end="00:30:13.20"><metadata ccrow="13" cccol="4"/>how true a gentleman you<br></br>send relief,</p>
+      <p begin="00:30:13.20" end="00:30:15.30"><metadata ccrow="13" cccol="5"/>how dear a lover of my<br></br>lord, your husband,</p>
+      <p begin="00:30:15.30" end="00:30:18.03"><metadata ccrow="13" cccol="6"/>I know you would be<br></br>prouder of the work</p>
+      <p begin="00:30:18.03" end="00:30:19.87"><metadata ccrow="13" cccol="3"/>than customary bounty can<br></br>enforce you.</p>
+      <p begin="00:30:19.87" end="00:30:23.10"><metadata ccrow="13" cccol="2"/>I never did repent for doing<br></br>good, nor shall not now.</p>
+      <p begin="00:30:23.10" end="00:30:27.67"><metadata ccrow="12" cccol="3"/>For in companions that do<br></br>converse and waste the<br></br>time together</p>
+      <p begin="00:30:27.67" end="00:30:30.30"><metadata ccrow="13" cccol="5"/>whose souls do bear an<br></br>equal yoke of love,</p>
+      <p begin="00:30:30.30" end="00:30:32.33"><metadata ccrow="13" cccol="3"/>there must be needs a like<br></br>proportion</p>
+      <p begin="00:30:32.33" end="00:30:34.50"><metadata ccrow="13" cccol="3"/>of lineaments, of manners,<br></br>and of spirit,</p>
+      <p begin="00:30:34.50" end="00:30:38.23"><metadata ccrow="12" cccol="3"/>which makes me think that<br></br>this Antonio, being the<br></br>bosom lover of my lord,</p>
+      <p begin="00:30:38.23" end="00:30:39.80"><metadata ccrow="13" cccol="5"/>must needs be like my<br></br>lord.</p>
+      <p begin="00:30:39.80" end="00:30:43.70"><metadata ccrow="13" cccol="3"/>If it be so, how little is<br></br>the cost I have bestowed</p>
+      <p begin="00:30:43.70" end="00:30:45.63"><metadata ccrow="13" cccol="7"/>in purchasing the<br></br>semblance of my soul</p>
+      <p begin="00:30:45.63" end="00:30:48.33"><metadata ccrow="13" cccol="5"/>from out the state of<br></br>hellish cruelty.</p>
+      <p begin="00:30:48.33" end="00:30:50.93"><metadata ccrow="13" cccol="4"/>But this comes too near<br></br>the praising of myself.</p>
+      <p begin="00:30:50.93" end="00:30:52.23"><metadata ccrow="14" cccol="3"/>Therefore, no more of it.</p>
+      <p begin="00:30:52.23" end="00:30:53.87"><metadata ccrow="14" cccol="7"/>Hear other things.</p>
+      <p begin="00:30:53.87" end="00:30:56.40"><metadata ccrow="13" cccol="5"/>Lorenzo, I commit into<br></br>your hands</p>
+      <p begin="00:30:56.40" end="00:31:00.57"><metadata ccrow="12" cccol="4"/>the husbandry and manage<br></br>of my house until my<br></br>lord&apos;s return.</p>
+      <p begin="00:31:00.57" end="00:31:04.60"><metadata ccrow="12" cccol="3"/>For mine own part, I have<br></br>toward heaven breathed a<br></br>secret vow</p>
+      <p begin="00:31:04.60" end="00:31:09.00"><metadata ccrow="12" cccol="5"/>to live in prayer and<br></br>contemplation only<br></br>attended by Nerissa here</p>
+      <p begin="00:31:09.00" end="00:31:12.03"><metadata ccrow="13" cccol="4"/>until her husband and my<br></br>lord&apos;s return.</p>
+      <p begin="00:31:12.03" end="00:31:15.13"><metadata ccrow="12" cccol="3"/>There is a monastery three<br></br>miles off, and there we<br></br>will abide.</p>
+      <p begin="00:31:15.13" end="00:31:17.67"><metadata ccrow="13" cccol="5"/>I do desire you not to<br></br>deny this imposition,</p>
+      <p begin="00:31:17.67" end="00:31:21.80"><metadata ccrow="12" cccol="3"/>the which my love and some<br></br>necessity now lays upon<br></br>you.</p>
+      <p begin="00:31:21.80" end="00:31:24.77"><metadata ccrow="12" cccol="3"/>Madam, with all my heart I<br></br>shall obey you in all fair<br></br>commands.</p>
+      <p begin="00:31:24.77" end="00:31:26.33"><metadata ccrow="13" cccol="3"/>My people do already know<br></br>my mind</p>
+      <p begin="00:31:26.33" end="00:31:30.97"><metadata ccrow="12" cccol="4"/>and will acknowledge you<br></br>and Jessica in place of<br></br>lord Bassanio and myself.</p>
+      <p begin="00:31:30.97" end="00:31:33.37"><metadata ccrow="13" cccol="4"/>So fare you well till we<br></br>shall meet again.</p>
+      <p begin="00:31:33.37" end="00:31:36.80"><metadata ccrow="13" cccol="4"/>Fair thoughts and happy<br></br>hours attend on you.</p>
+      <p begin="00:31:36.80" end="00:31:38.60"><metadata ccrow="13" cccol="4"/>I wish your ladyship all<br></br>heart&apos;s content.</p>
+      <p begin="00:31:38.60" end="00:31:39.90"><metadata ccrow="14" cccol="3"/>I thank you for your wish,</p>
+      <p begin="00:31:39.90" end="00:31:43.20"><metadata ccrow="13" cccol="4"/>and I&apos;m well pleased to<br></br>wish it back on you.</p>
+      <p begin="00:31:45.40" end="00:31:46.93"><metadata ccrow="14" cccol="5"/>Fare ye well, Jessica.</p>
+      <p begin="00:31:49.33" end="00:31:54.13"><metadata ccrow="13" cccol="3"/>Now, Balthasar, as I have<br></br>ever found thee honest-true,</p>
+      <p begin="00:31:54.13" end="00:31:55.73"><metadata ccrow="14" cccol="3"/>so let me find thee still.</p>
+      <p begin="00:31:55.73" end="00:31:57.13"><metadata ccrow="14" cccol="5"/>Take this same letter,</p>
+      <p begin="00:31:57.13" end="00:32:00.30"><metadata ccrow="12" cccol="6"/>and use thou all the<br></br>endeavor of a man in speed<br></br>to Padua.</p>
+      <p begin="00:32:00.30" end="00:32:03.30"><metadata ccrow="12" cccol="3"/>See thou deliver this into<br></br>my cousin&apos;s hand, Dr.<br></br>Bellario.</p>
+      <p begin="00:32:03.30" end="00:32:05.50"><metadata ccrow="13" cccol="4"/>And look what notes and<br></br>garments he doth give thee.</p>
+      <p begin="00:32:05.50" end="00:32:08.03"><metadata ccrow="12" cccol="4"/>Bring them, I pray thee,<br></br>with imagined speed unto<br></br>the traject,</p>
+      <p begin="00:32:08.03" end="00:32:09.77"><metadata ccrow="13" cccol="3"/>to the common ferry which<br></br>trades to Venice.</p>
+      <p begin="00:32:09.77" end="00:32:11.00"><metadata ccrow="14" cccol="4"/>Waste no time in words.</p>
+      <p begin="00:32:11.00" end="00:32:12.27"><metadata ccrow="14" cccol="9"/>Get thee gone.</p>
+      <p begin="00:32:12.27" end="00:32:13.87"><metadata ccrow="13" cccol="4"/>I shall be there before<br></br>thee.</p>
+      <p begin="00:32:13.87" end="00:32:17.20"><metadata ccrow="13" cccol="6"/>Madam, I go with all<br></br>convenient speed.</p>
+      <p begin="00:32:17.20" end="00:32:18.63"><metadata ccrow="14" cccol="7"/>Come on, Nerissa.</p>
+      <p begin="00:32:18.63" end="00:32:21.87"><metadata ccrow="13" cccol="4"/>I have work in hand that<br></br>you yet know not of.</p>
+      <p begin="00:32:21.87" end="00:32:24.50"><metadata ccrow="13" cccol="5"/>We&apos;ll see our husbands<br></br>before they think of us.</p>
+      <p begin="00:32:24.50" end="00:32:25.67"><metadata ccrow="14" cccol="7"/>Shall they see us?</p>
+      <p begin="00:32:25.67" end="00:32:27.77"><metadata ccrow="13" cccol="4"/>They shall, Nerissa, but<br></br>in such a habit</p>
+      <p begin="00:32:27.77" end="00:32:31.23"><metadata ccrow="12" cccol="4"/>that they shall think we<br></br>are accomplished with that<br></br>we lack.</p>
+      <p begin="00:32:31.23" end="00:32:32.53"><metadata ccrow="14" cccol="4"/>I&apos;ll hold thee any wager</p>
+      <p begin="00:32:32.53" end="00:32:35.23"><metadata ccrow="13" cccol="8"/>when we are both<br></br>accoutered like young men,</p>
+      <p begin="00:32:35.23" end="00:32:37.23"><metadata ccrow="13" cccol="4"/>I&apos;ll prove the prettier<br></br>fellow of the two</p>
+      <p begin="00:32:37.23" end="00:32:39.30"><metadata ccrow="13" cccol="4"/>and wear my dagger with<br></br>the braver grace</p>
+      <p begin="00:32:39.30" end="00:32:43.03"><metadata ccrow="12" cccol="5"/>and speak between the<br></br>change of man and boy in a<br></br>reed voice</p>
+      <p begin="00:32:43.03" end="00:32:46.57"><metadata ccrow="13" cccol="3"/>and turn two mincing steps<br></br>into a manly stride</p>
+      <p begin="00:32:46.57" end="00:32:49.70"><metadata ccrow="13" cccol="3"/>and speak of frays like a<br></br>fine bragging youth</p>
+      <p begin="00:32:49.70" end="00:32:53.17"><metadata ccrow="12" cccol="4"/>and tell quaint lies how<br></br>honorable ladies sought my<br></br>love,</p>
+      <p begin="00:32:53.17" end="00:32:55.17"><metadata ccrow="13" cccol="3"/>which I denying, they fell<br></br>sick and died.</p>
+      <p begin="00:32:55.17" end="00:32:56.47"><metadata ccrow="14" cccol="5"/>I could not do withal.</p>
+      <p begin="00:32:56.47" end="00:32:58.53"><metadata ccrow="13" cccol="4"/>And then I&apos;ll repent and<br></br>wish, for all that,</p>
+      <p begin="00:32:58.53" end="00:32:59.83"><metadata ccrow="13" cccol="5"/>that I had not killed<br></br>them.</p>
+      <p begin="00:32:59.83" end="00:33:02.83"><metadata ccrow="12" cccol="4"/>And twenty of these puny<br></br>lies I&apos;ll tell that men<br></br>shall swear</p>
+      <p begin="00:33:02.83" end="00:33:05.10"><metadata ccrow="13" cccol="3"/>I have discontinued school<br></br>above a twelvemonth.</p>
+      <p begin="00:33:05.10" end="00:33:06.83"><metadata ccrow="14" cccol="4"/>I have, within my mind,</p>
+      <p begin="00:33:06.83" end="00:33:09.27"><metadata ccrow="13" cccol="4"/>a thousand raw tricks of<br></br>these bragging jacks</p>
+      <p begin="00:33:09.27" end="00:33:10.80"><metadata ccrow="14" cccol="5"/>which I will practice.</p>
+      <p begin="00:33:10.80" end="00:33:12.23"><metadata ccrow="14" cccol="3"/>Why, shall we turn to men?</p>
+      <p begin="00:33:12.23" end="00:33:15.83"><metadata ccrow="12" cccol="5"/>Fie, what a question&apos;s<br></br>that if thou wert near a<br></br>lewd interpreter.</p>
+      <p begin="00:33:15.83" end="00:33:18.67"><metadata ccrow="13" cccol="4"/>But come, I&apos;ll tell thee<br></br>all my whole device</p>
+      <p begin="00:33:18.67" end="00:33:21.57"><metadata ccrow="12" cccol="5"/>when I&apos;m in my coach,<br></br>which stays for us at the<br></br>park gate.</p>
+      <p begin="00:33:21.57" end="00:33:25.93"><metadata ccrow="12" cccol="3"/>Therefore haste away, for<br></br>we must measure twenty<br></br>miles today.</p>
+      <p begin="00:33:27.43" end="00:33:30.17"><metadata ccrow="13" cccol="3"/>Yes, truly, for look you,<br></br>the sins of the father</p>
+      <p begin="00:33:30.17" end="00:33:32.00"><metadata ccrow="13" cccol="4"/>are to be laid upon the<br></br>children.</p>
+      <p begin="00:33:32.00" end="00:33:34.73"><metadata ccrow="13" cccol="3"/>Therefore, I promise you,<br></br>I fear you.</p>
+      <p begin="00:33:34.73" end="00:33:36.73"><metadata ccrow="13" cccol="4"/>I was always plain with<br></br>you.</p>
+      <p begin="00:33:36.73" end="00:33:39.43"><metadata ccrow="13" cccol="5"/>And so now I speak my<br></br>agitation of the matter.</p>
+      <p begin="00:33:39.43" end="00:33:44.30"><metadata ccrow="12" cccol="6"/>Therefore be of good<br></br>cheer, for truly I think<br></br>you are damned.</p>
+      <p begin="00:33:44.30" end="00:33:47.67"><metadata ccrow="13" cccol="2"/>There is but one hope in it<br></br>that can do you any good</p>
+      <p begin="00:33:47.67" end="00:33:50.30"><metadata ccrow="13" cccol="3"/>and that is but a kind of<br></br>bastard hope neither.</p>
+      <p begin="00:33:50.30" end="00:33:52.63"><metadata ccrow="13" cccol="4"/>And what hope is that, I<br></br>pray thee?</p>
+      <p begin="00:33:52.63" end="00:33:56.47"><metadata ccrow="13" cccol="3"/>Marry, you may partly hope<br></br>that your father got you not,</p>
+      <p begin="00:33:56.47" end="00:33:58.93"><metadata ccrow="13" cccol="3"/>that you are not the Jew&apos;s<br></br>daughter.</p>
+      <p begin="00:33:58.93" end="00:34:01.80"><metadata ccrow="13" cccol="6"/>That were a kind of<br></br>bastard hope indeed.</p>
+      <p begin="00:34:01.80" end="00:34:05.30"><metadata ccrow="13" cccol="4"/>So the sins of my mother<br></br>should be visited upon me.</p>
+      <p begin="00:34:05.30" end="00:34:08.77"><metadata ccrow="13" cccol="3"/>Truly then, I fear you are<br></br>damned</p>
+      <p begin="00:34:08.77" end="00:34:10.50"><metadata ccrow="14" cccol="3"/>both by father and mother.</p>
+      <p begin="00:34:10.50" end="00:34:13.33"><metadata ccrow="13" cccol="4"/>Thus when I shun Scylla,<br></br>your father,</p>
+      <p begin="00:34:13.33" end="00:34:15.57"><metadata ccrow="13" cccol="5"/>I fall into Charybdis,<br></br>your mother.</p>
+      <p begin="00:34:15.57" end="00:34:18.33"><metadata ccrow="13" cccol="4"/>Well, you are gone both<br></br>ways.</p>
+      <p begin="00:34:18.33" end="00:34:20.20"><metadata ccrow="13" cccol="5"/>I shall be saved by my<br></br>husband.</p>
+      <p begin="00:34:20.20" end="00:34:21.80"><metadata ccrow="13" cccol="7"/>He hath made me a<br></br>Christian.</p>
+      <p begin="00:34:21.80" end="00:34:23.20"><metadata ccrow="13" cccol="4"/>Truly, the more to blame<br></br>he.</p>
+      <p begin="00:34:23.20" end="00:34:25.03"><metadata ccrow="13" cccol="3"/>We were Christians enough<br></br>before</p>
+      <p begin="00:34:25.03" end="00:34:27.27"><metadata ccrow="13" cccol="4"/>e&apos;en as many could well<br></br>live one by another.</p>
+      <p begin="00:34:27.27" end="00:34:30.83"><metadata ccrow="13" cccol="3"/>This making of Christians<br></br>will raise the price of hogs.</p>
+      <p begin="00:34:30.83" end="00:34:33.37"><metadata ccrow="13" cccol="6"/>If we grow all to be<br></br>pork-eaters,</p>
+      <p begin="00:34:33.37" end="00:34:36.07"><metadata ccrow="13" cccol="2"/>we shall not shortly have a<br></br>rasher on the coals for money.</p>
+      <p begin="00:34:36.07" end="00:34:39.00"><metadata ccrow="13" cccol="5"/>I&apos;ll tell my husband,<br></br>Launcelot, what you say.</p>
+      <p begin="00:34:39.00" end="00:34:40.87"><metadata ccrow="14" cccol="9"/>Here he comes.</p>
+      <p begin="00:34:47.57" end="00:34:49.87"><metadata ccrow="13" cccol="4"/>I shall grow jealous of<br></br>you shortly, Launcelot,</p>
+      <p begin="00:34:49.87" end="00:34:53.87"><metadata ccrow="13" cccol="4"/>if you thus get my wife<br></br>into corners.</p>
+      <p begin="00:34:53.87" end="00:34:56.00"><metadata ccrow="13" cccol="3"/>Nay, you need not fear us,<br></br>Lorenzo.</p>
+      <p begin="00:34:56.00" end="00:34:57.97"><metadata ccrow="14" cccol="4"/>Launcelot and I are out.</p>
+      <p begin="00:34:57.97" end="00:35:01.77"><metadata ccrow="13" cccol="3"/>He tells me flatly there&apos;s<br></br>no mercy for me in heaven</p>
+      <p begin="00:35:01.77" end="00:35:03.43"><metadata ccrow="13" cccol="6"/>because I am a Jew&apos;s<br></br>daughter.</p>
+      <p begin="00:35:03.43" end="00:35:06.93"><metadata ccrow="12" cccol="5"/>And he says you are no<br></br>good member of the<br></br>commonwealth,</p>
+      <p begin="00:35:06.93" end="00:35:12.13"><metadata ccrow="12" cccol="3"/>for in converting Jews to<br></br>Christians, you raise the<br></br>price of pork.</p>
+      <p begin="00:35:12.13" end="00:35:14.17"><metadata ccrow="13" cccol="3"/>I shall answer that better<br></br>to the commonwealth</p>
+      <p begin="00:35:14.17" end="00:35:16.97"><metadata ccrow="13" cccol="4"/>than you can the getting<br></br>up of the negro&apos;s belly.</p>
+      <p begin="00:35:16.97" end="00:35:20.93"><metadata ccrow="13" cccol="3"/>The moor is with child by<br></br>you, Launcelot.</p>
+      <p begin="00:35:20.93" end="00:35:26.30"><metadata ccrow="13" cccol="1"/>Well, it is much that the moor<br></br>should be more than reason.</p>
+      <p begin="00:35:26.30" end="00:35:28.80"><metadata ccrow="13" cccol="3"/>But if she be less than an<br></br>honest woman,</p>
+      <p begin="00:35:28.80" end="00:35:31.23"><metadata ccrow="13" cccol="3"/>she is indeed more than I<br></br>took her for.</p>
+      <p begin="00:35:31.23" end="00:35:33.93"><metadata ccrow="13" cccol="4"/>How every fool can play<br></br>upon the word.</p>
+      <p begin="00:35:33.93" end="00:35:37.37"><metadata ccrow="12" cccol="3"/>I think the best grace of<br></br>wit will shortly turn into<br></br>silence</p>
+      <p begin="00:35:37.37" end="00:35:40.97"><metadata ccrow="12" cccol="7"/>and discourse grow<br></br>commendable in none only<br></br>but parrots.</p>
+      <p begin="00:35:40.97" end="00:35:42.63"><metadata ccrow="14" cccol="9"/>Go in, sirrah.</p>
+      <p begin="00:35:42.63" end="00:35:43.83"><metadata ccrow="13" cccol="6"/>Bid them prepare for<br></br>dinner.</p>
+      <p begin="00:35:43.83" end="00:35:45.03"><metadata ccrow="14" cccol="7"/>That is done, sir.</p>
+      <p begin="00:35:45.03" end="00:35:46.23"><metadata ccrow="14" cccol="4"/>They have all stomachs.</p>
+      <p begin="00:35:46.23" end="00:35:49.90"><metadata ccrow="13" cccol="6"/>Goodly lord, what a<br></br>wit-snapper are you.</p>
+      <p begin="00:35:49.90" end="00:35:53.07"><metadata ccrow="13" cccol="5"/>Then bid them prepare<br></br>dinner.</p>
+      <p begin="00:35:53.07" end="00:35:54.17"><metadata ccrow="14" cccol="3"/>Oh, that is done too, sir.</p>
+      <p begin="00:35:54.17" end="00:35:55.37"><metadata ccrow="14" cccol="3"/>Only &quot;cover&quot; is the word.</p>
+      <p begin="00:35:55.37" end="00:35:56.57"><metadata ccrow="14" cccol="3"/>Will you cover then, sir?</p>
+      <p begin="00:35:56.57" end="00:35:57.97"><metadata ccrow="14" cccol="5"/>Not so, neither, sir.</p>
+      <p begin="00:35:57.97" end="00:35:59.07"><metadata ccrow="14" cccol="8"/>I know my duty.</p>
+      <p begin="00:35:59.07" end="00:36:01.97"><metadata ccrow="13" cccol="3"/>Yet more quarrelling with<br></br>occasion?</p>
+      <p begin="00:36:01.97" end="00:36:04.43"><metadata ccrow="13" cccol="0"/>Wilt thou show the whole wealth<br></br>of thy wit in an instant?</p>
+      <p begin="00:36:04.43" end="00:36:07.80"><metadata ccrow="13" cccol="1"/>I pray thee understand a plain<br></br>man in his plain meaning.</p>
+      <p begin="00:36:07.80" end="00:36:09.73"><metadata ccrow="13" cccol="5"/>Go to thy fellows, bid<br></br>them cover the table,</p>
+      <p begin="00:36:09.73" end="00:36:12.97"><metadata ccrow="13" cccol="3"/>serve in the meat, and we<br></br>will come in to dinner.</p>
+      <p begin="00:36:12.97" end="00:36:15.97"><metadata ccrow="13" cccol="5"/>For the table, sir, it<br></br>shall be served in.</p>
+      <p begin="00:36:15.97" end="00:36:18.47"><metadata ccrow="13" cccol="5"/>For the meat, sir, it<br></br>shall be covered.</p>
+      <p begin="00:36:18.47" end="00:36:20.47"><metadata ccrow="13" cccol="5"/>For your coming in to<br></br>dinner, sir,</p>
+      <p begin="00:36:20.47" end="00:36:23.83"><metadata ccrow="13" cccol="4"/>why, let it be as humors<br></br>and conceits shall govern.</p>
+      <p begin="00:36:26.37" end="00:36:28.47"><metadata ccrow="13" cccol="4"/>Oh, dear discretion, how<br></br>his words are suited.</p>
+      <p begin="00:36:28.47" end="00:36:32.07"><metadata ccrow="12" cccol="4"/>The fool hath planted in<br></br>his memory an army of good<br></br>words.</p>
+      <p begin="00:36:32.07" end="00:36:34.30"><metadata ccrow="13" cccol="3"/>And I do know a many fools<br></br>that stand in better place</p>
+      <p begin="00:36:34.30" end="00:36:39.17"><metadata ccrow="12" cccol="4"/>garnished like him, that<br></br>for a tricksy word defy<br></br>the matter.</p>
+      <p begin="00:36:41.43" end="00:36:43.30"><metadata ccrow="13" cccol="7"/>How cheer&apos;st thou,<br></br>Jessica?</p>
+      <p begin="00:36:50.43" end="00:36:53.50"><metadata ccrow="13" cccol="4"/>And now, good sweet, say<br></br>thy opinion.</p>
+      <p begin="00:36:53.50" end="00:36:56.73"><metadata ccrow="13" cccol="5"/>How dost thou like the<br></br>lord Bassanio&apos;s wife?</p>
+      <p begin="00:36:56.73" end="00:36:59.00"><metadata ccrow="14" cccol="6"/>Past all expressing.</p>
+      <p begin="00:36:59.00" end="00:37:03.17"><metadata ccrow="12" cccol="4"/>It is very meet the lord<br></br>Bassanio live an upright<br></br>life,</p>
+      <p begin="00:37:03.17" end="00:37:07.00"><metadata ccrow="13" cccol="7"/>for, having such a<br></br>blessing in his lady,</p>
+      <p begin="00:37:07.00" end="00:37:10.80"><metadata ccrow="13" cccol="6"/>he finds the joys of<br></br>heaven here on earth.</p>
+      <p begin="00:37:10.80" end="00:37:13.20"><metadata ccrow="13" cccol="3"/>And if on earth he do not<br></br>merit it,</p>
+      <p begin="00:37:13.20" end="00:37:16.83"><metadata ccrow="13" cccol="3"/>in reason he should never<br></br>come to heaven.</p>
+      <p begin="00:37:16.83" end="00:37:20.37"><metadata ccrow="13" cccol="4"/>Why, if two gods should<br></br>play some heavenly match</p>
+      <p begin="00:37:20.37" end="00:37:24.40"><metadata ccrow="12" cccol="4"/>and on the wager lay two<br></br>earthly women and Portia<br></br>one,</p>
+      <p begin="00:37:24.40" end="00:37:27.53"><metadata ccrow="12" cccol="4"/>there must be something<br></br>else pawned with the<br></br>other,</p>
+      <p begin="00:37:27.53" end="00:37:30.37"><metadata ccrow="13" cccol="4"/>for the poor rude world<br></br>hath not her fellow.</p>
+      <p begin="00:37:30.37" end="00:37:34.10"><metadata ccrow="13" cccol="1"/>Even such a husband hast thou<br></br>of me as she is for a wife.</p>
+      <p begin="00:37:34.10" end="00:37:36.23"><metadata ccrow="13" cccol="4"/>Nay, but ask my opinion<br></br>too of that.</p>
+      <p begin="00:37:36.23" end="00:37:38.13"><metadata ccrow="14" cccol="10"/>I will anon.</p>
+      <p begin="00:37:38.13" end="00:37:40.13"><metadata ccrow="14" cccol="3"/>First, let&apos;s go to dinner.</p>
+      <p begin="00:37:40.13" end="00:37:42.93"><metadata ccrow="13" cccol="5"/>Nay, let me praise you<br></br>while I have a stomach.</p>
+      <p begin="00:37:42.93" end="00:37:46.47"><metadata ccrow="13" cccol="5"/>No, pray thee, let it<br></br>serve for table-talk,</p>
+      <p begin="00:37:46.47" end="00:37:53.27"><metadata ccrow="12" cccol="6"/>then howsome&apos;er thou<br></br>speak&apos;st mong other<br></br>things, I shall digest it.</p>
+      <p begin="00:37:53.27" end="00:37:55.17"><metadata ccrow="14" cccol="3"/>Well, I&apos;ll set you forth.</p>
+      <p begin="00:37:59.17" end="00:38:02.17"><metadata ccrow="0" cccol="0"/></p>
+    </div>
+  </body>
+</tt>

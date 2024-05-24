@@ -1,0 +1,1164 @@
+﻿WEBVTT
+
+00:00:07.666 --> 00:00:09.666
+female narrator:
+Ever since people have observed
+
+00:00:09.700 --> 00:00:11.766
+and thought about the world
+around us,
+
+00:00:11.800 --> 00:00:15.500
+they've realized
+there's order in the universe.
+
+00:00:15.533 --> 00:00:18.366
+One of the big surprises
+is that the physical world
+
+00:00:18.400 --> 00:00:23.660
+can in fact be described
+by mathematical relationships.
+
+00:00:23.100 --> 00:00:26.660
+Why would we want to do this?
+
+00:00:26.100 --> 00:00:27.733
+Well, for one thing,
+
+00:00:27.766 --> 00:00:33.366
+it allows us to go an extra step
+and actually predict behavior
+
+00:00:33.400 --> 00:00:38.266
+like the load
+a plane can carry safely
+
+00:00:38.300 --> 00:00:41.700
+or whether a building will
+survive hurricane-force winds.
+
+00:00:50.700 --> 00:00:52.200
+Among physicists,
+
+00:00:52.233 --> 00:00:55.133
+one of the most famous
+mathematical relationships
+
+00:00:55.166 --> 00:00:58.566
+is the one Edwin Hubble found
+between the velocity
+
+00:00:58.600 --> 00:01:01.500
+other galaxies are moving away
+from our own galaxy
+
+00:01:01.533 --> 00:01:06.566
+and their distance from us.
+
+00:01:06.600 --> 00:01:08.366
+Hubble's original data,
+
+00:01:08.400 --> 00:01:10.900
+plotting distance
+on the horizontal axis
+
+00:01:10.933 --> 00:01:13.433
+and velocity
+on the vertical axis,
+
+00:01:13.466 --> 00:01:16.266
+produces a straight line.
+
+00:01:16.300 --> 00:01:20.533
+Here is more recent data
+on a bigger scale.
+
+00:01:20.566 --> 00:01:23.133
+You can see
+that more distant galaxies
+
+00:01:23.166 --> 00:01:27.100
+are not exactly on the line.
+
+00:01:27.133 --> 00:01:29.566
+Astrophysicists believe
+this is because
+
+00:01:29.600 --> 00:01:32.330
+of the large uncertainty
+in measurements
+
+00:01:32.660 --> 00:01:33.866
+of these bigger distances,
+
+00:01:33.900 --> 00:01:35.433
+and they're still satisfied
+
+00:01:35.466 --> 00:01:39.433
+that Hubble's linear
+relationship is reliable.
+
+00:01:41.533 --> 00:01:43.866
+A big part
+of a physicist's work
+
+00:01:43.900 --> 00:01:46.500
+is the search for these
+mathematical relationships,
+
+00:01:46.533 --> 00:01:49.133
+or formulae.
+
+00:01:49.166 --> 00:01:53.433
+In this program, we'll look
+at how you go about it.
+
+00:02:07.566 --> 00:02:08.533
+We're going to look
+
+00:02:08.566 --> 00:02:10.833
+at the behavior
+of steel springs,
+
+00:02:10.866 --> 00:02:13.600
+at what controls
+the period of oscillation,
+
+00:02:13.633 --> 00:02:19.700
+T, the time for one complete
+stretch and contraction.
+
+00:02:19.733 --> 00:02:22.700
+To get answers,
+we need to phrase questions
+
+00:02:22.733 --> 00:02:26.100
+in terms of things
+that can be measured.
+
+00:02:26.133 --> 00:02:29.766
+For instance, we can ask,
+what is the relationship
+
+00:02:29.800 --> 00:02:34.300
+between T
+and the mass on the spring?
+
+00:02:34.333 --> 00:02:37.400
+Now, because T,
+the oscillation time,
+
+00:02:37.433 --> 00:02:39.400
+depends on something else,
+
+00:02:39.433 --> 00:02:44.266
+we call it
+the dependent variable.
+
+00:02:44.300 --> 00:02:46.900
+The mass on the spring
+is different.
+
+00:02:46.933 --> 00:02:48.866
+We can make it whatever we want,
+
+00:02:48.900 --> 00:02:52.900
+so that's called
+the independent variable.
+
+00:02:54.500 --> 00:02:57.566
+Before we start,
+there's one other point.
+
+00:02:57.600 --> 00:03:02.200
+T could also be influenced by
+a second independent variable,
+
+00:03:02.233 --> 00:03:04.833
+like the stiffness
+of the spring.
+
+00:03:04.866 --> 00:03:08.700
+So how do we handle this?
+
+00:03:08.733 --> 00:03:12.800
+The experimental approach
+is to hold one of them constant,
+
+00:03:12.833 --> 00:03:14.966
+say, the spring stiffness,
+
+00:03:15.000 --> 00:03:17.800
+while you measure the effect
+of varying the other,
+
+00:03:17.833 --> 00:03:20.330
+the mass.
+
+00:03:20.660 --> 00:03:22.600
+Then you hold the mass constant
+
+00:03:22.633 --> 00:03:26.566
+while you vary
+the spring stiffness.
+
+00:03:35.300 --> 00:03:36.933
+The students decide to begin
+
+00:03:36.966 --> 00:03:39.400
+by holding the spring type
+constant
+
+00:03:39.433 --> 00:03:41.633
+while they vary the mass
+
+00:03:41.666 --> 00:03:46.660
+to see what effect
+that has on T.
+
+00:03:46.100 --> 00:03:51.166
+To do this, they'll use
+a range of masses.
+
+00:03:51.200 --> 00:03:54.566
+They can measure these
+to many significant figures,
+
+00:03:54.600 --> 00:03:58.733
+so the uncertainty in the mass
+will be tiny.
+
+00:04:02.466 --> 00:04:04.966
+They decide that the most
+significant source
+
+00:04:05.000 --> 00:04:06.466
+of uncertainty
+
+00:04:06.500 --> 00:04:10.700
+will be the human variation
+in their stopwatch timings.
+
+00:04:10.733 --> 00:04:14.900
+To minimize this, they decide
+to time five oscillations,
+
+00:04:14.933 --> 00:04:17.500
+then divide the result by 5.
+
+00:04:17.533 --> 00:04:19.766
+- One, go.
+
+00:04:19.800 --> 00:04:23.933
+Two, three, four, five.
+
+00:04:23.966 --> 00:04:27.966
+Good. 5:36.
+
+00:04:28.000 --> 00:04:29.533
+- 5:40.
+
+00:04:29.566 --> 00:04:32.433
+- That's pretty good.
+- Yeah.
+
+00:04:32.466 --> 00:04:34.800
+narrator: They also decide
+that several students
+
+00:04:34.833 --> 00:04:38.000
+should time the same event.
+
+00:04:38.330 --> 00:04:43.366
+- Two, three, four, five.
+
+00:04:43.400 --> 00:04:45.133
+narrator:
+They believe these strategies
+
+00:04:45.166 --> 00:04:47.200
+will give them
+more accurate times
+
+00:04:47.233 --> 00:04:51.666
+and a better feel
+for the uncertainty,
+
+00:04:51.700 --> 00:04:55.666
+but they soon realize
+there's another issue.
+
+00:04:55.700 --> 00:04:57.833
+As the spring oscillates,
+
+00:04:57.866 --> 00:05:00.533
+the amplitude,
+the amount of stretch,
+
+00:05:00.566 --> 00:05:03.600
+gets smaller and smaller.
+
+00:05:03.633 --> 00:05:08.300
+Is this another variable
+they have to worry about?
+
+00:05:08.333 --> 00:05:11.400
+By timing several sets
+of oscillations on the run,
+
+00:05:11.433 --> 00:05:13.700
+they find that there's
+no significant difference
+
+00:05:13.733 --> 00:05:17.433
+in the period
+as the amplitude gets smaller,
+
+00:05:17.466 --> 00:05:21.866
+so they conclude that T
+is not a function of amplitude.
+
+00:05:21.900 --> 00:05:26.466
+In other words,
+amplitude doesn't effect T.
+
+00:05:28.700 --> 00:05:31.300
+The girls are now ready
+to start on a serious run
+
+00:05:31.333 --> 00:05:33.433
+of data collection.
+
+00:05:33.466 --> 00:05:38.166
+As they collect the data,
+they make a rough graph.
+
+00:05:38.200 --> 00:05:40.100
+This will help them
+look for trends
+
+00:05:40.133 --> 00:05:43.100
+and spot outliers,
+any strange results
+
+00:05:43.133 --> 00:05:46.166
+that need checking
+with repeat measurements.
+
+00:05:46.200 --> 00:05:47.900
+A rough graph also shows
+
+00:05:47.933 --> 00:05:51.660
+whether the gap between masses
+is too large
+
+00:05:51.100 --> 00:05:55.000
+and if they've chosen
+a large enough spread of masses.
+
+00:05:55.330 --> 00:05:57.666
+If it's too narrow,
+it will be hard to tell
+
+00:05:57.700 --> 00:06:01.900
+whether the graph line
+is a straight line or a curve,
+
+00:06:01.933 --> 00:06:05.333
+and that's what happens
+first time around.
+
+00:06:05.366 --> 00:06:09.633
+Their spread of masses
+was too small,
+
+00:06:09.666 --> 00:06:12.900
+so they do more measurements
+with smaller masses
+
+00:06:12.933 --> 00:06:17.233
+to increase the spread of data.
+
+00:06:17.266 --> 00:06:19.666
+Once they're satisfied
+with their data,
+
+00:06:19.700 --> 00:06:22.700
+they plot it more carefully.
+
+00:06:22.733 --> 00:06:25.600
+They also put in the range
+of uncertainty,
+
+00:06:25.633 --> 00:06:29.833
+half a second, as error bars.
+
+00:06:31.666 --> 00:06:33.766
+Then comes the moment of truth:
+
+00:06:33.800 --> 00:06:37.566
+drawing the graph line
+to see what shape it is.
+
+00:06:37.600 --> 00:06:41.566
+It's important not to just join
+the dots with straight lines.
+
+00:06:41.600 --> 00:06:44.733
+That could obscure
+the real shape.
+
+00:06:44.766 --> 00:06:47.233
+A good technique
+is to hold the paper up
+
+00:06:47.266 --> 00:06:50.100
+and look along the data points.
+
+00:06:50.133 --> 00:06:54.233
+This gives you a better feel
+for the shape of the line.
+
+00:06:54.266 --> 00:06:57.933
+If you can see the points
+trending strongly into a curve,
+
+00:06:57.966 --> 00:07:02.200
+then take your pencil
+and draw a smooth curve.
+
+00:07:02.233 --> 00:07:05.600
+The idea is to touch
+as many data points as possible
+
+00:07:05.633 --> 00:07:12.300
+but also to have about as many
+points above as below the line.
+
+00:07:12.333 --> 00:07:15.166
+Notice that the error bars
+work as guides.
+
+00:07:15.200 --> 00:07:17.833
+They'll help you to draw
+your line of best fit
+
+00:07:17.866 --> 00:07:19.966
+with confidence.
+
+00:07:20.000 --> 00:07:22.500
+You may be wondering
+why we're so interested
+
+00:07:22.533 --> 00:07:25.100
+in the shape of the graph.
+
+00:07:25.133 --> 00:07:29.660
+It's because it's the vital clue
+to what we're after,
+
+00:07:29.100 --> 00:07:34.100
+the relationship
+between T and mass.
+
+00:07:34.133 --> 00:07:37.866
+This curve looks like a parabola
+on its side.
+
+00:07:37.900 --> 00:07:39.500
+A parabola is described
+
+00:07:39.533 --> 00:07:43.100
+by the relationship
+Y equals X squared,
+
+00:07:43.133 --> 00:07:48.333
+so maybe the formula here
+is Y equals root X.
+
+00:07:48.366 --> 00:07:55.766
+Maybe our relationship
+is T is proportional to root M.
+
+00:07:55.800 --> 00:08:00.100
+To test this, the students
+prepare a table of root M values
+
+00:08:00.133 --> 00:08:03.933
+and plot T against root M.
+
+00:08:03.966 --> 00:08:05.433
+Here's the graph.
+
+00:08:05.466 --> 00:08:07.166
+It's a straight line,
+
+00:08:07.200 --> 00:08:11.766
+which means that T is directly
+proportional to root M.
+
+00:08:20.333 --> 00:08:23.166
+We now come
+to our second question:
+
+00:08:23.200 --> 00:08:27.400
+what is the relationship between
+T, the period of oscillation,
+
+00:08:27.433 --> 00:08:30.000
+and the stiffness
+of the spring?
+
+00:08:30.330 --> 00:08:32.366
+But there's a complication.
+
+00:08:32.400 --> 00:08:36.866
+How exactly do we measure
+stiffness?
+
+00:08:36.900 --> 00:08:40.100
+It's done by subjecting a spring
+to different forces,
+
+00:08:40.133 --> 00:08:43.200
+then plotting force
+against extension,
+
+00:08:43.233 --> 00:08:46.400
+the amount of stretch.
+
+00:08:46.433 --> 00:08:49.666
+So here they go
+with the first step,
+
+00:08:49.700 --> 00:08:53.333
+measuring the amount of stretch
+for a collection of springs,
+
+00:08:53.366 --> 00:08:57.133
+applying a range of forces
+to each spring.
+
+00:08:57.166 --> 00:09:03.233
+[quirky bass guitar music]
+
+00:09:29.533 --> 00:09:31.000
+Here are the results,
+
+00:09:31.330 --> 00:09:35.600
+plotting force against extension
+for one spring.
+
+00:09:40.600 --> 00:09:44.233
+Now the graph lines
+for all the springs measured.
+
+00:09:44.266 --> 00:09:47.533
+What they find is that
+the relationship is linear
+
+00:09:47.566 --> 00:09:49.866
+and therefore
+has the mathematical form
+
+00:09:49.900 --> 00:09:54.766
+of Y equals MX plus C.
+
+00:09:54.800 --> 00:09:59.660
+The gradient of this line
+is called the spring constant.
+
+00:09:59.100 --> 00:10:02.166
+It's a measure
+of the spring's stiffness.
+
+00:10:02.200 --> 00:10:05.933
+A loose spring
+will have a small K value,
+
+00:10:05.966 --> 00:10:09.660
+a tight spring,
+a large K value.
+
+00:10:18.233 --> 00:10:19.866
+Now that the girls
+have worked out
+
+00:10:19.900 --> 00:10:22.300
+the spring constant value
+for their springs,
+
+00:10:22.333 --> 00:10:25.966
+they're ready to investigate
+how the oscillation period, T,
+
+00:10:26.000 --> 00:10:29.366
+depends on this second
+independent variable.
+
+00:10:29.400 --> 00:10:32.366
+Remember, they need to exclude
+any effect
+
+00:10:32.400 --> 00:10:35.466
+from the other
+independent variable, the mass.
+
+00:10:35.500 --> 00:10:38.233
+- 4:78.
+- 4:92.
+
+00:10:38.266 --> 00:10:41.133
+narrator: So they put
+the same mass on each spring
+
+00:10:41.166 --> 00:10:44.330
+and use the process
+of timing five oscillations,
+
+00:10:44.660 --> 00:10:47.900
+as they did before.
+
+00:10:47.933 --> 00:10:51.100
+- Ready?
+- Three, two, one.
+
+00:10:51.133 --> 00:10:53.533
+narrator: The aim, of course,
+is to produce a graph
+
+00:10:53.566 --> 00:10:58.700
+of period versus spring constant
+for a given mass.
+
+00:11:01.566 --> 00:11:04.333
+This is the graph
+of their results.
+
+00:11:04.366 --> 00:11:06.700
+It looks like a hyperbola
+
+00:11:06.733 --> 00:11:09.166
+but what sort of hyperbola?
+
+00:11:09.200 --> 00:11:14.700
+We can't easily tell
+if the form is Y equals 1 over X
+
+00:11:14.733 --> 00:11:18.366
+or Y equals 1 over X squared
+
+00:11:18.400 --> 00:11:21.600
+or Y equals 1 over root X,
+
+00:11:21.633 --> 00:11:24.400
+which can also be written
+like this.
+
+00:11:24.433 --> 00:11:26.966
+So what to do?
+
+00:11:27.000 --> 00:11:30.200
+Here is a very powerful way
+of analyzing graphs
+
+00:11:30.233 --> 00:11:33.733
+where the mathematical form
+is not obvious.
+
+00:11:33.766 --> 00:11:36.100
+It looks like the relation
+is of the form
+
+00:11:36.133 --> 00:11:40.133
+T equals LK to the power of B,
+
+00:11:40.166 --> 00:11:42.133
+where B is probably negative
+
+00:11:42.166 --> 00:11:44.133
+to make it look
+like a hyperbola
+
+00:11:44.166 --> 00:11:47.833
+and L is some constant.
+
+00:11:47.866 --> 00:11:49.833
+So now you need to use
+what you know
+
+00:11:49.866 --> 00:11:52.933
+about your logarithm rules.
+
+00:11:52.966 --> 00:11:56.766
+Since T equals LK
+to the power of B,
+
+00:11:56.800 --> 00:11:58.266
+then you can be sure
+
+00:11:58.300 --> 00:12:03.566
+that log T equals log LK
+to the power B.
+
+00:12:03.600 --> 00:12:08.733
+We can write this
+as log T equals log L
+
+00:12:08.766 --> 00:12:12.660
+plus B log K.
+
+00:12:12.100 --> 00:12:13.600
+Why this way?
+
+00:12:13.633 --> 00:12:15.966
+Well, this equation
+is of the form
+
+00:12:16.000 --> 00:12:19.700
+Y equals C plus MX
+
+00:12:19.733 --> 00:12:21.800
+where M, the gradient,
+
+00:12:21.833 --> 00:12:25.366
+is B, the exponent
+in our analysis.
+
+00:12:25.400 --> 00:12:28.833
+So what you do is prepare
+a graph of log T
+
+00:12:28.866 --> 00:12:31.233
+versus log K.
+
+00:12:31.266 --> 00:12:35.833
+The gradient turns out
+to be minus 0.5,
+
+00:12:35.866 --> 00:12:41.600
+so we can say that T is
+proportional to 1 over root K.
+
+00:12:48.500 --> 00:12:51.100
+- Go.
+- One, two...
+
+00:12:51.133 --> 00:12:53.100
+narrator: From experimental
+measurements,
+
+00:12:53.133 --> 00:12:56.100
+the girls have now worked out
+the relationship between T
+
+00:12:56.133 --> 00:12:59.733
+and two independent variables,
+M and K.
+
+00:12:59.766 --> 00:13:00.966
+- Um, so...
+
+00:13:01.000 --> 00:13:03.330
+narrator:
+There's one more challenge.
+
+00:13:03.660 --> 00:13:06.433
+Can they combine
+the two relationships into one?
+
+00:13:06.466 --> 00:13:09.733
+You're familiar
+with such relationships.
+
+00:13:09.766 --> 00:13:13.266
+One of the most famous
+is Newton's second law:
+
+00:13:13.300 --> 00:13:17.200
+force is proportional
+to two independent variables,
+
+00:13:17.233 --> 00:13:19.933
+mass and acceleration.
+
+00:13:19.966 --> 00:13:25.966
+[quirky bass guitar music]
+
+00:13:44.100 --> 00:13:46.100
+If there is
+a single relationship
+
+00:13:46.133 --> 00:13:48.100
+that connects
+the spring variables,
+
+00:13:48.133 --> 00:13:50.660
+it will look like this.
+
+00:13:50.100 --> 00:13:54.433
+This would relate T to both mass
+and the spring constant
+
+00:13:54.466 --> 00:13:57.800
+where theta is some
+as yet unknown constant
+
+00:13:57.833 --> 00:14:01.330
+of proportionality.
+
+00:14:01.660 --> 00:14:04.660
+In this case, the girls
+should have no difficulty
+
+00:14:04.100 --> 00:14:06.733
+in finding a specific value
+for theta.
+
+00:14:06.766 --> 00:14:08.733
+With their experimental results,
+
+00:14:08.766 --> 00:14:13.933
+theta is the only unknown
+in the equation.
+
+00:14:13.966 --> 00:14:15.566
+What they do is substitute
+
+00:14:15.600 --> 00:14:17.666
+a few different values
+of M and K
+
+00:14:17.700 --> 00:14:21.700
+and the corresponding T
+into the equation.
+
+00:14:21.733 --> 00:14:24.866
+So here is one set of values.
+
+00:14:24.900 --> 00:14:29.200
+Putting these into the equation,
+they get a value for theta.
+
+00:14:29.233 --> 00:14:32.100
+Taking other values
+for M, K, and T,
+
+00:14:32.133 --> 00:14:33.966
+they use the same formula
+
+00:14:34.000 --> 00:14:38.330
+and finish up with a set
+of calculated values for theta.
+
+00:14:42.366 --> 00:14:45.366
+Averaging these, they find
+that the value of theta
+
+00:14:45.400 --> 00:14:49.900
+is about 6.3,
+plus or minus 0.2.
+
+00:14:49.933 --> 00:14:52.633
+This compares well
+with the theoretical prediction
+
+00:14:52.666 --> 00:14:56.333
+of the relationship
+T equals 2 pi
+
+00:14:56.366 --> 00:14:58.766
+times root M over K,
+
+00:14:58.800 --> 00:15:03.400
+since 2 times pi is about 6.28.
+
+00:15:17.466 --> 00:15:20.833
+Real scientific data
+must be verifiable,
+
+00:15:20.866 --> 00:15:23.866
+which means that someone else
+can, if they choose,
+
+00:15:23.900 --> 00:15:28.660
+repeat your experiment to see
+if they get the same results.
+
+00:15:28.100 --> 00:15:30.933
+No matter how amazing
+your conclusion,
+
+00:15:30.966 --> 00:15:33.233
+it won't stand up
+if you have no record
+
+00:15:33.266 --> 00:15:38.666
+of what you did
+to produce your data.
+
+00:15:38.700 --> 00:15:43.966
+There's no precise agreed format
+for a report.
+
+00:15:44.000 --> 00:15:46.900
+The structure,
+names of sections, and so on
+
+00:15:46.933 --> 00:15:48.100
+can vary.
+
+00:15:48.133 --> 00:15:50.766
+Your teacher may prefer
+something different,
+
+00:15:50.800 --> 00:15:53.566
+but here's a typical approach.
+
+00:15:53.600 --> 00:15:58.200
+First, the aim.
+
+00:15:58.233 --> 00:15:59.966
+It should explain
+the relationship
+
+00:16:00.660 --> 00:16:02.266
+that you're looking for
+
+00:16:02.300 --> 00:16:04.500
+and refer specifically
+to the variables
+
+00:16:04.533 --> 00:16:06.400
+you're going to measure.
+
+00:16:06.433 --> 00:16:09.900
+Something like, "How does
+the period of oscillation
+
+00:16:09.933 --> 00:16:13.166
+"of a steel spring vary
+with the mass of the spring
+
+00:16:13.200 --> 00:16:15.366
+and the stiffness
+of the spring?"
+
+00:16:15.400 --> 00:16:19.333
+And you could state
+the relationship like this.
+
+00:16:28.566 --> 00:16:32.533
+After the aim,
+list the apparatus you used:
+
+00:16:32.566 --> 00:16:36.700
+eight springs,
+selection of masses,
+
+00:16:36.733 --> 00:16:42.200
+ruler, stopwatch, scales,
+door frame for support.
+
+00:16:49.400 --> 00:16:52.400
+Next, you need to describe
+your method.
+
+00:16:52.433 --> 00:16:56.566
+For instance, to investigate
+the effect of different masses,
+
+00:16:56.600 --> 00:16:58.733
+describe how you timed T,
+
+00:16:58.766 --> 00:17:00.566
+what masses you used,
+
+00:17:00.600 --> 00:17:03.200
+how many oscillations you timed,
+
+00:17:03.233 --> 00:17:05.660
+and so on.
+
+00:17:05.100 --> 00:17:09.466
+- Three, two, one.
+
+00:17:09.500 --> 00:17:11.966
+narrator: It's good to include
+diagrams or photos
+
+00:17:12.000 --> 00:17:15.000
+that help to show what you did.
+
+00:17:21.600 --> 00:17:25.633
+The next section
+will be your results.
+
+00:17:25.666 --> 00:17:29.633
+In this case, the easiest way
+is to use tables.
+
+00:17:29.666 --> 00:17:33.200
+This is where you decide
+on your uncertainty.
+
+00:17:33.233 --> 00:17:35.633
+Include this
+in your results tables
+
+00:17:35.666 --> 00:17:39.233
+along with a sentence
+justifying your choice.
+
+00:17:39.266 --> 00:17:41.233
+There's no mysteries about this.
+
+00:17:41.266 --> 00:17:42.566
+It will usually be based
+
+00:17:42.600 --> 00:17:45.833
+on the range of results
+you recorded.
+
+00:17:52.433 --> 00:17:55.600
+Next is the analysis.
+
+00:17:55.633 --> 00:17:57.600
+This is where you use
+your results
+
+00:17:57.633 --> 00:18:01.933
+to draw your graphs,
+calculate gradients, and so on.
+
+00:18:01.966 --> 00:18:04.100
+You should also describe here
+
+00:18:04.133 --> 00:18:07.400
+the final relationship
+you arrived at.
+
+00:18:14.333 --> 00:18:17.233
+After your analysis
+is the discussion.
+
+00:18:17.266 --> 00:18:20.600
+This outlines issues
+arising from your experiment,
+
+00:18:20.633 --> 00:18:23.633
+such as any problems
+you encountered,
+
+00:18:23.666 --> 00:18:26.666
+how you could have reduced
+your uncertainty,
+
+00:18:26.700 --> 00:18:30.330
+and suggestions
+for a better approach.
+
+00:18:30.660 --> 00:18:33.433
+This section is sometimes
+called evaluation.
+
+00:18:40.533 --> 00:18:43.266
+Finally, you need a conclusion.
+
+00:18:43.300 --> 00:18:46.566
+Don't feel like this has to say
+something totally new.
+
+00:18:46.600 --> 00:18:47.866
+It doesn't.
+
+00:18:47.900 --> 00:18:50.633
+The important thing
+is that it answers the question
+
+00:18:50.666 --> 00:18:52.266
+posed in the aim.
+
+00:18:52.300 --> 00:18:54.566
+In this case,
+it states the relationship
+
+00:18:54.600 --> 00:18:57.100
+that you have discovered.
+
+00:18:57.133 --> 00:18:59.660
+Most of the relationships
+you encounter
+
+00:18:59.100 --> 00:19:00.633
+in your study of physics
+
+00:19:00.666 --> 00:19:03.700
+were found by a process
+like the one we've explored
+
+00:19:03.733 --> 00:19:05.466
+in this program.
+
+00:19:05.500 --> 00:19:08.333
+If you continue on
+into scientific research,
+
+00:19:08.366 --> 00:19:10.500
+we hope your life
+of experimentation
+
+00:19:10.533 --> 00:19:13.200
+is exciting and fruitful.
+
+00:19:20.330 --> 00:19:21.330
+- Ready?
+
+00:19:21.660 --> 00:19:24.660
+[laughter]
+
+00:19:26.400 --> 00:19:27.766
+- Sorry.
+- Yeah, that's not--
+
+00:19:27.800 --> 00:19:29.200
+No, that's not
+what I've been doing.
+
+00:19:29.233 --> 00:19:32.933
+Three, two, one. Go.
+Is that right?
+
+00:19:32.966 --> 00:19:34.700
+- Yeah, that's what
+I've been doing when it--
+
+00:19:34.733 --> 00:19:35.866
+just when starts coming down.
+
+00:19:35.900 --> 00:19:37.660
+- Oh, okay.
+Then we'll do that.
+
+00:19:37.100 --> 00:19:38.433
+I've been doing the other one.
+
+00:19:38.466 --> 00:19:39.666
+- Which one have you been doing?
+
+00:19:39.700 --> 00:19:41.266
+- The--it goes up.
+
+00:19:41.300 --> 00:19:42.666
+When it goes up.
+
+00:19:42.700 --> 00:19:45.100
+- Would you--I'm just doing it
+when it reaches the top,
+
+00:19:45.133 --> 00:19:47.100
+when it's at the top.
+
+00:19:47.133 --> 00:19:49.566
+- You're confusing me.
